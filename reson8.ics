@@ -196,165 +196,6 @@ TZOFFSETFROM:-0700
 TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-CREATED:20250124T165741Z
-DTEND;TZID=America/Los_Angeles:20250128T090000
-DTSTAMP:20250128T160007Z
-DTSTART;TZID=America/Los_Angeles:20250128T080000
-LAST-MODIFIED:20250128T160003Z
-SEQUENCE:0
-SUMMARY:RESON8 CALL WITH DANTE AND ABHI
-UID:00C9074A-8C46-4D1B-9006-AD0FF1EB5080
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=renato.cipriano@sonicarts.art;CUTYPE=INDIVIDUAL;EMAIL=renato.
- cipriano@sonicarts.art;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:renato.cipriano@sonicarts.
- art
-CREATED:20250320T200523Z
-DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
- oin Zoom Meeting\nhttps://us02web.zoom.us/j/86238635384\n\nMeeting ID: 8
- 62 3863 5384\n\n---\n\nOne tap mobile\n+16694449171\,\,86238635384# US\n
- +16699006833\,\,86238635384# US (San Jose)\n\n---\n\nDial by your locati
- on\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 253 205 
- 0468 US\n• +1 253 215 8782 US (Tacoma)\n• +1 346 248 7799 US (Houston)\n
- • +1 719 359 4580 US\n• +1 301 715 8592 US (Washington DC)\n• +1 305 224
-  1968 US\n• +1 309 205 3325 US\n• +1 312 626 6799 US (Chicago)\n• +1 360
-  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 646 931 3860 US\n• +1 689 278 1000 US\n• +1 929 205 6099 US
-  (New York)\n\nMeeting ID: 862 3863 5384\n\nFind your local number: http
- s://us02web.zoom.us/u/kdYuOdZ24y\n\n
-DTEND;TZID=America/Los_Angeles:20250324T103000
-DTSTAMP:20250324T164544Z
-DTSTART;TZID=America/Los_Angeles:20250324T100000
-LAST-MODIFIED:20250324T164544Z
-LOCATION:https://us02web.zoom.us/j/86238635384
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Renato - RESON8 
-UID:014D21E1-BA16-4C0C-B9C0-D4AF6F5BA24F
-URL;VALUE=URI:https://us02web.zoom.us/j/86238635384
-X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
-X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
-X-MICROSOFT-CDO-OWNERAPPTID:194201115
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20251202T171418Z
-DTEND;TZID=America/Los_Angeles:20251209T143000
-DTSTAMP:20251209T205222Z
-DTSTART;TZID=America/Los_Angeles:20251209T133000
-LAST-MODIFIED:20251209T205222Z
-LOCATION:360 N Bedford Dr\, Beverly Hills\, CA 90210
-SEQUENCE:0
-SUMMARY:Sydenham Clinic Meeting
-UID:027490BE-ABB7-43D0-A0F7-89296E2C44F1
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESqgII2TIaE
- gnduvZgrQhBQBGRHPo45JldwCKVAQoNVW5pdGVkIFN0YXRlcxICVVMaCkNhbGlmb3JuaWEiA
- kNBKhJMb3MgQW5nZWxlcyBDb3VudHkyDUJldmVybHkgSGlsbHM6BTkwMjEwQg9Hb2xkZW4gV
- HJpYW5nbGVSDE4gQmVkZm9yZCBEcloDMzYwYhAzNjAgTiBCZWRmb3JkIERyigEPR29sZGVuI
- FRyaWFuZ2xlKhAzNjAgTiBCZWRmb3JkIERyMhAzNjAgTiBCZWRmb3JkIERyMhhCZXZlcmx5I
- EhpbGxzLCBDQSAgOTAyMTAyDVVuaXRlZCBTdGF0ZXM4OUAAUAFaJgokEhIJ3br2YK0IQUARk
- Rz6OOSZXcAY2TIg5PfO8PKjzvZZkAMB;X-APPLE-RADIUS=70.58730225293674;X-APPLE
- -REFERENCEFRAME=1;X-TITLE="360 N Bedford Dr, Beverly Hills, CA 90210":ge
- o:34.067791,-118.404555
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20241209T004334Z
-DTEND;TZID=America/Los_Angeles:20241210T100000
-DTSTAMP:20241210T160250Z
-DTSTART;TZID=America/Los_Angeles:20241210T090000
-LAST-MODIFIED:20241210T160250Z
-SEQUENCE:1
-SUMMARY:RESON8 CALL WITH GAGIK AND ABHISHEK TBC
-UID:03A25CC4-6CCB-4B9B-AA22-87919ECDFE0C
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :Basit.Altaf@dwtc.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
- mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
- ____________________________________\nMicrosoft Teams meeting\nJoin: htt
- ps://teams.microsoft.com/meet/37710040565906?p=o510C9G2HnWcG2WPSX\nMeeti
- ng ID: 377 100 405 659 06\nPasscode: GN3ZY65x\n_________________________
- _______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System
-  reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE4N2
- E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz%40thread.v2/0?context=%7b%22T
- id%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%2c%22Oid%22%3a%2287c6
- fee7-ef54-4f50-b904-526097756c48%22%7d>\nDial in by phone\n+44 20 7660 8
- 997\,\,949569319#<tel:+442076608997\,\,949569319> United Kingdom\, City 
- of London\nFind a local number<https://dialin.teams.microsoft.com/3b8b98
- b5-aad7-4c6b-8f54-159bf6625515?id=949569319>\nPhone conference ID: 949 5
- 69 319#\nFor organizers: Meeting options<https://teams.microsoft.com/mee
- tingOptions/?organizerId=87c6fee7-ef54-4f50-b904-526097756c48&tenantId=7
- f989d2d-1b24-46ff-a392-b12e65d6391c&threadId=19_meeting_NzE4N2E4OGYtODg2
- MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz@thread.v2&messageId=0&language=en-US> |
-  Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferenci
- ng>\n___________________________________________________________________
- _____________\n\n
-DTEND;TZID=Asia/Baku:20260305T220000
-DTSTAMP:20260305T173150Z
-DTSTART;TZID=Asia/Baku:20260305T213000
-LAST-MODIFIED:20260305T173148Z
-LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
- :mailto:Aster.Duflou@dwtc.com
-PRIORITY:5
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:RESON8 x Dubai Call 
-UID:040000008200E00074C5B7101A82E0080000000000440DABB1A5DC010000000000000
- 000100000000B6ED7FDFE3DFD42A08E3C6562A65822
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:704129002
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
- cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
- LocationUri" : "" } ]
-X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
- ineMeetingProvider":3}
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
- oft.com/teams/7f989d2d-1b24-46ff-a392-b12e65d6391c/87c6fee7-ef54-4f50-b9
- 04-526097756c48/19_meeting_NzE4N2E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1Z
- WYz@thread.v2/0
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_NzE4N2E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz%40thread
- .v2/0?context=%7b%22Tid%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%
- 2c%22Oid%22%3a%2287c6fee7-ef54-4f50-b904-526097756c48%22%7d
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NzE4N2E4OGYtODg2MC00N
- zdhLTk1NTQtZjVmMGY5MGM1ZWYz@thread.v2"\,"private":true\,"type":0\,"mid":
- 0\,"rid":0\,"uid":null}
-END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Baku
 X-LIC-LOCATION:Asia/Baku
@@ -465,57 +306,6 @@ TZOFFSETFROM:+0500
 TZOFFSETTO:+0400
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image001.png@01DC9783.ADBC48E0
-ATTENDEE;CN=Dae Ha;CUTYPE=UNKNOWN;EMAIL=Dae.Ha@aclimited.com;PARTSTAT=NEE
- DS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Dae.
- Ha@aclimited.com
-ATTENDEE;CN=Hisham Sherif;CUTYPE=UNKNOWN;EMAIL=Hisham.Sherif@aclimited.co
- m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
- NE:mailto:Hisham.Sherif@aclimited.com
-ATTENDEE;CN=Megan Lyall;CUTYPE=UNKNOWN;EMAIL=megan.lyall@aclimited.com;PA
- RTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:m
- ailto:megan.lyall@aclimited.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:[cid:image001.png@01DC9783.ADBC48E0]\n________
- ________________________\nThe information in this email is intended only
-  for the person(s) or entity to whom it is addressed and may contain con
- fidential or privileged information. If you receive this email by error\
- , please notify us immediately\, delete the original message and do not 
- disclose the contents to any other person\, use or store or copy the inf
- ormation in any medium and for whatever purpose. Any unauthorized use is
-  strictly prohibited.\n________________________________\n
-DTEND;TZID=Asia/Dubai:20260213T133000
-DTSTAMP:20260210T104439Z
-DTSTART;TZID=Asia/Dubai:20260213T123000
-LAST-MODIFIED:20260210T072423Z
-LOCATION;LANGUAGE=en-US:LPM (La Petite Maison) - Gate Village No\, 8\, DI
- FC\, Dubai
-ORGANIZER;CN=Jewel Concordia;EMAIL=jewel.concordia@aclimited.com;SCHEDULE
- -AGENT=NONE:mailto:jewel.concordia@aclimited.com
-PRIORITY:5
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:[Lunch]: AC Limited & Reson8
-UID:040000008200E00074C5B7101A82E0080000000000C6A18A8397DC010000000000000
- 00010000000A668BB567C5A3A449C2D613EA39EC9D0
-X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:2043029482
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "LPM (La Petite Maison) - Gate 
- Village No\, 8\, DIFC\, Dubai"\, "LocationAnnotation" : ""\, "Unresolved
- " : false\, "LocationUri" : "" } ]
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Dubai
 X-LIC-LOCATION:Asia/Dubai
@@ -527,228 +317,6 @@ TZOFFSETFROM:+034112
 TZOFFSETTO:+0400
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-ATTENDEE;CN=Brett Johnson;CUTYPE=UNKNOWN;EMAIL=brett@benevolentcapital.co
- m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
- NE:mailto:brett@benevolentcapital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:Overview:\n\n  *\nScott Cohen introduced Marc 
- Benardout to Brett Johnson after learning more about Marc’s company and 
- work.\n  *\nMarc Benardout and Nicolas Rosen are founders of The Reson8 
- Frequency System\, a company focused on longevity and health technologie
- s based in the Los Angeles area.\n  *\nScott noted the company has early
-  adoption from Premier League teams as part of sports medicine initiativ
- es and support from major figures in music\, including Ed Sheeran.\n  *\
- nScott believed the introduction was relevant given Brett’s involvement 
- in soccer\, including Ipswich Town.\n  *\nMarc is also involved with the
-  USL franchise in Orange County\, which connects with Brett’s role as a 
- founder of Phoenix Rising FC.\n  *\nScott suggested there may be multipl
- e opportunities for collaboration across sports\, health technology\, an
- d international markets in both the U.S. and the U.K.\n\nZoom details\nh
- ttps://us02web.zoom.us/j/9253487569?pwd=QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09
- \nMeeting ID: 925 348 7569\nPasscode: 8Z6cj6\n\nDial in number:\n+168927
- 81000 US\nPasscode: 696780\n
-DTEND;TZID=America/Los_Angeles:20260416T090000
-DTSTAMP:20260416T143935Z
-DTSTART;TZID=America/Los_Angeles:20260416T083000
-LAST-MODIFIED:20260416T143932Z
-LOCATION;LANGUAGE=en-US:https://us02web.zoom.us/j/9253487569?pwd=QTdPR0Ur
- MWMvZ2FVQ0tGM1luUWlLUT09
-ORGANIZER;CN=Alli Tan;EMAIL=ea@benevolentcapital.com;SCHEDULE-AGENT=CLIEN
- T:mailto:ea@benevolentcapital.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:Marc Benardout / Brett Johnson
-UID:040000008200E00074C5B7101A82E008000000000D2F6CC593B5DC010000000000000
- 00010000000C3226AB70019744DA4FE30675AA706A4
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:2124645365
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONDISPLAYNAME:https://us02web.zoom.us/j/9253487569?pwd=
- QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://us02web.zoom.us/j/92534875
- 69?pwd=QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09"\,"LocationAnnotation":""\,"Loca
- tionUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\
- ,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""
- }]
-X-MICROSOFT-LOCATIONSOURCE:None
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout & Nic Rosen;CUTYPE=UNKNOWN;EMAIL=marc.benardou
- t@me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mail
- to:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@
- gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:nickrosenmusic@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:Event Name\nCall with Scott/Relevant: 30-Min (
- Partners)\n\nNeed to make changes to this event?\nCancel: https://calend
- ly.com/cancellations/d865ae92-91d3-4cb4-b99a-c2796e779eb5\nReschedule: h
- ttps://calendly.com/reschedulings/d865ae92-91d3-4cb4-b99a-c2796e779eb5\n
- \nPowered by Calendly https://calendly.com/\n\n_________________________
- _______________________________________________________\nMicrosoft Teams
-  Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meetin
- g now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNkZmFlNWE
- tNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy%40thread.v2/0?context=%7b%22Tid%22
- %3a%22a4bf087a-aa11-4c4f-a59c-bff7b92ed79e%22%2c%22Oid%22%3a%22cf1cc3de-
- c329-4bb9-9263-9e6183534b14%22%7d>\nMeeting ID: 294 274 472 872 1\nPassc
- ode: 5ox9qv3H\n________________________________\nFor organizers: Meeting
-  options<https://teams.microsoft.com/meetingOptions/?organizerId=cf1cc3d
- e-c329-4bb9-9263-9e6183534b14&tenantId=a4bf087a-aa11-4c4f-a59c-bff7b92ed
- 79e&threadId=19_meeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy
- @thread.v2&messageId=0&language=en-US>\n________________________________
- ________________________________________________\n
-DTEND;TZID=America/Los_Angeles:20250819T163000
-DTSTAMP:20250819T230123Z
-DTSTART;TZID=America/Los_Angeles:20250819T160000
-LAST-MODIFIED:20250819T230122Z
-LOCATION;LANGUAGE=en-US:https://calendly.com/events/7a332106-ebe5-4c34-b9
- e6-8372399b2b13/microsoft_teams
-ORGANIZER;CN=Scott Barrack;EMAIL=scott@relevantpartners.com;SCHEDULE-AGEN
- T=CLIENT:mailto:scott@relevantpartners.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:Marc Benardout & Nic Rosen and Scott Barrack
-UID:040000008200E00074C5B7101A82E0080000000011FCF732150BDC010000000000000
- 00010000000DF987948B052BC44B84C6D14A9C8BA50
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:2123914810
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONDISPLAYNAME:https://calendly.com/events/7a332106-ebe5
- -4c34-b9e6-8372399b2b13/microsoft_teams
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://calendly.com/events/7a3321
- 06-ebe5-4c34-b9e6-8372399b2b13/microsoft_teams"\,"LocationAnnotation":""
- \,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSta
- te":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddr
- ess":""}]
-X-MICROSOFT-LOCATIONSOURCE:None
-X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
- ineMeetingProvider":3}
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
- oft.com/teams/a4bf087a-aa11-4c4f-a59c-bff7b92ed79e/cf1cc3de-c329-4bb9-92
- 63-9e6183534b14/19_meeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyY
- WQy@thread.v2/0
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy%40thread
- .v2/0?context=%7b%22Tid%22%3a%22a4bf087a-aa11-4c4f-a59c-bff7b92ed79e%22%
- 2c%22Oid%22%3a%22cf1cc3de-c329-4bb9-9263-9e6183534b14%22%7d
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGNkZmFlNWEtNTliMS00M
- Tg2LWIxN2UtNGYyM2JmMWEyYWQy@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"p
- rivate":true\,"type":0}
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :Basit.Altaf@dwtc.com
-ATTENDEE;CN=Marc Benardout;CUTYPE=UNKNOWN;EMAIL=marc@reson8frequency.com;
- PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:marc@reson8frequency.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nick@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nick@reson8frequency.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
- mailto:nickrosenmusic@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
- ____________________________________\nMicrosoft Teams meeting\nJoin: htt
- ps://teams.microsoft.com/meet/38793640243755?p=1hGvj7tSQSn40xU7BT\nMeeti
- ng ID: 387 936 402 437 55\nPasscode: y3vr2X3N\n_________________________
- _______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System
-  reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM3Zj
- NkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm%40thread.v2/0?context=%7b%22T
- id%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%2c%22Oid%22%3a%2287c6
- fee7-ef54-4f50-b904-526097756c48%22%7d>\nDial in by phone\n+44 20 7660 8
- 997\,\,609594134#<tel:+442076608997\,\,609594134> United Kingdom\, City 
- of London\nFind a local number<https://dialin.teams.microsoft.com/3b8b98
- b5-aad7-4c6b-8f54-159bf6625515?id=609594134>\nPhone conference ID: 609 5
- 94 134#\nFor organizers: Meeting options<https://teams.microsoft.com/mee
- tingOptions/?organizerId=87c6fee7-ef54-4f50-b904-526097756c48&tenantId=7
- f989d2d-1b24-46ff-a392-b12e65d6391c&threadId=19_meeting_MGM3ZjNkZDktNWIw
- MS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm@thread.v2&messageId=0&language=en-US> |
-  Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferenci
- ng>\n___________________________________________________________________
- _____________\n\n
-DTEND;TZID=Asia/Baku:20260409T194500
-DTSTAMP:20260409T154056Z
-DTSTART;TZID=Asia/Baku:20260409T190000
-LAST-MODIFIED:20260409T154055Z
-LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
- :mailto:Aster.Duflou@dwtc.com
-PRIORITY:5
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:Reson8 x Dubai | Follow-up
-UID:040000008200E00074C5B7101A82E0080000000020D5E0F034BCDC010000000000000
- 000100000008351770D58217445A5A6FB6A591E7194
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:1335441386
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
- cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
- LocationUri" : "" } ]
-X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
- ineMeetingProvider":3}
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
- oft.com/teams/7f989d2d-1b24-46ff-a392-b12e65d6391c/87c6fee7-ef54-4f50-b9
- 04-526097756c48/19_meeting_MGM3ZjNkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3Z
- DFm@thread.v2/0
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_MGM3ZjNkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm%40thread
- .v2/0?context=%7b%22Tid%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%
- 2c%22Oid%22%3a%2287c6fee7-ef54-4f50-b904-526097756c48%22%7d
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGM3ZjNkZDktNWIwMS00Z
- GUyLWFlYjEtMTYwNzQ3NzU3ZDFm@thread.v2"\,"private":true\,"type":0\,"mid":
- 0\,"rid":0\,"uid":null}
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-CREATED:20250430T142745Z
-DTEND;TZID=Asia/Jerusalem:20250506T210000
-DTSTAMP:20250506T174342Z
-DTSTART;TZID=Asia/Jerusalem:20250506T200000
-LAST-MODIFIED:20250506T174338Z
-ORGANIZER;EMAIL=tomer.avshalom@gmail.com;SCHEDULE-AGENT=CLIENT:mailto:tom
- er.avshalom@gmail.com
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tomer - Marc and Nick intro
-UID:040000008200E00074C5B7101A82E00800000000428B4209DCB9DB010000000000000
- 000100000002B0DF4DCC6D6BA4AA850D7CCDBDAFD59
-X-MICROSOFT-CDO-OWNERAPPTID:-727329326
-END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Jerusalem
 X-LIC-LOCATION:Asia/Jerusalem
@@ -912,126 +480,6 @@ TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-ATTENDEE;CN='Curtis Estes';CUTYPE=UNKNOWN;EMAIL=curtis.estes@nm.com;PARTS
- TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
- to:curtis.estes@nm.com
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-ATTENDEE;CN=Tim Voorhees;CUTYPE=UNKNOWN;EMAIL=Tim@vfos.com;PARTSTAT=NEEDS
- -ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Tim@vf
- os.com
-ATTENDEE;CN=troy.watters@nm.com;CUTYPE=UNKNOWN;EMAIL=troy.watters@nm.com;
- PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:troy.watters@nm.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:P-Zoom – Introduction - Marc\, Nick\, Curtis\,
-  Troy & Tim\nL-(fos)  https://us06web.zoom.us/j/88908217920  Meeting ID:
-  889 0821 7920\nA-Marc Benardout\, Nick Rosen\, Troy Watters\, Curtis Es
- tes\, Tim Voorhees (Host)\nT- Sep 2\, 2025\, 10:00 AM – 10:30 AM (PDT)\n
- S-Introduction\nS-Scheduled by Janie Harriman on behalf of Tim Voorhees 
- (Host)\n\n\nOne tap mobile\n+13017158592\,\,88908217920# US (Washington 
- DC)\n+13052241968\,\,88908217920# US\n\nJoin instructions\nhttps://us06w
- eb.zoom.us/meetings/88908217920/invitations?signature=fXLHXai-fKWL8tdU3d
- K46ryg606Q6wiUJ8bUSYCoW14\n
-DTEND;TZID=America/Los_Angeles:20250902T103000
-DTSTAMP:20250902T160405Z
-DTSTART;TZID=America/Los_Angeles:20250902T100000
-LAST-MODIFIED:20250902T160404Z
-LOCATION;LANGUAGE=en-US:(fos)  https://us06web.zoom.us/j/88908217920  Mee
- ting ID: 889 0821 7920
-ORGANIZER;CN=Tim Voorhees;EMAIL=Tim@vfos.com;SCHEDULE-AGENT=CLIENT;SENT-B
- Y="mailto:Janie.Harriman@vfos.com":mailto:Tim@vfos.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:Zoom – Introduction - Marc\, Nick\, Curtis\, Troy 
- & Tim
-UID:040000008200E00074C5B7101A82E00800000000607DADFFD40DDC010000000000000
- 00010000000C486B86446E20D41813FE68FD2900024
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:1297057769
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "(fos)  https://us06web.zoom.us
- /j/88908217920  Meeting ID: 889 0821 7920"\, "LocationAnnotation" : ""\,
-  "LocationSource" : 0\, "Unresolved" : true\, "LocationUri" : "" } ]
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Emmanuelle Meuillet;CUTYPE=UNKNOWN;EMAIL=e.meuillet@mvtpharma
- .com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT
- =NONE:mailto:e.meuillet@mvtpharma.com
-ATTENDEE;CN=Evan Unger;CUTYPE=UNKNOWN;EMAIL=e.unger@mvtpharma.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :e.unger@mvtpharma.com
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
- ____________________________________\nMicrosoft Teams Need help?<https:/
- /aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meeting now<https://teams
- .microsoft.com/l/meetup-join/19%3ameeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2
- QtOGIwZmU0MTJlMzU5%40thread.v2/0?context=%7b%22Tid%22%3a%22409d163a-fe69
- -4253-a296-2e13f4b4221f%22%2c%22Oid%22%3a%2275efebfb-c6c4-45a5-8408-b706
- bc98eb6a%22%7d>\nMeeting ID: 214 266 883 165\nPasscode: QL7in93G\n______
- __________________________\nFor organizers: Meeting options<https://team
- s.microsoft.com/meetingOptions/?organizerId=75efebfb-c6c4-45a5-8408-b706
- bc98eb6a&tenantId=409d163a-fe69-4253-a296-2e13f4b4221f&threadId=19_meeti
- ng_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlMzU5@thread.v2&messageId=
- 0&language=en-US>\n_____________________________________________________
- ___________________________\n\n
-DTEND;TZID=America/Phoenix:20251003T163000
-DTSTAMP:20251002T150113Z
-DTSTART;TZID=America/Phoenix:20251003T160000
-LAST-MODIFIED:20251002T150113Z
-LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Emmanuelle Meuillet;EMAIL=e.meuillet@mvtpharma.com;SCHEDULE-
- AGENT=CLIENT:mailto:e.meuillet@mvtpharma.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:MVT_Pepperdine Followup
-UID:040000008200E00074C5B7101A82E008000000006080386D7233DC010000000000000
- 000100000001AD765C9C9642C47949FD9CA3EC2159B
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:-270358551
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
- cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
- LocationUri" : "" } ]
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
- oft.com/teams/409d163a-fe69-4253-a296-2e13f4b4221f/75efebfb-c6c4-45a5-84
- 08-b706bc98eb6a/19_meeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlM
- zU5@thread.v2/0
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlMzU5%40thread
- .v2/0?context=%7b%22Tid%22%3a%22409d163a-fe69-4253-a296-2e13f4b4221f%22%
- 2c%22Oid%22%3a%2275efebfb-c6c4-45a5-8408-b706bc98eb6a%22%7d
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NDIyNTdiZTYtOTk1Mi00M
- DQ0LWE5Y2QtOGIwZmU0MTJlMzU5@thread.v2"\,"private":true\,"type":0\,"mid":
- 0\,"rid":0\,"uid":null}
-END:VEVENT
 BEGIN:VTIMEZONE
 TZID:America/Phoenix
 X-LIC-LOCATION:America/Phoenix
@@ -1089,177 +537,6 @@ TZOFFSETFROM:-0700
 TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-CLASS:PUBLIC
-DESCRIPTION;LANGUAGE=en-US:Roger Lee is inviting you to a scheduled Zoom 
- meeting.\nJoin Zoom Meeting\nhttps://stubbsalderton.zoom.us/j/8844750104
- 5?pwd=eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1\n\nMeeting ID: 884 4750 1045\nPas
- scode: 772102\n\n---\n\nOne tap mobile\n+12133388477\,\,88447501045# US 
- (Los Angeles)\n+19292056099\,\,88447501045# US (New York)\n\n---\n\nDial
-  by your location\n• +1 213 338 8477 US (Los Angeles)\n• +1 929 205 6099
-  US (New York)\n• +1 301 715 8592 US (Washington DC)\n• +1 564 217 2000 
- US\n• +1 689 278 1000 US\n• +32 2 788 0173 Belgium\n• +32 1579 5132 Belg
- ium\n• +32 2 290 9360 Belgium\n• +32 2 585 5574 Belgium\n• +32 2 588 418
- 8 Belgium\n• +32 2 788 0172 Belgium\n• +359 3 257 1633 Bulgaria\n• +359 
- 2 492 5688 Bulgaria\n• +1 780 666 0144 Canada\n• +1 204 272 7920 Canada\
- n• +1 438 809 7799 Canada\n• +1 587 328 1099 Canada\n• +1 647 374 4685 C
- anada\n• +1 647 558 0588 Canada\n• +1 778 907 2071 Canada\n• +385 1777 6
- 333 Croatia\n• +385 1300 0988 Croatia\n• +420 5 3889 0161 Czech Republic
- \n• +420 2 2888 2388 Czech Republic\n• +420 2 3901 8272 Czech Republic\n
- • +45 89 88 37 88 Denmark\n• +45 32 70 12 06 Denmark\n• +45 32 71 31 57 
- Denmark\n• +45 32 72 80 10 Denmark\n• +45 32 72 80 11 Denmark\n• +45 47 
- 37 25 75 Denmark\n• +372 880 1188 Estonia\n• +372 660 1699 Estonia\n• +3
- 58 9 7252 2471 Finland\n• +358 3 4109 2129 Finland\n• +358 9 4245 1488 F
- inland\n• +33 1 7037 2246 France\n• +33 1 7037 9729 France\n• +33 1 7095
-  0103 France\n• +33 1 7095 0350 France\n• +33 1 8699 5831 France\n• +49 
- 69 7104 9922 Germany\n• +49 69 3807 9883 Germany\n• +49 69 3807 9884 Ger
- many\n• +49 69 5050 0951 Germany\n• +49 69 5050 0952 Germany\n• +49 695 
- 050 2596 Germany\n• +30 231 118 0599 Greece\n• +30 211 198 4488 Greece\n
- • +36 1 779 9126 Hungary\n• +36 1 408 8456 Hungary\n• +36 1 701 0488 Hun
- gary\n• +39 069 480 6488 Italy\n• +39 020 066 7245 Italy\n• +39 021 241 
- 28 823 Italy\n• +371 6303 1888 Latvia\n• +371 6303 1808 Latvia\n• +370 5
- 214 1488 Lithuania\n• +370 3799 9260 Lithuania\n• +352 342 080 9265 Luxe
- mbourg\n• +352 2786 1188 Luxembourg\n• +352 2786 4277 Luxembourg\n• +31 
- 707 006 526 Netherlands\n• +31 20 241 0288 Netherlands\n• +31 20 794 085
- 4 Netherlands\n• +31 20 794 6519 Netherlands\n• +31 20 794 6520 Netherla
- nds\n• +31 20 794 7345 Netherlands\n• +47 2400 4736 Norway\n• +47 2400 4
- 735 Norway\n• +48 22 398 7356 Poland\n• +48 22 306 5342 Poland\n• +48 22
-  307 3488 Poland\n• +351 308 810 988 Portugal\n• +351 211 202 618 Portug
- al\n• +351 308 804 188 Portugal\n• +40 37 170 0418 Romania\n• +40 31 630
-  1088 Romania\n• +421 233 418 515 Slovakia\n• +421 233 056 888 Slovakia\
- n• +34 917 873 431 Spain\n• +34 84 368 5025 Spain\n• +34 91 787 0058 Spa
- in\n• +46 850 539 728 Sweden\n• +46 8 4468 2488 Sweden\n• +46 8 5016 382
- 7 Sweden\n• +46 8 5050 0828 Sweden\n• +46 8 5050 0829 Sweden\n• +46 8 50
- 52 0017 Sweden\n• +44 330 088 5830 United Kingdom\n• +44 131 460 1196 Un
- ited Kingdom\n• +44 203 481 5237 United Kingdom\n• +44 203 481 5240 Unit
- ed Kingdom\n• +44 203 901 7895 United Kingdom\n• +44 208 080 6591 United
-  Kingdom\n• +44 208 080 6592 United Kingdom\n\nMeeting ID: 884 4750 1045
- \n\nFind your local number: https://stubbsalderton.zoom.us/u/keCUf9BmC1\
- n\n\n
-DTEND;TZID=America/Los_Angeles:20241219T170000
-DTSTAMP:20241220T001736Z
-DTSTART;TZID=America/Los_Angeles:20241219T163000
-LAST-MODIFIED:20241220T001735Z
-LOCATION;LANGUAGE=en-US:https://stubbsalderton.zoom.us/j/88447501045?pwd=
- eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1
-ORGANIZER;CN=Roger Lee;EMAIL=rlee@stubbsalderton.com;SCHEDULE-AGENT=CLIEN
- T:mailto:rlee@stubbsalderton.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-US:Marc/Nic x Roger - Intro Call
-UID:040000008200E00074C5B7101A82E0080000000060ACF59E6C51DB010000000000000
- 00010000000D0E26DE375E42A43AA128FD616C823FF
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:-1305294872
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://stubbsalderton.zoom.us/j/8
- 8447501045?pwd=eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1"\,"LocationAnnotation":"
- "\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSt
- ate":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAdd
- ress":""}]
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN=Lesley Smit;CUTYPE=UNKNOWN;EMAIL=Lesley.Smit@goaco.com;PARTST
- AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
- o:Lesley.Smit@goaco.com
-ATTENDEE;CN=Sarah Kim;CUTYPE=UNKNOWN;EMAIL=sarah@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:sarah@reson8frequency.com
-CLASS:PRIVATE
-DESCRIPTION:\n___________________________________________________________
- _____________________\nMicrosoft Teams meeting\nJoin: https://teams.micr
- osoft.com/meet/352640267272911?p=bvvXoUReYnypfJSlDM\nMeeting ID: 352 640
-  267 272 911\nPasscode: B5Yi945M\n________________________________\nNeed
-  help?<https://aka.ms/JoinTeamsMeeting?omkt=en-GB> | System reference<ht
- tps://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg5YTU0ODktZjBiYi0
- 0YWIyLTlmZWItYWRhNjA2MzMzZDIz%40thread.v2/0?context=%7b%22Tid%22%3a%2267
- b4ecd2-df5b-4b66-8d2b-1203e33c7302%22%2c%22Oid%22%3a%22a1104093-9757-4cf
- c-b6b3-2c644b709e20%22%7d>\nFor organisers: Meeting options<https://team
- s.microsoft.com/meetingOptions/?organizerId=a1104093-9757-4cfc-b6b3-2c64
- 4b709e20&tenantId=67b4ecd2-df5b-4b66-8d2b-1203e33c7302&threadId=19_meeti
- ng_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZDIz@thread.v2&messageId=
- 0&language=en-GB>\nGoaco Group Ltd.\n___________________________________
- _____________________________________________\n\n\n[cid:goacologo_a4180d
- 03-091d-45a3-9c60-041d671eea76.png]\nFollow Us\n\n[cid:1_linkedin_7f9dc6
- 9a-c209-4bd8-97a5-6e19eb3e1423.png]<https://www.linkedin.com/company/goa
- co/>  [cid:1_facebook_6f64b5ee-a0ec-447e-aed8-e5455aeeeefd.png] <https:/
- /www.facebook.com/goacoglobal/>\n\n\n[cid:1_x_dcbacf0d-4e3b-449f-8c2e-ab
- 243a045add.png]<https://twitter.com/goacodigital>  [cid:1_youtube_2d5a5a
- 9f-9595-44c0-8ff3-878dcf37b6bd.png] <https://www.youtube.com/%40GoacoDig
- ital>   [cid:1_tiktok_56d5b488-6393-4da9-b40f-332c50c629b4.png] <https:/
- /www.tiktok.com/@goacodigital>   [cid:1_instagram_50cf7925-9639-43b0-a82
- b-97c44edfc81a.png] <https://www.instagram.com/goaco/>\n\n              
-   Gaurav Malhotra\n\nChief Executive Officer\n\n\nUK Mobile: +44 7861 70
- 5623\nUAE Mobile: +971 55 607 6572\nEmail: gaurav.malhotra@goaco.com<mai
- lto:gaurav.malhotra@goaco.com>\nUK Office: Kent Space Business Centre\, 
- Ebbsfleet\, DA11 8HJ\nDubai Office: Office 802\, 8th Floor\, Sheikh Rash
- id Tower\, Sheikh Zayed Rd\, Dubai\n<http://www.yourdomain.url/>Website:
-  www.goaco.com<https://goaco.com/>\n\nGlobal Locations: Kent - London - 
- Scotland - Dubai\n[cid:sundaytimesemailsignature-02_6244eed1-d209-45da-8
- 8e6-4530f07aa4dc.png]<https://goaco.com/insights/company-news/proud-to-b
- e-named-one-of-the-sunday-times-best-places-to-work-2025/>\n[cid:emailpa
- rtnerbanner2_b969cf83-ed97-41fb-9634-12cc125018e6.png]\n\nOur company is
-  fully GDPR-compliant. To learn more about how we comply with GDPR and\,
-  as a result\, care for the security and privacy of personal data we col
- lected from you\, visit this page<https://goaco.com/privacy-policy/>.\n
-DTEND;TZID=Europe/London:20260407T173000
-DTSTAMP:20260406T163842Z
-DTSTART;TZID=Europe/London:20260407T170000
-LAST-MODIFIED:20260405T223043Z
-LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
-ORGANIZER;CN=Gaurav Malhotra;EMAIL=gaurav.malhotra@goaco.com;SCHEDULE-AGE
- NT=NONE:mailto:gaurav.malhotra@goaco.com
-PRIORITY:5
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY;LANGUAGE=en-GB:Reson8 Requirements adjustments call
-UID:040000008200E00074C5B7101A82E0080000000077E662D54BC5DC010000000000000
- 0001000000080FF2A0CE6827F47808771E10D87435E
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-OWNERAPPTID:2124687690
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"Locatio
- nAnnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":"
- "\,"LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"L
- ocationFullAddress":""}]
-X-MICROSOFT-LOCATIONSOURCE:None
-X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
-X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
- ineMeetingProvider":3}
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
- oft.com/teams/67b4ecd2-df5b-4b66-8d2b-1203e33c7302/a1104093-9757-4cfc-b6
- b3-2c644b709e20/19_meeting_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZ
- DIz@thread.v2/0
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZDIz%40thread
- .v2/0?context=%7b%22Tid%22%3a%2267b4ecd2-df5b-4b66-8d2b-1203e33c7302%22%
- 2c%22Oid%22%3a%22a1104093-9757-4cfc-b6b3-2c644b709e20%22%7d
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDg5YTU0ODktZjBiYi00Y
- WIyLTlmZWItYWRhNjA2MzMzZDIz@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"p
- rivate":true\,"type":0}
-END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Europe/London
 X-LIC-LOCATION:Europe/London
@@ -1540,6 +817,2482 @@ TZOFFSETFROM:+0100
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:US/Central
+X-LIC-LOCATION:US/Central
+BEGIN:STANDARD
+DTSTART:18831118T120924
+RDATE:18831118T120924
+TZNAME:CST
+TZOFFSETFROM:-055036
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180331T020000
+RRULE:FREQ=YEARLY;UNTIL=19190330T080000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RRULE:FREQ=YEARLY;UNTIL=19191026T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19200101T000000
+RDATE:19200101T000000
+RDATE:19420101T000000
+RDATE:19460101T000000
+RDATE:19670101T000000
+TZNAME:CST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19200613T020000
+RDATE:19200613T020000
+RDATE:19210327T020000
+RDATE:19740106T020000
+RDATE:19750223T020000
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19201031T020000
+RRULE:FREQ=YEARLY;UNTIL=19211030T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19220430T020000
+RRULE:FREQ=YEARLY;UNTIL=19350428T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19220924T020000
+RRULE:FREQ=YEARLY;UNTIL=19350929T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19360301T020000
+RDATE:19360301T020000
+TZNAME:EST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19361115T020000
+RRULE:FREQ=YEARLY;UNTIL=19410928T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19370425T020000
+RRULE:FREQ=YEARLY;UNTIL=19410427T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19420209T020000
+RDATE:19420209T020000
+TZNAME:CWT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T180000
+RDATE:19450814T180000
+TZNAME:CPT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19450930T020000
+RDATE:19450930T020000
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19460428T020000
+RRULE:FREQ=YEARLY;UNTIL=19660424T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19460929T020000
+RRULE:FREQ=YEARLY;UNTIL=19540926T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19551030T020000
+RRULE:FREQ=YEARLY;UNTIL=19661030T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19670430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19671029T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19760425T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T080000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:US/Mountain
+X-LIC-LOCATION:US/Mountain
+BEGIN:STANDARD
+DTSTART:18831118T120004
+RDATE:18831118T120004
+RDATE:19200101T000000
+RDATE:19420101T000000
+RDATE:19460101T000000
+RDATE:19670101T000000
+TZNAME:MST
+TZOFFSETFROM:-065956
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180331T020000
+RRULE:FREQ=YEARLY;UNTIL=19190330T090000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RRULE:FREQ=YEARLY;UNTIL=19191026T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19200328T020000
+RRULE:FREQ=YEARLY;UNTIL=19210327T090000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19201031T020000
+RDATE:19201031T020000
+RDATE:19210522T020000
+RDATE:19450930T020000
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19420209T020000
+RDATE:19420209T020000
+TZNAME:MWT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T170000
+RDATE:19450814T170000
+TZNAME:MPT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19650425T020000
+RRULE:FREQ=YEARLY;UNTIL=19660424T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19651031T020000
+RRULE:FREQ=YEARLY;UNTIL=19661030T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19670430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19671029T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19740106T020000
+RDATE:19740106T020000
+RDATE:19750223T020000
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19760425T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T090000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Yerevan
+X-LIC-LOCATION:Asia/Yerevan
+BEGIN:STANDARD
+DTSTART:19240502T000000
+RDATE:19240502T000000
+TZNAME:+03
+TZOFFSETFROM:+0258
+TZOFFSETTO:+0300
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19570301T000000
+RDATE:19570301T000000
+TZNAME:+04/+05
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19810401T000000
+RRULE:FREQ=YEARLY;UNTIL=19840331T200000Z;BYMONTH=4
+TZNAME:+05
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19811001T000000
+RRULE:FREQ=YEARLY;UNTIL=19830930T190000Z;BYMONTH=10
+TZNAME:+04
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19840930T030000
+RRULE:FREQ=YEARLY;UNTIL=19900929T220000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:+04
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19850331T020000
+RRULE:FREQ=YEARLY;UNTIL=19900324T220000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:+05
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19910331T020000
+RDATE:19910331T020000
+TZNAME:+03/+04
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19910929T030000
+RRULE:FREQ=YEARLY;UNTIL=19940924T230000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:+03
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19920329T020000
+RRULE:FREQ=YEARLY;UNTIL=19950325T230000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:+04
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19950924T030000
+RDATE:19950924T030000
+RDATE:19970101T000000
+TZNAME:+04
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19970330T020000
+RRULE:FREQ=YEARLY;UNTIL=20100327T220000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:+05
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;UNTIL=20101030T220000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:+04
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20110101T000000
+RDATE:20110101T000000
+TZNAME:+04/+05
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20110327T020000
+RDATE:20110327T020000
+TZNAME:+05
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20111030T030000
+RDATE:20111030T030000
+TZNAME:+04
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Mexico_City
+X-LIC-LOCATION:America/Mexico_City
+BEGIN:STANDARD
+DTSTART:19220101T002324
+RDATE:19220101T002324
+TZNAME:MST
+TZOFFSETFROM:-063636
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19270610T230000
+RDATE:19270610T230000
+RDATE:19310501T230000
+RDATE:19320401T000000
+TZNAME:CST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19301115T000000
+RDATE:19301115T000000
+RDATE:19311001T000000
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19390205T000000
+RDATE:19390205T000000
+RDATE:19401209T000000
+RDATE:19500212T000000
+RDATE:20010506T020000
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19390625T000000
+RDATE:19390625T000000
+RDATE:19410401T000000
+RDATE:19440501T000000
+RDATE:19500730T000000
+RDATE:20010930T020000
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19431216T000000
+RDATE:19431216T000000
+TZNAME:CWT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19960407T020000
+RRULE:FREQ=YEARLY;UNTIL=20000402T080000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;UNTIL=20001029T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20020220T000000
+RDATE:20020220T000000
+TZNAME:CST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20020407T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20021027T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:18831118T120358
+RDATE:18831118T120358
+TZNAME:EST
+TZOFFSETFROM:-045602
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180331T020000
+RRULE:FREQ=YEARLY;UNTIL=19190330T070000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RRULE:FREQ=YEARLY;UNTIL=19191026T060000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19200101T000000
+RDATE:19200101T000000
+RDATE:19420101T000000
+RDATE:19460101T000000
+RDATE:19670101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19200328T020000
+RDATE:19200328T020000
+RDATE:19740106T020000
+RDATE:19750223T020000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19201031T020000
+RDATE:19201031T020000
+RDATE:19450930T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19210424T020000
+RRULE:FREQ=YEARLY;UNTIL=19410427T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19210925T020000
+RRULE:FREQ=YEARLY;UNTIL=19410928T060000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19420209T020000
+RDATE:19420209T020000
+TZNAME:EWT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T190000
+RDATE:19450814T190000
+TZNAME:EPT
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19460428T020000
+RRULE:FREQ=YEARLY;UNTIL=19660424T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19460929T020000
+RRULE:FREQ=YEARLY;UNTIL=19540926T060000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19551030T020000
+RRULE:FREQ=YEARLY;UNTIL=19661030T060000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19670430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19671029T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T060000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19760425T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T070000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:18831118T120004
+RDATE:18831118T120004
+RDATE:19200101T000000
+RDATE:19420101T000000
+RDATE:19460101T000000
+RDATE:19670101T000000
+TZNAME:MST
+TZOFFSETFROM:-065956
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180331T020000
+RRULE:FREQ=YEARLY;UNTIL=19190330T090000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RRULE:FREQ=YEARLY;UNTIL=19191026T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19200328T020000
+RRULE:FREQ=YEARLY;UNTIL=19210327T090000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19201031T020000
+RDATE:19201031T020000
+RDATE:19210522T020000
+RDATE:19450930T020000
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19420209T020000
+RDATE:19420209T020000
+TZNAME:MWT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T170000
+RDATE:19450814T170000
+TZNAME:MPT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19650425T020000
+RRULE:FREQ=YEARLY;UNTIL=19660424T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19651031T020000
+RRULE:FREQ=YEARLY;UNTIL=19661030T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19670430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19671029T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T080000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19740106T020000
+RDATE:19740106T020000
+RDATE:19750223T020000
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19760425T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T090000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T090000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Belgrade
+X-LIC-LOCATION:Europe/Belgrade
+BEGIN:STANDARD
+DTSTART:18840101T000000
+RDATE:18840101T000000
+TZNAME:CET
+TZOFFSETFROM:+0122
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19410418T230000
+RDATE:19410418T230000
+RDATE:19430329T020000
+RDATE:19440403T020000
+RDATE:19450508T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19421102T030000
+RDATE:19421102T030000
+RDATE:19431004T030000
+RDATE:19441002T030000
+RDATE:19450916T030000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19450101T000000
+RDATE:19450101T000000
+RDATE:19821127T000000
+TZNAME:CET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19830327T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19830925T030000
+RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:18950101T000000
+RDATE:18950101T000000
+TZNAME:EST
+TZOFFSETFROM:-051732
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180414T020000
+RDATE:19180414T020000
+RDATE:19190330T233000
+RDATE:19200502T020000
+RDATE:19210515T020000
+RDATE:19320501T020000
+RDATE:19460428T020000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RDATE:19181027T020000
+RDATE:19191026T000000
+RDATE:19200926T000000
+RDATE:19210915T020000
+RDATE:19331001T020000
+RDATE:19450930T020000
+RDATE:19460929T020000
+RDATE:19491127T000000
+RDATE:19501126T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19190101T000000
+RDATE:19190101T000000
+RDATE:19460101T000000
+RDATE:19740101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19220514T020000
+RRULE:FREQ=YEARLY;UNTIL=19230513T070000Z;BYMONTH=5;BYDAY=2SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19220917T020000
+RRULE:FREQ=YEARLY;UNTIL=19260919T060000Z;BYMONTH=9;BYDAY=3SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19240504T020000
+RRULE:FREQ=YEARLY;UNTIL=19270501T070000Z;BYMONTH=5;BYDAY=1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19270925T020000
+RRULE:FREQ=YEARLY;UNTIL=19320925T060000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19280429T020000
+RRULE:FREQ=YEARLY;UNTIL=19310426T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19330430T020000
+RRULE:FREQ=YEARLY;UNTIL=19400428T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19340930T020000
+RRULE:FREQ=YEARLY;UNTIL=19390924T060000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19420209T030000
+RDATE:19420209T030000
+TZNAME:EWT
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T190000
+RDATE:19450814T190000
+TZNAME:EPT
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19470427T000000
+RRULE:FREQ=YEARLY;UNTIL=19490424T050000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19470928T000000
+RRULE:FREQ=YEARLY;UNTIL=19480926T040000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19500430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19510930T020000
+RRULE:FREQ=YEARLY;UNTIL=19560930T060000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19571027T020000
+RRULE:FREQ=YEARLY;UNTIL=19731028T060000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19740428T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T070000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19741027T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T060000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T070000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:18930401T000000
+RDATE:18930401T000000
+TZNAME:CEST
+TZOFFSETFROM:+005328
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19160430T230000
+RDATE:19160430T230000
+RDATE:19400401T020000
+RDATE:19430329T020000
+RDATE:19460414T020000
+RDATE:19470406T030000
+RDATE:19480418T020000
+RDATE:19490410T020000
+RDATE:19800406T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19161001T010000
+RDATE:19161001T010000
+RDATE:19421102T030000
+RDATE:19431004T030000
+RDATE:19441002T030000
+RDATE:19451118T030000
+RDATE:19461007T030000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19170416T020000
+RRULE:FREQ=YEARLY;UNTIL=19180415T010000Z;BYMONTH=4;BYDAY=3MO
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19170917T030000
+RRULE:FREQ=YEARLY;UNTIL=19180916T010000Z;BYMONTH=9;BYDAY=3MO
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19440403T020000
+RRULE:FREQ=YEARLY;UNTIL=19450402T010000Z;BYMONTH=4;BYDAY=1MO
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450524T020000
+RDATE:19450524T020000
+RDATE:19470511T030000
+TZNAME:CEMT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450924T030000
+RDATE:19450924T030000
+RDATE:19470629T030000
+TZNAME:CEST
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19460101T000000
+RDATE:19460101T000000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19471005T030000
+RRULE:FREQ=YEARLY;UNTIL=19491002T010000Z;BYMONTH=10;BYDAY=1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19800101T000000
+RDATE:19800101T000000
+TZNAME:CET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19800928T030000
+RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:STANDARD
+DTSTART:19001231T234516
+RDATE:19001231T234516
+TZNAME:WEST
+TZOFFSETFROM:-001444
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180415T230000
+RDATE:19180415T230000
+RDATE:19190406T230000
+RDATE:19240416T230000
+RDATE:19260417T230000
+RDATE:19270409T230000
+RDATE:19280415T000000
+RDATE:19290420T230000
+RDATE:19370616T230000
+RDATE:19380402T230000
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181007T005959
+RRULE:FREQ=YEARLY;UNTIL=19191006T235959Z;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19241005T005959
+RDATE:19241005T005959
+RDATE:19371003T005959
+RDATE:19391008T005959
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19261003T005959
+RRULE:FREQ=YEARLY;UNTIL=19291005T235959Z;BYMONTH=10;BYMONTHDAY=2,3,4,5,6,
+ 7,8;BYDAY=SU
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19380430T230000
+RDATE:19380430T230000
+TZNAME:WEMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19381002T235959
+RDATE:19381002T235959
+TZNAME:WEST
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19400316T230000
+RDATE:19400316T230000
+TZNAME:CET
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19420502T230000
+RDATE:19420502T230000
+RDATE:19490430T230000
+RDATE:19760327T230000
+RDATE:19770402T230000
+RDATE:19780402T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19420901T010000
+RDATE:19420901T010000
+RDATE:19491002T010000
+RDATE:19781001T030000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19430417T230000
+RRULE:FREQ=YEARLY;UNTIL=19460413T220000Z;BYMONTH=4;BYMONTHDAY=13,14,15,16
+ ,17,18,19;BYDAY=SA
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19431003T010000
+RRULE:FREQ=YEARLY;UNTIL=19440930T230000Z;BYMONTH=10;BYDAY=1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19450930T010000
+RRULE:FREQ=YEARLY;UNTIL=19460928T230000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19740413T230000
+RRULE:FREQ=YEARLY;UNTIL=19750412T220000Z;BYMONTH=4;BYMONTHDAY=12,13,14,15
+ ,16,17,18;BYDAY=SA
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19741006T010000
+RRULE:FREQ=YEARLY;UNTIL=19751004T230000Z;BYMONTH=10;BYDAY=1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19760926T010000
+RRULE:FREQ=YEARLY;UNTIL=19770924T230000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19790101T000000
+RDATE:19790101T000000
+TZNAME:CET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19790401T020000
+RRULE:FREQ=YEARLY;UNTIL=19800406T010000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19790930T030000
+RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:STANDARD
+DTSTART:18660922T000000
+RDATE:18660922T000000
+TZNAME:RMT
+TZOFFSETFROM:+004956
+TZOFFSETTO:+004956
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:18931031T234956
+RDATE:18931031T234956
+TZNAME:CEST
+TZOFFSETFROM:+004956
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19160603T235959
+RDATE:19160603T235959
+RDATE:19170331T235959
+RDATE:19180309T235959
+RDATE:19190301T235959
+RDATE:19200320T235959
+RDATE:19400614T235959
+RDATE:19430329T020000
+RDATE:19440403T020000
+RDATE:19450402T020000
+RDATE:19460317T020000
+RDATE:19470316T000000
+RDATE:19480229T020000
+RDATE:19690601T000000
+RDATE:19700531T000000
+RDATE:19730603T000000
+RDATE:19740526T000000
+RDATE:19750601T000000
+RDATE:19760530T000000
+RDATE:19800406T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19160930T235959
+RRULE:FREQ=YEARLY;UNTIL=19170930T215959Z;BYMONTH=9
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19181006T235959
+RDATE:19181006T235959
+RDATE:19191004T235959
+RDATE:19200918T235959
+RDATE:19421102T030000
+RDATE:19431004T030000
+RDATE:19440917T030000
+RDATE:19450915T010000
+RDATE:19461006T030000
+RDATE:19471005T010000
+RDATE:19481003T030000
+RDATE:19660924T235959
+RDATE:19700927T010000
+RDATE:19710926T010000
+RDATE:19721001T010000
+RDATE:19781001T010000
+RDATE:19790930T010000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19430910T000000
+RDATE:19430910T000000
+RDATE:19440604T000000
+TZNAME:CEST
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19660522T000000
+RRULE:FREQ=YEARLY;UNTIL=19680525T230000Z;BYMONTH=5;BYDAY=4SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19670924T010000
+RRULE:FREQ=YEARLY;UNTIL=19690927T230000Z;BYMONTH=9;BYDAY=4SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19710523T000000
+RRULE:FREQ=YEARLY;UNTIL=19720527T230000Z;BYMONTH=5;BYDAY=4SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19730930T010000
+RRULE:FREQ=YEARLY;UNTIL=19740928T230000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19750928T010000
+RRULE:FREQ=YEARLY;UNTIL=19770924T230000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19770522T000000
+RRULE:FREQ=YEARLY;UNTIL=19790526T230000Z;BYMONTH=5;BYDAY=4SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19800101T000000
+RDATE:19800101T000000
+TZNAME:CET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19800928T030000
+RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:18831118T120924
+RDATE:18831118T120924
+TZNAME:CST
+TZOFFSETFROM:-055036
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19180331T020000
+RRULE:FREQ=YEARLY;UNTIL=19190330T080000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19181027T020000
+RRULE:FREQ=YEARLY;UNTIL=19191026T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19200101T000000
+RDATE:19200101T000000
+RDATE:19420101T000000
+RDATE:19460101T000000
+RDATE:19670101T000000
+TZNAME:CST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19200613T020000
+RDATE:19200613T020000
+RDATE:19210327T020000
+RDATE:19740106T020000
+RDATE:19750223T020000
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19201031T020000
+RRULE:FREQ=YEARLY;UNTIL=19211030T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19220430T020000
+RRULE:FREQ=YEARLY;UNTIL=19350428T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19220924T020000
+RRULE:FREQ=YEARLY;UNTIL=19350929T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19360301T020000
+RDATE:19360301T020000
+TZNAME:EST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19361115T020000
+RRULE:FREQ=YEARLY;UNTIL=19410928T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19370425T020000
+RRULE:FREQ=YEARLY;UNTIL=19410427T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19420209T020000
+RDATE:19420209T020000
+TZNAME:CWT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19450814T180000
+RDATE:19450814T180000
+TZNAME:CPT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19450930T020000
+RDATE:19450930T020000
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19460428T020000
+RRULE:FREQ=YEARLY;UNTIL=19660424T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19460929T020000
+RRULE:FREQ=YEARLY;UNTIL=19540926T070000Z;BYMONTH=9;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19551030T020000
+RRULE:FREQ=YEARLY;UNTIL=19661030T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19670430T020000
+RRULE:FREQ=YEARLY;UNTIL=19730429T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19671029T020000
+RRULE:FREQ=YEARLY;UNTIL=20061029T070000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19760425T020000
+RRULE:FREQ=YEARLY;UNTIL=19860427T080000Z;BYMONTH=4;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19870405T020000
+RRULE:FREQ=YEARLY;UNTIL=20060402T080000Z;BYMONTH=4;BYDAY=1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Africa/Blantyre
+X-LIC-LOCATION:Africa/Blantyre
+BEGIN:STANDARD
+DTSTART:19030301T000000
+RDATE:19030301T000000
+TZNAME:CAT
+TZOFFSETFROM:+021020
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Dublin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+DTSTART:19810329T010000
+TZNAME:GMT+1
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+DTSTART:19961027T020000
+TZNAME:GMT
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:18950201T000000
+RDATE:18950201T000000
+TZNAME:AEST
+TZOFFSETFROM:+093952
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19170101T000100
+RDATE:19170101T000100
+RDATE:19420101T020000
+RDATE:19420927T020000
+RDATE:19431003T020000
+RDATE:20000827T020000
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19170325T020000
+RDATE:19170325T020000
+RDATE:19420329T020000
+RDATE:19720227T030000
+RDATE:20060402T030000
+RDATE:20070325T030000
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19430328T020000
+RRULE:FREQ=YEARLY;UNTIL=19440325T150000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19710101T000000
+RDATE:19710101T000000
+TZNAME:AEST
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19711031T020000
+RRULE:FREQ=YEARLY;UNTIL=19851026T160000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19730304T030000
+RRULE:FREQ=YEARLY;UNTIL=19850302T160000Z;BYMONTH=3;BYDAY=1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19860316T030000
+RRULE:FREQ=YEARLY;UNTIL=19900317T160000Z;BYMONTH=3;BYDAY=3SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19861019T020000
+RRULE:FREQ=YEARLY;UNTIL=19871017T160000Z;BYMONTH=10;BYDAY=3SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:19881030T020000
+RRULE:FREQ=YEARLY;UNTIL=19991030T160000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19910303T030000
+RRULE:FREQ=YEARLY;UNTIL=19940305T160000Z;BYMONTH=3;BYDAY=1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:19950326T030000
+RRULE:FREQ=YEARLY;UNTIL=20050326T160000Z;BYMONTH=3;BYDAY=-1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20011028T020000
+RRULE:FREQ=YEARLY;UNTIL=20071027T160000Z;BYMONTH=10;BYDAY=-1SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20080406T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20081005T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20250124T165741Z
+DTEND;TZID=America/Los_Angeles:20250128T090000
+DTSTAMP:20250128T160007Z
+DTSTART;TZID=America/Los_Angeles:20250128T080000
+LAST-MODIFIED:20250128T160003Z
+SEQUENCE:0
+SUMMARY:RESON8 CALL WITH DANTE AND ABHI
+UID:00C9074A-8C46-4D1B-9006-AD0FF1EB5080
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
+ m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
+ -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
+ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
+ me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
+ GUESTS=0:mailto:marc.benardout@me.com
+ATTENDEE;CN=renato.cipriano@sonicarts.art;CUTYPE=INDIVIDUAL;EMAIL=renato.
+ cipriano@sonicarts.art;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
+ RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:renato.cipriano@sonicarts.
+ art
+CREATED:20250320T200523Z
+DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
+ oin Zoom Meeting\nhttps://us02web.zoom.us/j/86238635384\n\nMeeting ID: 8
+ 62 3863 5384\n\n---\n\nOne tap mobile\n+16694449171\,\,86238635384# US\n
+ +16699006833\,\,86238635384# US (San Jose)\n\n---\n\nDial by your locati
+ on\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 253 205 
+ 0468 US\n• +1 253 215 8782 US (Tacoma)\n• +1 346 248 7799 US (Houston)\n
+ • +1 719 359 4580 US\n• +1 301 715 8592 US (Washington DC)\n• +1 305 224
+  1968 US\n• +1 309 205 3325 US\n• +1 312 626 6799 US (Chicago)\n• +1 360
+  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
+ 000 US\n• +1 646 931 3860 US\n• +1 689 278 1000 US\n• +1 929 205 6099 US
+  (New York)\n\nMeeting ID: 862 3863 5384\n\nFind your local number: http
+ s://us02web.zoom.us/u/kdYuOdZ24y\n\n
+DTEND;TZID=America/Los_Angeles:20250324T103000
+DTSTAMP:20250324T164544Z
+DTSTART;TZID=America/Los_Angeles:20250324T100000
+LAST-MODIFIED:20250324T164544Z
+LOCATION:https://us02web.zoom.us/j/86238635384
+ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
+ CLIENT:mailto:nickrosenmusic@gmail.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Renato - RESON8 
+UID:014D21E1-BA16-4C0C-B9C0-D4AF6F5BA24F
+URL;VALUE=URI:https://us02web.zoom.us/j/86238635384
+X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
+X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
+X-MICROSOFT-CDO-OWNERAPPTID:194201115
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20251202T171418Z
+DTEND;TZID=America/Los_Angeles:20251209T143000
+DTSTAMP:20251209T205222Z
+DTSTART;TZID=America/Los_Angeles:20251209T133000
+LAST-MODIFIED:20251209T205222Z
+LOCATION:360 N Bedford Dr\, Beverly Hills\, CA 90210
+SEQUENCE:0
+SUMMARY:Sydenham Clinic Meeting
+UID:027490BE-ABB7-43D0-A0F7-89296E2C44F1
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESqgII2TIaE
+ gnduvZgrQhBQBGRHPo45JldwCKVAQoNVW5pdGVkIFN0YXRlcxICVVMaCkNhbGlmb3JuaWEiA
+ kNBKhJMb3MgQW5nZWxlcyBDb3VudHkyDUJldmVybHkgSGlsbHM6BTkwMjEwQg9Hb2xkZW4gV
+ HJpYW5nbGVSDE4gQmVkZm9yZCBEcloDMzYwYhAzNjAgTiBCZWRmb3JkIERyigEPR29sZGVuI
+ FRyaWFuZ2xlKhAzNjAgTiBCZWRmb3JkIERyMhAzNjAgTiBCZWRmb3JkIERyMhhCZXZlcmx5I
+ EhpbGxzLCBDQSAgOTAyMTAyDVVuaXRlZCBTdGF0ZXM4OUAAUAFaJgokEhIJ3br2YK0IQUARk
+ Rz6OOSZXcAY2TIg5PfO8PKjzvZZkAMB;X-APPLE-RADIUS=70.58730225293674;X-APPLE
+ -REFERENCEFRAME=1;X-TITLE="360 N Bedford Dr, Beverly Hills, CA 90210":ge
+ o:34.067791,-118.404555
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20241209T004334Z
+DTEND;TZID=America/Los_Angeles:20241210T100000
+DTSTAMP:20241210T160250Z
+DTSTART;TZID=America/Los_Angeles:20241210T090000
+LAST-MODIFIED:20241210T160250Z
+SEQUENCE:1
+SUMMARY:RESON8 CALL WITH GAGIK AND ABHISHEK TBC
+UID:03A25CC4-6CCB-4B9B-AA22-87919ECDFE0C
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
+ T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
+ :Basit.Altaf@dwtc.com
+ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
+ ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
+ mailto:nickrosenmusic@gmail.com
+ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
+ com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
+ rc.benardout@me.com
+ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
+ y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
+ E-AGENT=NONE:mailto:reson8frequency@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
+ ____________________________________\nMicrosoft Teams meeting\nJoin: htt
+ ps://teams.microsoft.com/meet/37710040565906?p=o510C9G2HnWcG2WPSX\nMeeti
+ ng ID: 377 100 405 659 06\nPasscode: GN3ZY65x\n_________________________
+ _______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System
+  reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE4N2
+ E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz%40thread.v2/0?context=%7b%22T
+ id%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%2c%22Oid%22%3a%2287c6
+ fee7-ef54-4f50-b904-526097756c48%22%7d>\nDial in by phone\n+44 20 7660 8
+ 997\,\,949569319#<tel:+442076608997\,\,949569319> United Kingdom\, City 
+ of London\nFind a local number<https://dialin.teams.microsoft.com/3b8b98
+ b5-aad7-4c6b-8f54-159bf6625515?id=949569319>\nPhone conference ID: 949 5
+ 69 319#\nFor organizers: Meeting options<https://teams.microsoft.com/mee
+ tingOptions/?organizerId=87c6fee7-ef54-4f50-b904-526097756c48&tenantId=7
+ f989d2d-1b24-46ff-a392-b12e65d6391c&threadId=19_meeting_NzE4N2E4OGYtODg2
+ MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz@thread.v2&messageId=0&language=en-US> |
+  Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferenci
+ ng>\n___________________________________________________________________
+ _____________\n\n
+DTEND;TZID=Asia/Baku:20260305T220000
+DTSTAMP:20260305T173150Z
+DTSTART;TZID=Asia/Baku:20260305T213000
+LAST-MODIFIED:20260305T173148Z
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
+ :mailto:Aster.Duflou@dwtc.com
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:RESON8 x Dubai Call 
+UID:040000008200E00074C5B7101A82E0080000000000440DABB1A5DC010000000000000
+ 000100000000B6ED7FDFE3DFD42A08E3C6562A65822
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:704129002
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
+ cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
+ LocationUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
+ ineMeetingProvider":3}
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
+ oft.com/teams/7f989d2d-1b24-46ff-a392-b12e65d6391c/87c6fee7-ef54-4f50-b9
+ 04-526097756c48/19_meeting_NzE4N2E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1Z
+ WYz@thread.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_NzE4N2E4OGYtODg2MC00NzdhLTk1NTQtZjVmMGY5MGM1ZWYz%40thread
+ .v2/0?context=%7b%22Tid%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%
+ 2c%22Oid%22%3a%2287c6fee7-ef54-4f50-b904-526097756c48%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NzE4N2E4OGYtODg2MC00N
+ zdhLTk1NTQtZjVmMGY5MGM1ZWYz@thread.v2"\,"private":true\,"type":0\,"mid":
+ 0\,"rid":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image001.png@01DC9783.ADBC48E0
+ATTENDEE;CN=Dae Ha;CUTYPE=UNKNOWN;EMAIL=Dae.Ha@aclimited.com;PARTSTAT=NEE
+ DS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Dae.
+ Ha@aclimited.com
+ATTENDEE;CN=Hisham Sherif;CUTYPE=UNKNOWN;EMAIL=Hisham.Sherif@aclimited.co
+ m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
+ NE:mailto:Hisham.Sherif@aclimited.com
+ATTENDEE;CN=Megan Lyall;CUTYPE=UNKNOWN;EMAIL=megan.lyall@aclimited.com;PA
+ RTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:m
+ ailto:megan.lyall@aclimited.com
+ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
+ y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
+ E-AGENT=NONE:mailto:reson8frequency@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:[cid:image001.png@01DC9783.ADBC48E0]\n________
+ ________________________\nThe information in this email is intended only
+  for the person(s) or entity to whom it is addressed and may contain con
+ fidential or privileged information. If you receive this email by error\
+ , please notify us immediately\, delete the original message and do not 
+ disclose the contents to any other person\, use or store or copy the inf
+ ormation in any medium and for whatever purpose. Any unauthorized use is
+  strictly prohibited.\n________________________________\n
+DTEND;TZID=Asia/Dubai:20260213T133000
+DTSTAMP:20260210T104439Z
+DTSTART;TZID=Asia/Dubai:20260213T123000
+LAST-MODIFIED:20260210T072423Z
+LOCATION;LANGUAGE=en-US:LPM (La Petite Maison) - Gate Village No\, 8\, DI
+ FC\, Dubai
+ORGANIZER;CN=Jewel Concordia;EMAIL=jewel.concordia@aclimited.com;SCHEDULE
+ -AGENT=NONE:mailto:jewel.concordia@aclimited.com
+PRIORITY:5
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:[Lunch]: AC Limited & Reson8
+UID:040000008200E00074C5B7101A82E0080000000000C6A18A8397DC010000000000000
+ 00010000000A668BB567C5A3A449C2D613EA39EC9D0
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2043029482
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "LPM (La Petite Maison) - Gate 
+ Village No\, 8\, DIFC\, Dubai"\, "LocationAnnotation" : ""\, "Unresolved
+ " : false\, "LocationUri" : "" } ]
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Brett Johnson;CUTYPE=UNKNOWN;EMAIL=brett@benevolentcapital.co
+ m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
+ NE:mailto:brett@benevolentcapital.com
+ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
+ com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
+ rc.benardout@me.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:Overview:\n\n  *\nScott Cohen introduced Marc 
+ Benardout to Brett Johnson after learning more about Marc’s company and 
+ work.\n  *\nMarc Benardout and Nicolas Rosen are founders of The Reson8 
+ Frequency System\, a company focused on longevity and health technologie
+ s based in the Los Angeles area.\n  *\nScott noted the company has early
+  adoption from Premier League teams as part of sports medicine initiativ
+ es and support from major figures in music\, including Ed Sheeran.\n  *\
+ nScott believed the introduction was relevant given Brett’s involvement 
+ in soccer\, including Ipswich Town.\n  *\nMarc is also involved with the
+  USL franchise in Orange County\, which connects with Brett’s role as a 
+ founder of Phoenix Rising FC.\n  *\nScott suggested there may be multipl
+ e opportunities for collaboration across sports\, health technology\, an
+ d international markets in both the U.S. and the U.K.\n\nZoom details\nh
+ ttps://us02web.zoom.us/j/9253487569?pwd=QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09
+ \nMeeting ID: 925 348 7569\nPasscode: 8Z6cj6\n\nDial in number:\n+168927
+ 81000 US\nPasscode: 696780\n
+DTEND;TZID=America/Los_Angeles:20260416T090000
+DTSTAMP:20260416T143935Z
+DTSTART;TZID=America/Los_Angeles:20260416T083000
+LAST-MODIFIED:20260416T143932Z
+LOCATION;LANGUAGE=en-US:https://us02web.zoom.us/j/9253487569?pwd=QTdPR0Ur
+ MWMvZ2FVQ0tGM1luUWlLUT09
+ORGANIZER;CN=Alli Tan;EMAIL=ea@benevolentcapital.com;SCHEDULE-AGENT=CLIEN
+ T:mailto:ea@benevolentcapital.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Marc Benardout / Brett Johnson
+UID:040000008200E00074C5B7101A82E008000000000D2F6CC593B5DC010000000000000
+ 00010000000C3226AB70019744DA4FE30675AA706A4
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2124645365
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://us02web.zoom.us/j/9253487569?pwd=
+ QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://us02web.zoom.us/j/92534875
+ 69?pwd=QTdPR0UrMWMvZ2FVQ0tGM1luUWlLUT09"\,"LocationAnnotation":""\,"Loca
+ tionUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\
+ ,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""
+ }]
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Marc Benardout & Nic Rosen;CUTYPE=UNKNOWN;EMAIL=marc.benardou
+ t@me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mail
+ to:marc.benardout@me.com
+ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@
+ gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
+ AGENT=NONE:mailto:nickrosenmusic@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:Event Name\nCall with Scott/Relevant: 30-Min (
+ Partners)\n\nNeed to make changes to this event?\nCancel: https://calend
+ ly.com/cancellations/d865ae92-91d3-4cb4-b99a-c2796e779eb5\nReschedule: h
+ ttps://calendly.com/reschedulings/d865ae92-91d3-4cb4-b99a-c2796e779eb5\n
+ \nPowered by Calendly https://calendly.com/\n\n_________________________
+ _______________________________________________________\nMicrosoft Teams
+  Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meetin
+ g now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNkZmFlNWE
+ tNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy%40thread.v2/0?context=%7b%22Tid%22
+ %3a%22a4bf087a-aa11-4c4f-a59c-bff7b92ed79e%22%2c%22Oid%22%3a%22cf1cc3de-
+ c329-4bb9-9263-9e6183534b14%22%7d>\nMeeting ID: 294 274 472 872 1\nPassc
+ ode: 5ox9qv3H\n________________________________\nFor organizers: Meeting
+  options<https://teams.microsoft.com/meetingOptions/?organizerId=cf1cc3d
+ e-c329-4bb9-9263-9e6183534b14&tenantId=a4bf087a-aa11-4c4f-a59c-bff7b92ed
+ 79e&threadId=19_meeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy
+ @thread.v2&messageId=0&language=en-US>\n________________________________
+ ________________________________________________\n
+DTEND;TZID=America/Los_Angeles:20250819T163000
+DTSTAMP:20250819T230123Z
+DTSTART;TZID=America/Los_Angeles:20250819T160000
+LAST-MODIFIED:20250819T230122Z
+LOCATION;LANGUAGE=en-US:https://calendly.com/events/7a332106-ebe5-4c34-b9
+ e6-8372399b2b13/microsoft_teams
+ORGANIZER;CN=Scott Barrack;EMAIL=scott@relevantpartners.com;SCHEDULE-AGEN
+ T=CLIENT:mailto:scott@relevantpartners.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Marc Benardout & Nic Rosen and Scott Barrack
+UID:040000008200E00074C5B7101A82E0080000000011FCF732150BDC010000000000000
+ 00010000000DF987948B052BC44B84C6D14A9C8BA50
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2123914810
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://calendly.com/events/7a332106-ebe5
+ -4c34-b9e6-8372399b2b13/microsoft_teams
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://calendly.com/events/7a3321
+ 06-ebe5-4c34-b9e6-8372399b2b13/microsoft_teams"\,"LocationAnnotation":""
+ \,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSta
+ te":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddr
+ ess":""}]
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
+ ineMeetingProvider":3}
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
+ oft.com/teams/a4bf087a-aa11-4c4f-a59c-bff7b92ed79e/cf1cc3de-c329-4bb9-92
+ 63-9e6183534b14/19_meeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyY
+ WQy@thread.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_MGNkZmFlNWEtNTliMS00MTg2LWIxN2UtNGYyM2JmMWEyYWQy%40thread
+ .v2/0?context=%7b%22Tid%22%3a%22a4bf087a-aa11-4c4f-a59c-bff7b92ed79e%22%
+ 2c%22Oid%22%3a%22cf1cc3de-c329-4bb9-9263-9e6183534b14%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGNkZmFlNWEtNTliMS00M
+ Tg2LWIxN2UtNGYyM2JmMWEyYWQy@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"p
+ rivate":true\,"type":0}
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
+ T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
+ :Basit.Altaf@dwtc.com
+ATTENDEE;CN=Marc Benardout;CUTYPE=UNKNOWN;EMAIL=marc@reson8frequency.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
+ :mailto:marc@reson8frequency.com
+ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nick@reson8frequency.com;PART
+ STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
+ lto:nick@reson8frequency.com
+ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
+ ARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
+ mailto:nickrosenmusic@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
+ ____________________________________\nMicrosoft Teams meeting\nJoin: htt
+ ps://teams.microsoft.com/meet/38793640243755?p=1hGvj7tSQSn40xU7BT\nMeeti
+ ng ID: 387 936 402 437 55\nPasscode: y3vr2X3N\n_________________________
+ _______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System
+  reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM3Zj
+ NkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm%40thread.v2/0?context=%7b%22T
+ id%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%2c%22Oid%22%3a%2287c6
+ fee7-ef54-4f50-b904-526097756c48%22%7d>\nDial in by phone\n+44 20 7660 8
+ 997\,\,609594134#<tel:+442076608997\,\,609594134> United Kingdom\, City 
+ of London\nFind a local number<https://dialin.teams.microsoft.com/3b8b98
+ b5-aad7-4c6b-8f54-159bf6625515?id=609594134>\nPhone conference ID: 609 5
+ 94 134#\nFor organizers: Meeting options<https://teams.microsoft.com/mee
+ tingOptions/?organizerId=87c6fee7-ef54-4f50-b904-526097756c48&tenantId=7
+ f989d2d-1b24-46ff-a392-b12e65d6391c&threadId=19_meeting_MGM3ZjNkZDktNWIw
+ MS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm@thread.v2&messageId=0&language=en-US> |
+  Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferenci
+ ng>\n___________________________________________________________________
+ _____________\n\n
+DTEND;TZID=Asia/Baku:20260409T194500
+DTSTAMP:20260409T154056Z
+DTSTART;TZID=Asia/Baku:20260409T190000
+LAST-MODIFIED:20260409T154055Z
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
+ :mailto:Aster.Duflou@dwtc.com
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Reson8 x Dubai | Follow-up
+UID:040000008200E00074C5B7101A82E0080000000020D5E0F034BCDC010000000000000
+ 000100000008351770D58217445A5A6FB6A591E7194
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1335441386
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
+ cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
+ LocationUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
+ ineMeetingProvider":3}
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
+ oft.com/teams/7f989d2d-1b24-46ff-a392-b12e65d6391c/87c6fee7-ef54-4f50-b9
+ 04-526097756c48/19_meeting_MGM3ZjNkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3Z
+ DFm@thread.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_MGM3ZjNkZDktNWIwMS00ZGUyLWFlYjEtMTYwNzQ3NzU3ZDFm%40thread
+ .v2/0?context=%7b%22Tid%22%3a%227f989d2d-1b24-46ff-a392-b12e65d6391c%22%
+ 2c%22Oid%22%3a%2287c6fee7-ef54-4f50-b904-526097756c48%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGM3ZjNkZDktNWIwMS00Z
+ GUyLWFlYjEtMTYwNzQ3NzU3ZDFm@thread.v2"\,"private":true\,"type":0\,"mid":
+ 0\,"rid":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
+ me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
+ GUESTS=0:mailto:marc.benardout@me.com
+ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
+ ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
+ LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
+CREATED:20250430T142745Z
+DTEND;TZID=Asia/Jerusalem:20250506T210000
+DTSTAMP:20250506T174342Z
+DTSTART;TZID=Asia/Jerusalem:20250506T200000
+LAST-MODIFIED:20250506T174338Z
+ORGANIZER;EMAIL=tomer.avshalom@gmail.com;SCHEDULE-AGENT=CLIENT:mailto:tom
+ er.avshalom@gmail.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tomer - Marc and Nick intro
+UID:040000008200E00074C5B7101A82E00800000000428B4209DCB9DB010000000000000
+ 000100000002B0DF4DCC6D6BA4AA850D7CCDBDAFD59
+X-MICROSOFT-CDO-OWNERAPPTID:-727329326
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN='Curtis Estes';CUTYPE=UNKNOWN;EMAIL=curtis.estes@nm.com;PARTS
+ TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
+ to:curtis.estes@nm.com
+ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
+ TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
+ rdout@me.com
+ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
+ STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
+ lto:nickrosenmusic@gmail.com
+ATTENDEE;CN=Tim Voorhees;CUTYPE=UNKNOWN;EMAIL=Tim@vfos.com;PARTSTAT=NEEDS
+ -ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Tim@vf
+ os.com
+ATTENDEE;CN=troy.watters@nm.com;CUTYPE=UNKNOWN;EMAIL=troy.watters@nm.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
+ :mailto:troy.watters@nm.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:P-Zoom – Introduction - Marc\, Nick\, Curtis\,
+  Troy & Tim\nL-(fos)  https://us06web.zoom.us/j/88908217920  Meeting ID:
+  889 0821 7920\nA-Marc Benardout\, Nick Rosen\, Troy Watters\, Curtis Es
+ tes\, Tim Voorhees (Host)\nT- Sep 2\, 2025\, 10:00 AM – 10:30 AM (PDT)\n
+ S-Introduction\nS-Scheduled by Janie Harriman on behalf of Tim Voorhees 
+ (Host)\n\n\nOne tap mobile\n+13017158592\,\,88908217920# US (Washington 
+ DC)\n+13052241968\,\,88908217920# US\n\nJoin instructions\nhttps://us06w
+ eb.zoom.us/meetings/88908217920/invitations?signature=fXLHXai-fKWL8tdU3d
+ K46ryg606Q6wiUJ8bUSYCoW14\n
+DTEND;TZID=America/Los_Angeles:20250902T103000
+DTSTAMP:20250902T160405Z
+DTSTART;TZID=America/Los_Angeles:20250902T100000
+LAST-MODIFIED:20250902T160404Z
+LOCATION;LANGUAGE=en-US:(fos)  https://us06web.zoom.us/j/88908217920  Mee
+ ting ID: 889 0821 7920
+ORGANIZER;CN=Tim Voorhees;EMAIL=Tim@vfos.com;SCHEDULE-AGENT=CLIENT;SENT-B
+ Y="mailto:Janie.Harriman@vfos.com":mailto:Tim@vfos.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Zoom – Introduction - Marc\, Nick\, Curtis\, Troy 
+ & Tim
+UID:040000008200E00074C5B7101A82E00800000000607DADFFD40DDC010000000000000
+ 00010000000C486B86446E20D41813FE68FD2900024
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1297057769
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "(fos)  https://us06web.zoom.us
+ /j/88908217920  Meeting ID: 889 0821 7920"\, "LocationAnnotation" : ""\,
+  "LocationSource" : 0\, "Unresolved" : true\, "LocationUri" : "" } ]
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Emmanuelle Meuillet;CUTYPE=UNKNOWN;EMAIL=e.meuillet@mvtpharma
+ .com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT
+ =NONE:mailto:e.meuillet@mvtpharma.com
+ATTENDEE;CN=Evan Unger;CUTYPE=UNKNOWN;EMAIL=e.unger@mvtpharma.com;PARTSTA
+ T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
+ :e.unger@mvtpharma.com
+ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
+ TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
+ rdout@me.com
+ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
+ STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
+ lto:nickrosenmusic@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
+ ____________________________________\nMicrosoft Teams Need help?<https:/
+ /aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meeting now<https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2
+ QtOGIwZmU0MTJlMzU5%40thread.v2/0?context=%7b%22Tid%22%3a%22409d163a-fe69
+ -4253-a296-2e13f4b4221f%22%2c%22Oid%22%3a%2275efebfb-c6c4-45a5-8408-b706
+ bc98eb6a%22%7d>\nMeeting ID: 214 266 883 165\nPasscode: QL7in93G\n______
+ __________________________\nFor organizers: Meeting options<https://team
+ s.microsoft.com/meetingOptions/?organizerId=75efebfb-c6c4-45a5-8408-b706
+ bc98eb6a&tenantId=409d163a-fe69-4253-a296-2e13f4b4221f&threadId=19_meeti
+ ng_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlMzU5@thread.v2&messageId=
+ 0&language=en-US>\n_____________________________________________________
+ ___________________________\n\n
+DTEND;TZID=America/Phoenix:20251003T163000
+DTSTAMP:20251002T150113Z
+DTSTART;TZID=America/Phoenix:20251003T160000
+LAST-MODIFIED:20251002T150113Z
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+ORGANIZER;CN=Emmanuelle Meuillet;EMAIL=e.meuillet@mvtpharma.com;SCHEDULE-
+ AGENT=CLIENT:mailto:e.meuillet@mvtpharma.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:MVT_Pepperdine Followup
+UID:040000008200E00074C5B7101A82E008000000006080386D7233DC010000000000000
+ 000100000001AD765C9C9642C47949FD9CA3EC2159B
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-270358551
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Lo
+ cationAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "
+ LocationUri" : "" } ]
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
+ oft.com/teams/409d163a-fe69-4253-a296-2e13f4b4221f/75efebfb-c6c4-45a5-84
+ 08-b706bc98eb6a/19_meeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlM
+ zU5@thread.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_NDIyNTdiZTYtOTk1Mi00MDQ0LWE5Y2QtOGIwZmU0MTJlMzU5%40thread
+ .v2/0?context=%7b%22Tid%22%3a%22409d163a-fe69-4253-a296-2e13f4b4221f%22%
+ 2c%22Oid%22%3a%2275efebfb-c6c4-45a5-8408-b706bc98eb6a%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NDIyNTdiZTYtOTk1Mi00M
+ DQ0LWE5Y2QtOGIwZmU0MTJlMzU5@thread.v2"\,"private":true\,"type":0\,"mid":
+ 0\,"rid":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
+ TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
+ rdout@me.com
+ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
+ STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
+ lto:nickrosenmusic@gmail.com
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:Roger Lee is inviting you to a scheduled Zoom 
+ meeting.\nJoin Zoom Meeting\nhttps://stubbsalderton.zoom.us/j/8844750104
+ 5?pwd=eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1\n\nMeeting ID: 884 4750 1045\nPas
+ scode: 772102\n\n---\n\nOne tap mobile\n+12133388477\,\,88447501045# US 
+ (Los Angeles)\n+19292056099\,\,88447501045# US (New York)\n\n---\n\nDial
+  by your location\n• +1 213 338 8477 US (Los Angeles)\n• +1 929 205 6099
+  US (New York)\n• +1 301 715 8592 US (Washington DC)\n• +1 564 217 2000 
+ US\n• +1 689 278 1000 US\n• +32 2 788 0173 Belgium\n• +32 1579 5132 Belg
+ ium\n• +32 2 290 9360 Belgium\n• +32 2 585 5574 Belgium\n• +32 2 588 418
+ 8 Belgium\n• +32 2 788 0172 Belgium\n• +359 3 257 1633 Bulgaria\n• +359 
+ 2 492 5688 Bulgaria\n• +1 780 666 0144 Canada\n• +1 204 272 7920 Canada\
+ n• +1 438 809 7799 Canada\n• +1 587 328 1099 Canada\n• +1 647 374 4685 C
+ anada\n• +1 647 558 0588 Canada\n• +1 778 907 2071 Canada\n• +385 1777 6
+ 333 Croatia\n• +385 1300 0988 Croatia\n• +420 5 3889 0161 Czech Republic
+ \n• +420 2 2888 2388 Czech Republic\n• +420 2 3901 8272 Czech Republic\n
+ • +45 89 88 37 88 Denmark\n• +45 32 70 12 06 Denmark\n• +45 32 71 31 57 
+ Denmark\n• +45 32 72 80 10 Denmark\n• +45 32 72 80 11 Denmark\n• +45 47 
+ 37 25 75 Denmark\n• +372 880 1188 Estonia\n• +372 660 1699 Estonia\n• +3
+ 58 9 7252 2471 Finland\n• +358 3 4109 2129 Finland\n• +358 9 4245 1488 F
+ inland\n• +33 1 7037 2246 France\n• +33 1 7037 9729 France\n• +33 1 7095
+  0103 France\n• +33 1 7095 0350 France\n• +33 1 8699 5831 France\n• +49 
+ 69 7104 9922 Germany\n• +49 69 3807 9883 Germany\n• +49 69 3807 9884 Ger
+ many\n• +49 69 5050 0951 Germany\n• +49 69 5050 0952 Germany\n• +49 695 
+ 050 2596 Germany\n• +30 231 118 0599 Greece\n• +30 211 198 4488 Greece\n
+ • +36 1 779 9126 Hungary\n• +36 1 408 8456 Hungary\n• +36 1 701 0488 Hun
+ gary\n• +39 069 480 6488 Italy\n• +39 020 066 7245 Italy\n• +39 021 241 
+ 28 823 Italy\n• +371 6303 1888 Latvia\n• +371 6303 1808 Latvia\n• +370 5
+ 214 1488 Lithuania\n• +370 3799 9260 Lithuania\n• +352 342 080 9265 Luxe
+ mbourg\n• +352 2786 1188 Luxembourg\n• +352 2786 4277 Luxembourg\n• +31 
+ 707 006 526 Netherlands\n• +31 20 241 0288 Netherlands\n• +31 20 794 085
+ 4 Netherlands\n• +31 20 794 6519 Netherlands\n• +31 20 794 6520 Netherla
+ nds\n• +31 20 794 7345 Netherlands\n• +47 2400 4736 Norway\n• +47 2400 4
+ 735 Norway\n• +48 22 398 7356 Poland\n• +48 22 306 5342 Poland\n• +48 22
+  307 3488 Poland\n• +351 308 810 988 Portugal\n• +351 211 202 618 Portug
+ al\n• +351 308 804 188 Portugal\n• +40 37 170 0418 Romania\n• +40 31 630
+  1088 Romania\n• +421 233 418 515 Slovakia\n• +421 233 056 888 Slovakia\
+ n• +34 917 873 431 Spain\n• +34 84 368 5025 Spain\n• +34 91 787 0058 Spa
+ in\n• +46 850 539 728 Sweden\n• +46 8 4468 2488 Sweden\n• +46 8 5016 382
+ 7 Sweden\n• +46 8 5050 0828 Sweden\n• +46 8 5050 0829 Sweden\n• +46 8 50
+ 52 0017 Sweden\n• +44 330 088 5830 United Kingdom\n• +44 131 460 1196 Un
+ ited Kingdom\n• +44 203 481 5237 United Kingdom\n• +44 203 481 5240 Unit
+ ed Kingdom\n• +44 203 901 7895 United Kingdom\n• +44 208 080 6591 United
+  Kingdom\n• +44 208 080 6592 United Kingdom\n\nMeeting ID: 884 4750 1045
+ \n\nFind your local number: https://stubbsalderton.zoom.us/u/keCUf9BmC1\
+ n\n\n
+DTEND;TZID=America/Los_Angeles:20241219T170000
+DTSTAMP:20241220T001736Z
+DTSTART;TZID=America/Los_Angeles:20241219T163000
+LAST-MODIFIED:20241220T001735Z
+LOCATION;LANGUAGE=en-US:https://stubbsalderton.zoom.us/j/88447501045?pwd=
+ eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1
+ORGANIZER;CN=Roger Lee;EMAIL=rlee@stubbsalderton.com;SCHEDULE-AGENT=CLIEN
+ T:mailto:rlee@stubbsalderton.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Marc/Nic x Roger - Intro Call
+UID:040000008200E00074C5B7101A82E0080000000060ACF59E6C51DB010000000000000
+ 00010000000D0E26DE375E42A43AA128FD616C823FF
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1305294872
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://stubbsalderton.zoom.us/j/8
+ 8447501045?pwd=eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1"\,"LocationAnnotation":"
+ "\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSt
+ ate":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAdd
+ ress":""}]
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Lesley Smit;CUTYPE=UNKNOWN;EMAIL=Lesley.Smit@goaco.com;PARTST
+ AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
+ o:Lesley.Smit@goaco.com
+ATTENDEE;CN=Sarah Kim;CUTYPE=UNKNOWN;EMAIL=sarah@reson8frequency.com;PART
+ STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
+ lto:sarah@reson8frequency.com
+CLASS:PRIVATE
+DESCRIPTION:\n___________________________________________________________
+ _____________________\nMicrosoft Teams meeting\nJoin: https://teams.micr
+ osoft.com/meet/352640267272911?p=bvvXoUReYnypfJSlDM\nMeeting ID: 352 640
+  267 272 911\nPasscode: B5Yi945M\n________________________________\nNeed
+  help?<https://aka.ms/JoinTeamsMeeting?omkt=en-GB> | System reference<ht
+ tps://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg5YTU0ODktZjBiYi0
+ 0YWIyLTlmZWItYWRhNjA2MzMzZDIz%40thread.v2/0?context=%7b%22Tid%22%3a%2267
+ b4ecd2-df5b-4b66-8d2b-1203e33c7302%22%2c%22Oid%22%3a%22a1104093-9757-4cf
+ c-b6b3-2c644b709e20%22%7d>\nFor organisers: Meeting options<https://team
+ s.microsoft.com/meetingOptions/?organizerId=a1104093-9757-4cfc-b6b3-2c64
+ 4b709e20&tenantId=67b4ecd2-df5b-4b66-8d2b-1203e33c7302&threadId=19_meeti
+ ng_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZDIz@thread.v2&messageId=
+ 0&language=en-GB>\nGoaco Group Ltd.\n___________________________________
+ _____________________________________________\n\n\n[cid:goacologo_a4180d
+ 03-091d-45a3-9c60-041d671eea76.png]\nFollow Us\n\n[cid:1_linkedin_7f9dc6
+ 9a-c209-4bd8-97a5-6e19eb3e1423.png]<https://www.linkedin.com/company/goa
+ co/>  [cid:1_facebook_6f64b5ee-a0ec-447e-aed8-e5455aeeeefd.png] <https:/
+ /www.facebook.com/goacoglobal/>\n\n\n[cid:1_x_dcbacf0d-4e3b-449f-8c2e-ab
+ 243a045add.png]<https://twitter.com/goacodigital>  [cid:1_youtube_2d5a5a
+ 9f-9595-44c0-8ff3-878dcf37b6bd.png] <https://www.youtube.com/%40GoacoDig
+ ital>   [cid:1_tiktok_56d5b488-6393-4da9-b40f-332c50c629b4.png] <https:/
+ /www.tiktok.com/@goacodigital>   [cid:1_instagram_50cf7925-9639-43b0-a82
+ b-97c44edfc81a.png] <https://www.instagram.com/goaco/>\n\n              
+   Gaurav Malhotra\n\nChief Executive Officer\n\n\nUK Mobile: +44 7861 70
+ 5623\nUAE Mobile: +971 55 607 6572\nEmail: gaurav.malhotra@goaco.com<mai
+ lto:gaurav.malhotra@goaco.com>\nUK Office: Kent Space Business Centre\, 
+ Ebbsfleet\, DA11 8HJ\nDubai Office: Office 802\, 8th Floor\, Sheikh Rash
+ id Tower\, Sheikh Zayed Rd\, Dubai\n<http://www.yourdomain.url/>Website:
+  www.goaco.com<https://goaco.com/>\n\nGlobal Locations: Kent - London - 
+ Scotland - Dubai\n[cid:sundaytimesemailsignature-02_6244eed1-d209-45da-8
+ 8e6-4530f07aa4dc.png]<https://goaco.com/insights/company-news/proud-to-b
+ e-named-one-of-the-sunday-times-best-places-to-work-2025/>\n[cid:emailpa
+ rtnerbanner2_b969cf83-ed97-41fb-9634-12cc125018e6.png]\n\nOur company is
+  fully GDPR-compliant. To learn more about how we comply with GDPR and\,
+  as a result\, care for the security and privacy of personal data we col
+ lected from you\, visit this page<https://goaco.com/privacy-policy/>.\n
+DTEND;TZID=Europe/London:20260407T173000
+DTSTAMP:20260406T163842Z
+DTSTART;TZID=Europe/London:20260407T170000
+LAST-MODIFIED:20260405T223043Z
+LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
+ORGANIZER;CN=Gaurav Malhotra;EMAIL=gaurav.malhotra@goaco.com;SCHEDULE-AGE
+ NT=NONE:mailto:gaurav.malhotra@goaco.com
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-GB:Reson8 Requirements adjustments call
+UID:040000008200E00074C5B7101A82E0080000000077E662D54BC5DC010000000000000
+ 0001000000080FF2A0CE6827F47808771E10D87435E
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2124687690
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"Locatio
+ nAnnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":"
+ "\,"LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"L
+ ocationFullAddress":""}]
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onl
+ ineMeetingProvider":3}
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.micros
+ oft.com/teams/67b4ecd2-df5b-4b66-8d2b-1203e33c7302/a1104093-9757-4cfc-b6
+ b3-2c644b709e20/19_meeting_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZ
+ DIz@thread.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_MDg5YTU0ODktZjBiYi00YWIyLTlmZWItYWRhNjA2MzMzZDIz%40thread
+ .v2/0?context=%7b%22Tid%22%3a%2267b4ecd2-df5b-4b66-8d2b-1203e33c7302%22%
+ 2c%22Oid%22%3a%22a1104093-9757-4cfc-b6b3-2c644b709e20%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDg5YTU0ODktZjBiYi00Y
+ WIyLTlmZWItYWRhNjA2MzMzZDIz@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"p
+ rivate":true\,"type":0}
+END:VEVENT
 BEGIN:VEVENT
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image001.png@01DCC800.08315C00
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image002.png@01DCC800.08315C00
@@ -2530,177 +4283,6 @@ X-MICROSOFT-ONLINEMEETINGCONFLINK:
 X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:US/Central
-X-LIC-LOCATION:US/Central
-BEGIN:STANDARD
-DTSTART:18831118T120924
-RDATE:18831118T120924
-TZNAME:CST
-TZOFFSETFROM:-055036
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180331T020000
-RRULE:FREQ=YEARLY;UNTIL=19190330T080000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RRULE:FREQ=YEARLY;UNTIL=19191026T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19200101T000000
-RDATE:19200101T000000
-RDATE:19420101T000000
-RDATE:19460101T000000
-RDATE:19670101T000000
-TZNAME:CST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19200613T020000
-RDATE:19200613T020000
-RDATE:19210327T020000
-RDATE:19740106T020000
-RDATE:19750223T020000
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19201031T020000
-RRULE:FREQ=YEARLY;UNTIL=19211030T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19220430T020000
-RRULE:FREQ=YEARLY;UNTIL=19350428T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19220924T020000
-RRULE:FREQ=YEARLY;UNTIL=19350929T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19360301T020000
-RDATE:19360301T020000
-TZNAME:EST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19361115T020000
-RRULE:FREQ=YEARLY;UNTIL=19410928T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19370425T020000
-RRULE:FREQ=YEARLY;UNTIL=19410427T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19420209T020000
-RDATE:19420209T020000
-TZNAME:CWT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T180000
-RDATE:19450814T180000
-TZNAME:CPT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19450930T020000
-RDATE:19450930T020000
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19460428T020000
-RRULE:FREQ=YEARLY;UNTIL=19660424T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19460929T020000
-RRULE:FREQ=YEARLY;UNTIL=19540926T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19551030T020000
-RRULE:FREQ=YEARLY;UNTIL=19661030T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19670430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19671029T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19760425T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T080000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
  TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
@@ -2866,129 +4448,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://exeterlms.zoom.us/j/92
  ved" : false\, "LocationUri" : "" } ]
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:US/Mountain
-X-LIC-LOCATION:US/Mountain
-BEGIN:STANDARD
-DTSTART:18831118T120004
-RDATE:18831118T120004
-RDATE:19200101T000000
-RDATE:19420101T000000
-RDATE:19460101T000000
-RDATE:19670101T000000
-TZNAME:MST
-TZOFFSETFROM:-065956
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180331T020000
-RRULE:FREQ=YEARLY;UNTIL=19190330T090000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RRULE:FREQ=YEARLY;UNTIL=19191026T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19200328T020000
-RRULE:FREQ=YEARLY;UNTIL=19210327T090000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19201031T020000
-RDATE:19201031T020000
-RDATE:19210522T020000
-RDATE:19450930T020000
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19420209T020000
-RDATE:19420209T020000
-TZNAME:MWT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T170000
-RDATE:19450814T170000
-TZNAME:MPT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19650425T020000
-RRULE:FREQ=YEARLY;UNTIL=19660424T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19651031T020000
-RRULE:FREQ=YEARLY;UNTIL=19661030T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19670430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19671029T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19740106T020000
-RDATE:19740106T020000
-RDATE:19750223T020000
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19760425T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T090000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Matthew Hawes;CUTYPE=UNKNOWN;EMAIL=mhawes@scitexas.edu;PARTST
  AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
@@ -3556,116 +5015,6 @@ UID:0rmu7il4p32ai443l7k9e58l9j@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/nmh-sjyw-yey
 X-MICROSOFT-CDO-OWNERAPPTID:791372075
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Asia/Yerevan
-X-LIC-LOCATION:Asia/Yerevan
-BEGIN:STANDARD
-DTSTART:19240502T000000
-RDATE:19240502T000000
-TZNAME:+03
-TZOFFSETFROM:+0258
-TZOFFSETTO:+0300
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19570301T000000
-RDATE:19570301T000000
-TZNAME:+04/+05
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19810401T000000
-RRULE:FREQ=YEARLY;UNTIL=19840331T200000Z;BYMONTH=4
-TZNAME:+05
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19811001T000000
-RRULE:FREQ=YEARLY;UNTIL=19830930T190000Z;BYMONTH=10
-TZNAME:+04
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19840930T030000
-RRULE:FREQ=YEARLY;UNTIL=19900929T220000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:+04
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19850331T020000
-RRULE:FREQ=YEARLY;UNTIL=19900324T220000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:+05
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19910331T020000
-RDATE:19910331T020000
-TZNAME:+03/+04
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19910929T030000
-RRULE:FREQ=YEARLY;UNTIL=19940924T230000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:+03
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0300
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19920329T020000
-RRULE:FREQ=YEARLY;UNTIL=19950325T230000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:+04
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19950924T030000
-RDATE:19950924T030000
-RDATE:19970101T000000
-TZNAME:+04
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19970330T020000
-RRULE:FREQ=YEARLY;UNTIL=20100327T220000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:+05
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19971026T030000
-RRULE:FREQ=YEARLY;UNTIL=20101030T220000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:+04
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:20110101T000000
-RDATE:20110101T000000
-TZNAME:+04/+05
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0400
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20110327T020000
-RDATE:20110327T020000
-TZNAME:+05
-TZOFFSETFROM:+0400
-TZOFFSETTO:+0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20111030T030000
-RDATE:20111030T030000
-TZNAME:+04
-TZOFFSETFROM:+0500
-TZOFFSETTO:+0400
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260211T083727Z
 DTEND;TZID=Asia/Dubai:20260212T180000
@@ -4168,97 +5517,6 @@ UID:1sg118c8hdvsih1oi3bt6uh2fq@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/wjg-vdht-uwt
 X-MICROSOFT-CDO-OWNERAPPTID:1447938655
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:America/Mexico_City
-X-LIC-LOCATION:America/Mexico_City
-BEGIN:STANDARD
-DTSTART:19220101T002324
-RDATE:19220101T002324
-TZNAME:MST
-TZOFFSETFROM:-063636
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19270610T230000
-RDATE:19270610T230000
-RDATE:19310501T230000
-RDATE:19320401T000000
-TZNAME:CST
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19301115T000000
-RDATE:19301115T000000
-RDATE:19311001T000000
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19390205T000000
-RDATE:19390205T000000
-RDATE:19401209T000000
-RDATE:19500212T000000
-RDATE:20010506T020000
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19390625T000000
-RDATE:19390625T000000
-RDATE:19410401T000000
-RDATE:19440501T000000
-RDATE:19500730T000000
-RDATE:20010930T020000
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19431216T000000
-RDATE:19431216T000000
-TZNAME:CWT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19960407T020000
-RRULE:FREQ=YEARLY;UNTIL=20000402T080000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19961027T020000
-RRULE:FREQ=YEARLY;UNTIL=20001029T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:20020220T000000
-RDATE:20020220T000000
-TZNAME:CST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20020407T020000
-RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20021027T020000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Cassie Falk;CUTYPE=INDIVIDUAL;EMAIL=cassie@selfdecode.com;PAR
  TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-
@@ -4288,149 +5546,6 @@ UID:1v0cd6c23aa1njaolb5dd0tidh@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/gqe-ipgs-rsf
 X-MICROSOFT-CDO-OWNERAPPTID:-763940463
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:America/New_York
-X-LIC-LOCATION:America/New_York
-BEGIN:STANDARD
-DTSTART:18831118T120358
-RDATE:18831118T120358
-TZNAME:EST
-TZOFFSETFROM:-045602
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180331T020000
-RRULE:FREQ=YEARLY;UNTIL=19190330T070000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RRULE:FREQ=YEARLY;UNTIL=19191026T060000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19200101T000000
-RDATE:19200101T000000
-RDATE:19420101T000000
-RDATE:19460101T000000
-RDATE:19670101T000000
-TZNAME:EST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19200328T020000
-RDATE:19200328T020000
-RDATE:19740106T020000
-RDATE:19750223T020000
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19201031T020000
-RDATE:19201031T020000
-RDATE:19450930T020000
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19210424T020000
-RRULE:FREQ=YEARLY;UNTIL=19410427T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19210925T020000
-RRULE:FREQ=YEARLY;UNTIL=19410928T060000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19420209T020000
-RDATE:19420209T020000
-TZNAME:EWT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T190000
-RDATE:19450814T190000
-TZNAME:EPT
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19460428T020000
-RRULE:FREQ=YEARLY;UNTIL=19660424T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19460929T020000
-RRULE:FREQ=YEARLY;UNTIL=19540926T060000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19551030T020000
-RRULE:FREQ=YEARLY;UNTIL=19661030T060000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19670430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19671029T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T060000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19760425T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T070000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 DESCRIPTION:Marc Benardout is inviting you to a scheduled Zoom meeting.\n
  \nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/89427903907?pwd=Gb7xRK3iV
@@ -4726,129 +5841,6 @@ SUMMARY:Pilot project scoping (Reson8\, Signios & Twist)
 UID:260t3fs6di03oviul8e9a8396s@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:1404245374
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:America/Denver
-X-LIC-LOCATION:America/Denver
-BEGIN:STANDARD
-DTSTART:18831118T120004
-RDATE:18831118T120004
-RDATE:19200101T000000
-RDATE:19420101T000000
-RDATE:19460101T000000
-RDATE:19670101T000000
-TZNAME:MST
-TZOFFSETFROM:-065956
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180331T020000
-RRULE:FREQ=YEARLY;UNTIL=19190330T090000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RRULE:FREQ=YEARLY;UNTIL=19191026T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19200328T020000
-RRULE:FREQ=YEARLY;UNTIL=19210327T090000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19201031T020000
-RDATE:19201031T020000
-RDATE:19210522T020000
-RDATE:19450930T020000
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19420209T020000
-RDATE:19420209T020000
-TZNAME:MWT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T170000
-RDATE:19450814T170000
-TZNAME:MPT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19650425T020000
-RRULE:FREQ=YEARLY;UNTIL=19660424T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19651031T020000
-RRULE:FREQ=YEARLY;UNTIL=19661030T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19670430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19671029T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T080000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19740106T020000
-RDATE:19740106T020000
-RDATE:19750223T020000
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19760425T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T090000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T090000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:MST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260201T210308Z
 DTEND;TZID=Europe/London:20260206T110000
@@ -5733,66 +6725,6 @@ UID:3lj92lcl4f7pl5lon4loe2b8oc@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/gws-jytv-vgj
 X-MICROSOFT-CDO-OWNERAPPTID:-365685503
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Europe/Belgrade
-X-LIC-LOCATION:Europe/Belgrade
-BEGIN:STANDARD
-DTSTART:18840101T000000
-RDATE:18840101T000000
-TZNAME:CET
-TZOFFSETFROM:+0122
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19410418T230000
-RDATE:19410418T230000
-RDATE:19430329T020000
-RDATE:19440403T020000
-RDATE:19450508T020000
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19421102T030000
-RDATE:19421102T030000
-RDATE:19431004T030000
-RDATE:19441002T030000
-RDATE:19450916T030000
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19450101T000000
-RDATE:19450101T000000
-RDATE:19821127T000000
-TZNAME:CET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19830327T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19830925T030000
-RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19961027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
  STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
@@ -5979,186 +6911,6 @@ SUMMARY:Attendees - Health & Wellness Tech Innovators' Summit
 UID:44960o3svqleftpo646sepepdm@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:41047123
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:America/Toronto
-X-LIC-LOCATION:America/Toronto
-BEGIN:STANDARD
-DTSTART:18950101T000000
-RDATE:18950101T000000
-TZNAME:EST
-TZOFFSETFROM:-051732
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180414T020000
-RDATE:19180414T020000
-RDATE:19190330T233000
-RDATE:19200502T020000
-RDATE:19210515T020000
-RDATE:19320501T020000
-RDATE:19460428T020000
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RDATE:19181027T020000
-RDATE:19191026T000000
-RDATE:19200926T000000
-RDATE:19210915T020000
-RDATE:19331001T020000
-RDATE:19450930T020000
-RDATE:19460929T020000
-RDATE:19491127T000000
-RDATE:19501126T020000
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19190101T000000
-RDATE:19190101T000000
-RDATE:19460101T000000
-RDATE:19740101T000000
-TZNAME:EST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19220514T020000
-RRULE:FREQ=YEARLY;UNTIL=19230513T070000Z;BYMONTH=5;BYDAY=2SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19220917T020000
-RRULE:FREQ=YEARLY;UNTIL=19260919T060000Z;BYMONTH=9;BYDAY=3SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19240504T020000
-RRULE:FREQ=YEARLY;UNTIL=19270501T070000Z;BYMONTH=5;BYDAY=1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19270925T020000
-RRULE:FREQ=YEARLY;UNTIL=19320925T060000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19280429T020000
-RRULE:FREQ=YEARLY;UNTIL=19310426T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19330430T020000
-RRULE:FREQ=YEARLY;UNTIL=19400428T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19340930T020000
-RRULE:FREQ=YEARLY;UNTIL=19390924T060000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19420209T030000
-RDATE:19420209T030000
-TZNAME:EWT
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T190000
-RDATE:19450814T190000
-TZNAME:EPT
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19470427T000000
-RRULE:FREQ=YEARLY;UNTIL=19490424T050000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19470928T000000
-RRULE:FREQ=YEARLY;UNTIL=19480926T040000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19500430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19510930T020000
-RRULE:FREQ=YEARLY;UNTIL=19560930T060000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19571027T020000
-RRULE:FREQ=YEARLY;UNTIL=19731028T060000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19740428T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T070000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19741027T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T060000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T070000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:EDT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:EST
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260401T140635Z
 DESCRIPTION:Link: https://us06web.zoom.us/j/86598805568?pwd=iaCDuJPCSOufx
@@ -6786,122 +7538,6 @@ SUMMARY:Call: Oleg (Endel) - Nick (reson8)
 UID:5964118ed1854540acbe19e9683570f7
 X-MICROSOFT-CDO-OWNERAPPTID:-1424462130
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
-BEGIN:STANDARD
-DTSTART:18930401T000000
-RDATE:18930401T000000
-TZNAME:CEST
-TZOFFSETFROM:+005328
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19160430T230000
-RDATE:19160430T230000
-RDATE:19400401T020000
-RDATE:19430329T020000
-RDATE:19460414T020000
-RDATE:19470406T030000
-RDATE:19480418T020000
-RDATE:19490410T020000
-RDATE:19800406T020000
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19161001T010000
-RDATE:19161001T010000
-RDATE:19421102T030000
-RDATE:19431004T030000
-RDATE:19441002T030000
-RDATE:19451118T030000
-RDATE:19461007T030000
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19170416T020000
-RRULE:FREQ=YEARLY;UNTIL=19180415T010000Z;BYMONTH=4;BYDAY=3MO
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19170917T030000
-RRULE:FREQ=YEARLY;UNTIL=19180916T010000Z;BYMONTH=9;BYDAY=3MO
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19440403T020000
-RRULE:FREQ=YEARLY;UNTIL=19450402T010000Z;BYMONTH=4;BYDAY=1MO
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450524T020000
-RDATE:19450524T020000
-RDATE:19470511T030000
-TZNAME:CEMT
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450924T030000
-RDATE:19450924T030000
-RDATE:19470629T030000
-TZNAME:CEST
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19460101T000000
-RDATE:19460101T000000
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19471005T030000
-RRULE:FREQ=YEARLY;UNTIL=19491002T010000Z;BYMONTH=10;BYDAY=1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19800101T000000
-RDATE:19800101T000000
-TZNAME:CET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19800928T030000
-RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19810329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19961027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20241212T194121Z
 DTEND;TZID=America/Los_Angeles:20241216T093000
@@ -7033,176 +7669,6 @@ X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
 X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 X-MICROSOFT-CDO-OWNERAPPTID:1905878582
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Europe/Madrid
-X-LIC-LOCATION:Europe/Madrid
-BEGIN:STANDARD
-DTSTART:19001231T234516
-RDATE:19001231T234516
-TZNAME:WEST
-TZOFFSETFROM:-001444
-TZOFFSETTO:+0000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180415T230000
-RDATE:19180415T230000
-RDATE:19190406T230000
-RDATE:19240416T230000
-RDATE:19260417T230000
-RDATE:19270409T230000
-RDATE:19280415T000000
-RDATE:19290420T230000
-RDATE:19370616T230000
-RDATE:19380402T230000
-TZNAME:WEST
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181007T005959
-RRULE:FREQ=YEARLY;UNTIL=19191006T235959Z;BYMONTH=10
-TZNAME:WET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19241005T005959
-RDATE:19241005T005959
-RDATE:19371003T005959
-RDATE:19391008T005959
-TZNAME:WET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19261003T005959
-RRULE:FREQ=YEARLY;UNTIL=19291005T235959Z;BYMONTH=10;BYMONTHDAY=2,3,4,5,6,
- 7,8;BYDAY=SU
-TZNAME:WET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19380430T230000
-RDATE:19380430T230000
-TZNAME:WEMT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19381002T235959
-RDATE:19381002T235959
-TZNAME:WEST
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19400316T230000
-RDATE:19400316T230000
-TZNAME:CET
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19420502T230000
-RDATE:19420502T230000
-RDATE:19490430T230000
-RDATE:19760327T230000
-RDATE:19770402T230000
-RDATE:19780402T020000
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19420901T010000
-RDATE:19420901T010000
-RDATE:19491002T010000
-RDATE:19781001T030000
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19430417T230000
-RRULE:FREQ=YEARLY;UNTIL=19460413T220000Z;BYMONTH=4;BYMONTHDAY=13,14,15,16
- ,17,18,19;BYDAY=SA
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19431003T010000
-RRULE:FREQ=YEARLY;UNTIL=19440930T230000Z;BYMONTH=10;BYDAY=1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19450930T010000
-RRULE:FREQ=YEARLY;UNTIL=19460928T230000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19740413T230000
-RRULE:FREQ=YEARLY;UNTIL=19750412T220000Z;BYMONTH=4;BYMONTHDAY=12,13,14,15
- ,16,17,18;BYDAY=SA
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19741006T010000
-RRULE:FREQ=YEARLY;UNTIL=19751004T230000Z;BYMONTH=10;BYDAY=1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19760926T010000
-RRULE:FREQ=YEARLY;UNTIL=19770924T230000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19790101T000000
-RDATE:19790101T000000
-TZNAME:CET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19790401T020000
-RRULE:FREQ=YEARLY;UNTIL=19800406T010000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19790930T030000
-RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19810329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19961027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260414T052250Z
 DTEND;TZID=America/Los_Angeles:20260414T130000
@@ -7312,156 +7778,6 @@ UID:5m4jifn056f1hiua85v26dl5q3@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/cjx-iskp-enk
 X-MICROSOFT-CDO-OWNERAPPTID:753264015
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Europe/Rome
-X-LIC-LOCATION:Europe/Rome
-BEGIN:STANDARD
-DTSTART:18660922T000000
-RDATE:18660922T000000
-TZNAME:RMT
-TZOFFSETFROM:+004956
-TZOFFSETTO:+004956
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:18931031T234956
-RDATE:18931031T234956
-TZNAME:CEST
-TZOFFSETFROM:+004956
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19160603T235959
-RDATE:19160603T235959
-RDATE:19170331T235959
-RDATE:19180309T235959
-RDATE:19190301T235959
-RDATE:19200320T235959
-RDATE:19400614T235959
-RDATE:19430329T020000
-RDATE:19440403T020000
-RDATE:19450402T020000
-RDATE:19460317T020000
-RDATE:19470316T000000
-RDATE:19480229T020000
-RDATE:19690601T000000
-RDATE:19700531T000000
-RDATE:19730603T000000
-RDATE:19740526T000000
-RDATE:19750601T000000
-RDATE:19760530T000000
-RDATE:19800406T020000
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19160930T235959
-RRULE:FREQ=YEARLY;UNTIL=19170930T215959Z;BYMONTH=9
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19181006T235959
-RDATE:19181006T235959
-RDATE:19191004T235959
-RDATE:19200918T235959
-RDATE:19421102T030000
-RDATE:19431004T030000
-RDATE:19440917T030000
-RDATE:19450915T010000
-RDATE:19461006T030000
-RDATE:19471005T010000
-RDATE:19481003T030000
-RDATE:19660924T235959
-RDATE:19700927T010000
-RDATE:19710926T010000
-RDATE:19721001T010000
-RDATE:19781001T010000
-RDATE:19790930T010000
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19430910T000000
-RDATE:19430910T000000
-RDATE:19440604T000000
-TZNAME:CEST
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19660522T000000
-RRULE:FREQ=YEARLY;UNTIL=19680525T230000Z;BYMONTH=5;BYDAY=4SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19670924T010000
-RRULE:FREQ=YEARLY;UNTIL=19690927T230000Z;BYMONTH=9;BYDAY=4SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19710523T000000
-RRULE:FREQ=YEARLY;UNTIL=19720527T230000Z;BYMONTH=5;BYDAY=4SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19730930T010000
-RRULE:FREQ=YEARLY;UNTIL=19740928T230000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19750928T010000
-RRULE:FREQ=YEARLY;UNTIL=19770924T230000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19770522T000000
-RRULE:FREQ=YEARLY;UNTIL=19790526T230000Z;BYMONTH=5;BYDAY=4SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19800101T000000
-RDATE:19800101T000000
-TZNAME:CET
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19800928T030000
-RRULE:FREQ=YEARLY;UNTIL=19950924T010000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19810329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-TZNAME:CEST
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19961027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-TZNAME:CET
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
  m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
@@ -8499,177 +8815,6 @@ UID:7l9gppebt07cg5leq9j927uqe1@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/pat-bnbm-yab
 X-MICROSOFT-CDO-OWNERAPPTID:-281474002
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:America/Chicago
-X-LIC-LOCATION:America/Chicago
-BEGIN:STANDARD
-DTSTART:18831118T120924
-RDATE:18831118T120924
-TZNAME:CST
-TZOFFSETFROM:-055036
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19180331T020000
-RRULE:FREQ=YEARLY;UNTIL=19190330T080000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19181027T020000
-RRULE:FREQ=YEARLY;UNTIL=19191026T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19200101T000000
-RDATE:19200101T000000
-RDATE:19420101T000000
-RDATE:19460101T000000
-RDATE:19670101T000000
-TZNAME:CST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19200613T020000
-RDATE:19200613T020000
-RDATE:19210327T020000
-RDATE:19740106T020000
-RDATE:19750223T020000
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19201031T020000
-RRULE:FREQ=YEARLY;UNTIL=19211030T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19220430T020000
-RRULE:FREQ=YEARLY;UNTIL=19350428T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19220924T020000
-RRULE:FREQ=YEARLY;UNTIL=19350929T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19360301T020000
-RDATE:19360301T020000
-TZNAME:EST
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19361115T020000
-RRULE:FREQ=YEARLY;UNTIL=19410928T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19370425T020000
-RRULE:FREQ=YEARLY;UNTIL=19410427T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19420209T020000
-RDATE:19420209T020000
-TZNAME:CWT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19450814T180000
-RDATE:19450814T180000
-TZNAME:CPT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19450930T020000
-RDATE:19450930T020000
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19460428T020000
-RRULE:FREQ=YEARLY;UNTIL=19660424T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19460929T020000
-RRULE:FREQ=YEARLY;UNTIL=19540926T070000Z;BYMONTH=9;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19551030T020000
-RRULE:FREQ=YEARLY;UNTIL=19661030T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19670430T020000
-RRULE:FREQ=YEARLY;UNTIL=19730429T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19671029T020000
-RRULE:FREQ=YEARLY;UNTIL=20061029T070000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19760425T020000
-RRULE:FREQ=YEARLY;UNTIL=19860427T080000Z;BYMONTH=4;BYDAY=-1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19870405T020000
-RRULE:FREQ=YEARLY;UNTIL=20060402T080000Z;BYMONTH=4;BYDAY=1SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:20070311T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20071104T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260421T163200Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
@@ -8888,17 +9033,6 @@ X-MICROSOFT-LOCATIONS:[{"DisplayName":"Zoom Call Link- Details Below"\,"L
  ""\,"LocationFullAddress":""}]
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Africa/Blantyre
-X-LIC-LOCATION:Africa/Blantyre
-BEGIN:STANDARD
-DTSTART:19030301T000000
-RDATE:19030301T000000
-TZNAME:CAT
-TZOFFSETFROM:+021020
-TZOFFSETTO:+0200
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20260330T174741Z
 DTEND;VALUE=DATE:20260423
@@ -12267,23 +12401,6 @@ UID:lhdltei4pbs2p6nf81q3g2a39c@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/foz-xqcp-mjq
 X-MICROSOFT-CDO-OWNERAPPTID:1456662855
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Europe/Dublin
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-DTSTART:19810329T010000
-TZNAME:GMT+1
-TZOFFSETTO:+0100
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0100
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-DTSTART:19961027T020000
-TZNAME:GMT
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Lior Rauchberger;CUTYPE=INDIVIDUAL;EMAIL=lior@genebygene.com;
  PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
@@ -12305,123 +12422,6 @@ SUMMARY:Meeting with Lior (Marc Benardout)
 UID:n7hujqi1hel10fkodahi48m75g@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-869190076
 END:VEVENT
-BEGIN:VTIMEZONE
-TZID:Australia/Melbourne
-X-LIC-LOCATION:Australia/Melbourne
-BEGIN:STANDARD
-DTSTART:18950201T000000
-RDATE:18950201T000000
-TZNAME:AEST
-TZOFFSETFROM:+093952
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19170101T000100
-RDATE:19170101T000100
-RDATE:19420101T020000
-RDATE:19420927T020000
-RDATE:19431003T020000
-RDATE:20000827T020000
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19170325T020000
-RDATE:19170325T020000
-RDATE:19420329T020000
-RDATE:19720227T030000
-RDATE:20060402T030000
-RDATE:20070325T030000
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19430328T020000
-RRULE:FREQ=YEARLY;UNTIL=19440325T150000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19710101T000000
-RDATE:19710101T000000
-TZNAME:AEST
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19711031T020000
-RRULE:FREQ=YEARLY;UNTIL=19851026T160000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19730304T030000
-RRULE:FREQ=YEARLY;UNTIL=19850302T160000Z;BYMONTH=3;BYDAY=1SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19860316T030000
-RRULE:FREQ=YEARLY;UNTIL=19900317T160000Z;BYMONTH=3;BYDAY=3SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19861019T020000
-RRULE:FREQ=YEARLY;UNTIL=19871017T160000Z;BYMONTH=10;BYDAY=3SU
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-DTSTART:19881030T020000
-RRULE:FREQ=YEARLY;UNTIL=19991030T160000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:19910303T030000
-RRULE:FREQ=YEARLY;UNTIL=19940305T160000Z;BYMONTH=3;BYDAY=1SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:STANDARD
-DTSTART:19950326T030000
-RRULE:FREQ=YEARLY;UNTIL=20050326T160000Z;BYMONTH=3;BYDAY=-1SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20011028T020000
-RRULE:FREQ=YEARLY;UNTIL=20071027T160000Z;BYMONTH=10;BYDAY=-1SU
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-BEGIN:STANDARD
-DTSTART:20080406T030000
-RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
-TZNAME:AEST
-TZOFFSETFROM:+1100
-TZOFFSETTO:+1000
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20081005T020000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
-TZNAME:AEDT
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-END:DAYLIGHT
-END:VTIMEZONE
 BEGIN:VEVENT
 ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
  RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
