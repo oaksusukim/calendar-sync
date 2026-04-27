@@ -2,34 +2,8 @@ BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 PRODID:-//Apple Inc.//macOS 15.6//EN
 VERSION:2.0
-PRODID:-//Apple Inc.//macOS 15.2//EN
-PRODID:-//Apple Inc.//macOS 15.3.2//EN
-PRODID:-//Apple Inc.//iPhone OS 18.6.2//EN
-PRODID:-//Apple Inc.//macOS 15.1.1//EN
-PRODID:-//Apple Inc.//macOS 26.3//EN
-PRODID:-//Apple Inc.//iPhone OS 26.2.1//EN
-PRODID:-//Apple Inc.//macOS 26.4.1//EN
-PRODID:-//Apple Inc.//macOS 26.4//EN
-PRODID:-//Apple Inc.//macOS 15.4.1//EN
-PRODID:-//Apple Inc.//macOS 15.6.1//EN
-PRODID:-//Apple Inc.//macOS 26.2//EN
-PRODID:-//Apple Inc.//macOS 26.3.1//EN
-PRODID:-//Apple Inc.//iPhone OS 18.2//EN
 X-CALENDARSERVER-ACCESS:PUBLIC
-PRODID:-//Apple Inc.//iPhone OS 26.2//EN
-PRODID:-//Apple Inc.//iPhone OS 26.3//EN
-PRODID:-//Apple Inc.//macOS 15.5//EN
-PRODID:-//Apple Inc.//macOS 15.3.1//EN
-PRODID:-//Apple Inc.//iPhone OS 26.3.1//EN
-PRODID:-//Apple Inc.//macOS 15.7.3//EN
-PRODID:-//Apple Inc.//iPhone OS 18.3//EN
-PRODID:-//Apple Inc.//iPhone OS 18.6//EN
-PRODID:-//Apple Inc.//iPhone OS 26.1//EN
-PRODID:-//Apple Inc.//iPhone OS 26.5//EN
-PRODID:-//Apple Inc.//iPhone OS 18.5//EN
-PRODID:-//Apple Inc.//iPhone OS 26.4//EN
-PRODID:-//Apple Inc.//macOS 15.3//EN
-PRODID:-//Apple Inc.//iPhone OS 26.0//EN
+X-WR-CALNAME:reson8
 BEGIN:VEVENT
 ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
  m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
