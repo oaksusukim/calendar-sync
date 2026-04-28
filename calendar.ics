@@ -5,15 +5,6 @@ VERSION:2.0
 X-CALENDARSERVER-ACCESS:PUBLIC
 X-WR-CALNAME:reson8
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=fengleeus@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=fengleeus@gmail.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:fengleeus@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250804T184947Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/85294030122\n\nMeeting ID: 8
@@ -32,8 +23,6 @@ DTSTAMP:20250808T154916Z
 DTSTART;TZID=America/Los_Angeles:20250808T090000
 LAST-MODIFIED:20250808T154916Z
 LOCATION:https://us02web.zoom.us/j/85294030122
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- NONE:mailto:nickrosenmusic@gmail.com
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:reson8 - feng lee
@@ -2557,16 +2546,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=renato.cipriano@sonicarts.art;CUTYPE=INDIVIDUAL;EMAIL=renato.
- cipriano@sonicarts.art;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:renato.cipriano@sonicarts.
- art
 CREATED:20250320T200523Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86238635384\n\nMeeting ID: 8
@@ -2585,8 +2564,6 @@ DTSTAMP:20250324T164544Z
 DTSTART;TZID=America/Los_Angeles:20250324T100000
 LAST-MODIFIED:20250324T164544Z
 LOCATION:https://us02web.zoom.us/j/86238635384
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Renato - RESON8 
@@ -2631,18 +2608,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :Basit.Altaf@dwtc.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
- mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
  ____________________________________\nMicrosoft Teams meeting\nJoin: htt
@@ -2668,8 +2633,6 @@ DTSTAMP:20260305T173150Z
 DTSTART;TZID=Asia/Baku:20260305T213000
 LAST-MODIFIED:20260305T173148Z
 LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
- :mailto:Aster.Duflou@dwtc.com
 PRIORITY:5
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -2705,18 +2668,6 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NzE4N2E4OGYtODg2MC00N
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image001.png@01DC9783.ADBC48E0
-ATTENDEE;CN=Dae Ha;CUTYPE=UNKNOWN;EMAIL=Dae.Ha@aclimited.com;PARTSTAT=NEE
- DS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Dae.
- Ha@aclimited.com
-ATTENDEE;CN=Hisham Sherif;CUTYPE=UNKNOWN;EMAIL=Hisham.Sherif@aclimited.co
- m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
- NE:mailto:Hisham.Sherif@aclimited.com
-ATTENDEE;CN=Megan Lyall;CUTYPE=UNKNOWN;EMAIL=megan.lyall@aclimited.com;PA
- RTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:m
- ailto:megan.lyall@aclimited.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:[cid:image001.png@01DC9783.ADBC48E0]\n________
  ________________________\nThe information in this email is intended only
@@ -2732,8 +2683,6 @@ DTSTART;TZID=Asia/Dubai:20260213T123000
 LAST-MODIFIED:20260210T072423Z
 LOCATION;LANGUAGE=en-US:LPM (La Petite Maison) - Gate Village No\, 8\, DI
  FC\, Dubai
-ORGANIZER;CN=Jewel Concordia;EMAIL=jewel.concordia@aclimited.com;SCHEDULE
- -AGENT=NONE:mailto:jewel.concordia@aclimited.com
 PRIORITY:5
 SEQUENCE:3
 STATUS:CONFIRMED
@@ -2755,12 +2704,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "LPM (La Petite Maison) - Gate
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Brett Johnson;CUTYPE=UNKNOWN;EMAIL=brett@benevolentcapital.co
- m;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
- NE:mailto:brett@benevolentcapital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:Overview:\n\n  *\nScott Cohen introduced Marc 
  Benardout to Brett Johnson after learning more about Marc’s company and 
@@ -2784,8 +2727,6 @@ DTSTART;TZID=America/Los_Angeles:20260416T083000
 LAST-MODIFIED:20260416T143932Z
 LOCATION;LANGUAGE=en-US:https://us02web.zoom.us/j/9253487569?pwd=QTdPR0Ur
  MWMvZ2FVQ0tGM1luUWlLUT09
-ORGANIZER;CN=Alli Tan;EMAIL=ea@benevolentcapital.com;SCHEDULE-AGENT=CLIEN
- T:mailto:ea@benevolentcapital.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2812,12 +2753,6 @@ X-MICROSOFT-LOCATIONSOURCE:None
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout & Nic Rosen;CUTYPE=UNKNOWN;EMAIL=marc.benardou
- t@me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mail
- to:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@
- gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:nickrosenmusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:Event Name\nCall with Scott/Relevant: 30-Min (
  Partners)\n\nNeed to make changes to this event?\nCancel: https://calend
@@ -2842,8 +2777,6 @@ DTSTART;TZID=America/Los_Angeles:20250819T160000
 LAST-MODIFIED:20250819T230122Z
 LOCATION;LANGUAGE=en-US:https://calendly.com/events/7a332106-ebe5-4c34-b9
  e6-8372399b2b13/microsoft_teams
-ORGANIZER;CN=Scott Barrack;EMAIL=scott@relevantpartners.com;SCHEDULE-AGEN
- T=CLIENT:mailto:scott@relevantpartners.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2883,18 +2816,6 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGNkZmFlNWEtNTliMS00M
  rivate":true\,"type":0}
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Basit Altaf;CUTYPE=UNKNOWN;EMAIL=Basit.Altaf@dwtc.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :Basit.Altaf@dwtc.com
-ATTENDEE;CN=Marc Benardout;CUTYPE=UNKNOWN;EMAIL=marc@reson8frequency.com;
- PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:marc@reson8frequency.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nick@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nick@reson8frequency.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:
- mailto:nickrosenmusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
  ____________________________________\nMicrosoft Teams meeting\nJoin: htt
@@ -2920,8 +2841,6 @@ DTSTAMP:20260409T154056Z
 DTSTART;TZID=Asia/Baku:20260409T190000
 LAST-MODIFIED:20260409T154055Z
 LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Aster Duflou;EMAIL=Aster.Duflou@dwtc.com;SCHEDULE-AGENT=NONE
- :mailto:Aster.Duflou@dwtc.com
 PRIORITY:5
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -2956,19 +2875,11 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MGM3ZjNkZDktNWIwMS00Z
  0\,"rid":0\,"uid":null}
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250430T142745Z
 DTEND;TZID=Asia/Jerusalem:20250506T210000
 DTSTAMP:20250506T174342Z
 DTSTART;TZID=Asia/Jerusalem:20250506T200000
 LAST-MODIFIED:20250506T174338Z
-ORGANIZER;EMAIL=tomer.avshalom@gmail.com;SCHEDULE-AGENT=CLIENT:mailto:tom
- er.avshalom@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Tomer - Marc and Nick intro
@@ -2977,21 +2888,6 @@ UID:040000008200E00074C5B7101A82E00800000000428B4209DCB9DB010000000000000
 X-MICROSOFT-CDO-OWNERAPPTID:-727329326
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN='Curtis Estes';CUTYPE=UNKNOWN;EMAIL=curtis.estes@nm.com;PARTS
- TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
- to:curtis.estes@nm.com
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-ATTENDEE;CN=Tim Voorhees;CUTYPE=UNKNOWN;EMAIL=Tim@vfos.com;PARTSTAT=NEEDS
- -ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:Tim@vf
- os.com
-ATTENDEE;CN=troy.watters@nm.com;CUTYPE=UNKNOWN;EMAIL=troy.watters@nm.com;
- PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:troy.watters@nm.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:P-Zoom – Introduction - Marc\, Nick\, Curtis\,
   Troy & Tim\nL-(fos)  https://us06web.zoom.us/j/88908217920  Meeting ID:
@@ -3008,8 +2904,6 @@ DTSTART;TZID=America/Los_Angeles:20250902T100000
 LAST-MODIFIED:20250902T160404Z
 LOCATION;LANGUAGE=en-US:(fos)  https://us06web.zoom.us/j/88908217920  Mee
  ting ID: 889 0821 7920
-ORGANIZER;CN=Tim Voorhees;EMAIL=Tim@vfos.com;SCHEDULE-AGENT=CLIENT;SENT-B
- Y="mailto:Janie.Harriman@vfos.com":mailto:Tim@vfos.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -3032,18 +2926,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "(fos)  https://us06web.zoom.us
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Emmanuelle Meuillet;CUTYPE=UNKNOWN;EMAIL=e.meuillet@mvtpharma
- .com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT
- =NONE:mailto:e.meuillet@mvtpharma.com
-ATTENDEE;CN=Evan Unger;CUTYPE=UNKNOWN;EMAIL=e.unger@mvtpharma.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :e.unger@mvtpharma.com
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n____________________________________________
  ____________________________________\nMicrosoft Teams Need help?<https:/
@@ -3063,8 +2945,6 @@ DTSTAMP:20251002T150113Z
 DTSTART;TZID=America/Phoenix:20251003T160000
 LAST-MODIFIED:20251002T150113Z
 LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Emmanuelle Meuillet;EMAIL=e.meuillet@mvtpharma.com;SCHEDULE-
- AGENT=CLIENT:mailto:e.meuillet@mvtpharma.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -3097,12 +2977,6 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NDIyNTdiZTYtOTk1Mi00M
  0\,"rid":0\,"uid":null}
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:Roger Lee is inviting you to a scheduled Zoom 
  meeting.\nJoin Zoom Meeting\nhttps://stubbsalderton.zoom.us/j/8844750104
@@ -3155,8 +3029,6 @@ DTSTART;TZID=America/Los_Angeles:20241219T163000
 LAST-MODIFIED:20241220T001735Z
 LOCATION;LANGUAGE=en-US:https://stubbsalderton.zoom.us/j/88447501045?pwd=
  eUNcB8RdudtxaQ0cqY8Pb8hTlJ4KYu.1
-ORGANIZER;CN=Roger Lee;EMAIL=rlee@stubbsalderton.com;SCHEDULE-AGENT=CLIEN
- T:mailto:rlee@stubbsalderton.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -3180,12 +3052,6 @@ X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://stubbsalderton.zoom.us/j/8
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Lesley Smit;CUTYPE=UNKNOWN;EMAIL=Lesley.Smit@goaco.com;PARTST
- AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
- o:Lesley.Smit@goaco.com
-ATTENDEE;CN=Sarah Kim;CUTYPE=UNKNOWN;EMAIL=sarah@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:sarah@reson8frequency.com
 CLASS:PRIVATE
 DESCRIPTION:\n___________________________________________________________
  _____________________\nMicrosoft Teams meeting\nJoin: https://teams.micr
@@ -3228,8 +3094,6 @@ DTSTAMP:20260406T163842Z
 DTSTART;TZID=Europe/London:20260407T170000
 LAST-MODIFIED:20260405T223043Z
 LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
-ORGANIZER;CN=Gaurav Malhotra;EMAIL=gaurav.malhotra@goaco.com;SCHEDULE-AGE
- NT=NONE:mailto:gaurav.malhotra@goaco.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -3280,18 +3144,6 @@ ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image009.png@01DCC800.08315C00
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image010.png@01DCC800.08315C00
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image011.png@01DCC800.08315C00
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image012.png@01DCC800.08315C00
-ATTENDEE;CN=Gaurav Malhotra;CUTYPE=UNKNOWN;EMAIL=gaurav.malhotra@goaco.co
- m;PARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NO
- NE:mailto:gaurav.malhotra@goaco.com
-ATTENDEE;CN=Marc Benardout;CUTYPE=UNKNOWN;EMAIL=marc@reson8frequency.com;
- PARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:marc@reson8frequency.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nick@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nick@reson8frequency.com
-ATTENDEE;CN=Sarah Kim;CUTYPE=UNKNOWN;EMAIL=sarah@reson8frequency.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:sarah@reson8frequency.com
 CLASS:PUBLIC
 DESCRIPTION:Good Day\,\nThis session will be to discuss the below adjustm
  ents to the requirements for Reson8\n___________________________________
@@ -3449,8 +3301,6 @@ DTSTAMP:20260410T160435Z
 DTSTART;TZID=Europe/London:20260410T170000
 LAST-MODIFIED:20260410T160435Z
 LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
-ORGANIZER;CN=Lesley Smit;EMAIL=Lesley.Smit@goaco.com;SCHEDULE-AGENT=NONE:
- mailto:Lesley.Smit@goaco.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -3480,12 +3330,6 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDg5YTU0ODktZjBiYi00Y
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;VALUE=URI;X-APPLE-FILENAME=:CID:image001.jpg@01DC8254.28427520
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n[cid:image001.jpg@01DC8254.28427520]<https:/
  /manatt.zoom.us/>\nHi there\,\nTimothy Lohse is inviting you to a schedu
@@ -3781,8 +3625,6 @@ DTSTART;TZID=America/Los_Angeles:20260115T100000
 LAST-MODIFIED:20260115T182510Z
 LOCATION;LANGUAGE=en-US:https://manatt.zoom.us/j/96106867012?pwd=GP4haWUc
  K5bbMy57bEKbh2cFcp1miG.1
-ORGANIZER;CN="Lohse, Timothy";EMAIL=TLohse@manatt.com;SCHEDULE-AGENT=CLIE
- NT:mailto:TLohse@manatt.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4115,15 +3957,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://manatt.zoom.us/j/96106
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nic Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PARTS
- TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
- to:nickrosenmusic@gmail.com
-ATTENDEE;CN=curtis.estes@nm.com;CUTYPE=UNKNOWN;EMAIL=curtis.estes@nm.com;
- PARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- :mailto:curtis.estes@nm.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n\n________________________________\n[https:/
  /st2.zoom.us/static/6.3.45326/image/new/ZoomLogo_110_25.png]<https://zoo
@@ -4173,8 +4006,6 @@ DTSTART;TZID=America/Los_Angeles:20251023T100000
 LAST-MODIFIED:20251023T164559Z
 LOCATION;LANGUAGE=en-US:https://northwesternmutual.zoom.us/j/94996503069?
  pwd=K7SjGEJtl76ap9ofnE0xjhfef24yjD.1&from=addon
-ORGANIZER;CN=troy.watters@nm.com;EMAIL=troy.watters@nm.com;SCHEDULE-AGENT
- =CLIENT:mailto:troy.watters@nm.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4198,21 +4029,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://northwesternmutual.zoo
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN=Michael@lovinslaw.com;CUTYPE=UNKNOWN;EMAIL=Michael@lovinslaw.
- com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=
- NONE:mailto:Michael@lovinslaw.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-ATTENDEE;CN=nclovins@protonmail.com;CUTYPE=UNKNOWN;EMAIL=nclovins@protonm
- ail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AG
- ENT=NONE:mailto:nclovins@protonmail.com
-ATTENDEE;CN=phame.factory@gmail.com;CUTYPE=UNKNOWN;EMAIL=phame.factory@gm
- ail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AG
- ENT=NONE:mailto:phame.factory@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\nJoin Zoom meeting\n\nhttps://us05web.zoom.us
  /j/87327705474?pwd=bq8JGwwxhr6eyV3u4bi5ScRWDjXskl.1\n\n\n\n\n\nMeeting I
@@ -4225,8 +4041,6 @@ LOCATION;LANGUAGE=en-US:eric pham is inviting you to a scheduled Zoom mee
  ting.   Join Zoom Meeting  https://us05web.zoom.us/j/87327705474?pwd=bq8
  JGwwxhr6eyV3u4bi5ScRWDjXskl.1    Meeting ID: 873 2770 5474  Passcode: 7T
  D424
-ORGANIZER;CN=Abbie Thibodeaux;EMAIL=assistant@neurosolutionlc.com;SCHEDUL
- E-AGENT=NONE:mailto:assistant@neurosolutionlc.com
 PRIORITY:5
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -4258,15 +4072,6 @@ X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:marc.bena
- rdout@me.com
-ATTENDEE;CN="Tecce, Lorenzo";CUTYPE=UNKNOWN;EMAIL=lorenzo.tecce@jpmorgan.
- com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=
- NONE:mailto:lorenzo.tecce@jpmorgan.com
-ATTENDEE;CN="Valencia, Josue";CUTYPE=UNKNOWN;EMAIL=josue.valencia@chase.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=OPT-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE:mailto:josue.valencia@chase.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nI'm using Zoom for
@@ -4285,8 +4090,6 @@ DTSTAMP:20260113T015006Z
 DTSTART;TZID=America/Los_Angeles:20260113T150000
 LAST-MODIFIED:20260113T015006Z
 LOCATION;LANGUAGE=en-US:Zoom Meeting ID: 944 5663 7064
-ORGANIZER;CN="Ganewatte, Suranga";EMAIL=suranga.ganewatte@jpmorgan.com;SC
- HEDULE-AGENT=CLIENT:mailto:suranga.ganewatte@jpmorgan.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4309,18 +4112,6 @@ X-MICROSOFT-LOCATIONS:[{"DisplayName":"Zoom Meeting ID: 944 5663 7064"\,"
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=UNKNOWN;EMAIL=benardout@gmail.com;PARTS
- TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
- to:benardout@gmail.com
-ATTENDEE;CN=Nick Rosen;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@gmail.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mai
- lto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=UNKNOWN;EMAIL=marc@reson8freq
- uency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=UNKNOWN;EMAIL=nick@reson8freq
- uency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:nick@reson8frequency.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n\n\n________________________________________
  ________________________________________\nMicrosoft Teams meeting\nJoin 
@@ -4338,8 +4129,6 @@ DTSTAMP:20260319T150527Z
 DTSTART;TZID=America/Los_Angeles:20260319T090000
 LAST-MODIFIED:20260319T150527Z
 LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
-ORGANIZER;CN=Marc Benardout;EMAIL=outlook_5E8BD6568BB9D9A0@outlook.com;SC
- HEDULE-AGENT=NONE:mailto:outlook_5E8BD6568BB9D9A0@outlook.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4373,21 +4162,6 @@ X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_Y2ExZTIxNWUtNDczZS00N
  rivate":true\,"type":0\,"ct":null\,"btid":null}
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jacob Mayhew;CUTYPE=UNKNOWN;EMAIL=jmayhew@scitexas.edu;PARTST
- AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
- o:jmayhew@scitexas.edu
-ATTENDEE;CN=John Crowley;CUTYPE=UNKNOWN;EMAIL=john@crowleymgt.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto
- :john@crowleymgt.com
-ATTENDEE;CN=Kyle Daigle;CUTYPE=UNKNOWN;EMAIL=kdaigle@snabiotech.com;PARTS
- TAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mail
- to:kdaigle@snabiotech.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=UNKNOWN;EMAIL=marc.benardout@me.
- com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE:mailto:ma
- rc.benardout@me.com
-ATTENDEE;CN=nickrosemusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosemusic@gm
- ail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AG
- ENT=NONE:mailto:nickrosemusic@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:Matt mhawes@scitexas.edu is inviting you to a 
  scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://exeterlms.zoom.us/j/
@@ -4400,8 +4174,6 @@ DTSTAMP:20251113T230615Z
 DTSTART;TZID=US/Mountain:20251114T080000
 LAST-MODIFIED:20251113T230615Z
 LOCATION;LANGUAGE=en-US:https://exeterlms.zoom.us/j/92989626774
-ORGANIZER;CN=Matthew Hawes;EMAIL=mhawes@scitexas.edu;SCHEDULE-AGENT=CLIEN
- T:mailto:mhawes@scitexas.edu
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4423,15 +4195,6 @@ X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://exeterlms.zoom.us/j/92
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Matthew Hawes;CUTYPE=UNKNOWN;EMAIL=mhawes@scitexas.edu;PARTST
- AT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailt
- o:mhawes@scitexas.edu
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@
- gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:\n
 DTEND;TZID=America/Phoenix:20260127T093000
@@ -4439,8 +4202,6 @@ DTSTAMP:20260127T150109Z
 DTSTART;TZID=America/Phoenix:20260127T090000
 LAST-MODIFIED:20260127T150108Z
 LOCATION;LANGUAGE=en-US:https://exeterlms.zoom.us/j/9288322592
-ORGANIZER;CN=David Weems;EMAIL=david.weems@learningsource.com;SCHEDULE-AG
- ENT=NONE:mailto:david.weems@learningsource.com
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -4504,19 +4265,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=lschweizer@disruptive-oncology.com;CUTYPE=INDIVIDUAL;EMAIL=ls
- chweizer@disruptive-oncology.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIP
- ANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:lschweizer@disru
- ptive-oncology.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=rramberg@rina-capital.com;CUTYPE=INDIVIDUAL;EMAIL=rramberg@ri
- na-capital.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:rramberg@rina-capital.com
 CREATED:20250917T225422Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/88598088872\n\nMeeting ID: 8
@@ -4529,8 +4277,6 @@ DTSTAMP:20250924T160507Z
 DTSTART;TZID=America/Los_Angeles:20250924T100000
 LAST-MODIFIED:20250924T160506Z
 LOCATION:https://us02web.zoom.us/j/88598088872
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8 - liang 
@@ -4554,12 +4300,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250924T155412Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -4573,8 +4313,6 @@ DTSTAMP:20250925T145344Z
 DTSTART;TZID=Europe/London:20250925T153000
 LAST-MODIFIED:20250925T145343Z
 LOCATION:https://meet.google.com/icu-dtzu-icb
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=NONE:m
- ailto:mark@markwbenson.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Marc/Mark catch up
@@ -4676,16 +4414,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=mark.winfield@echelonpayments.com;CUTYPE=INDIVIDUAL;EMAIL=mar
- k.winfield@echelonpayments.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPAN
- T;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:mark.winfield@eche
- lonpayments.com
 CREATED:20241206T193704Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -4697,8 +4425,6 @@ DTEND;TZID=America/Los_Angeles:20241209T093000
 DTSTAMP:20241209T163356Z
 DTSTART;TZID=America/Los_Angeles:20241209T083000
 LAST-MODIFIED:20241209T163354Z
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:echelon payments - RESON8
@@ -4889,18 +4615,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jamaal Rashad;CUTYPE=INDIVIDUAL;EMAIL=jamaal@rashadgroup.co;P
- ARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NU
- M-GUESTS=0:mailto:jamaal@rashadgroup.co
-ATTENDEE;CN=laurawilde100@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=laurawilde100
- @gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:laurawilde100@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250304T190033Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -4913,8 +4627,6 @@ DTEND;TZID=America/Los_Angeles:20250312T104500
 DTSTAMP:20250312T170041Z
 DTSTART;TZID=America/Los_Angeles:20250312T100000
 LAST-MODIFIED:20250312T170040Z
-ORGANIZER;CN=Jamaal Rashad;EMAIL=jamaal@rashadgroup.co;SCHEDULE-AGENT=NON
- E:mailto:jamaal@rashadgroup.co
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Intro Call 2 | Reson8
@@ -4923,21 +4635,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/yzo-ahae-ewa
 X-MICROSOFT-CDO-OWNERAPPTID:1252502280
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251128T174528Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -4951,8 +4648,6 @@ DTSTAMP:20251201T150810Z
 DTSTART;TZID=Europe/London:20251203T170000
 LAST-MODIFIED:20251201T150809Z
 LOCATION:https://meet.google.com/tmw-ifie-xjt
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8/Art&Medicine
@@ -4961,12 +4656,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/tmw-ifie-xjt
 X-MICROSOFT-CDO-OWNERAPPTID:-1560198367
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Lilit Azatyan;CUTYPE=INDIVIDUAL;EMAIL=lilit.azatyan@pogos.io;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:lilit.azatyan@pogos.io
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=reson8frequ
- ency@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:reson8frequency@gmail.com
 CREATED:20260217T155853Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -4980,8 +4669,6 @@ DTSTAMP:20260224T155554Z
 DTSTART;TZID=Asia/Yerevan:20260224T200000
 LAST-MODIFIED:20260224T155550Z
 LOCATION:https://meet.google.com/nmh-sjyw-yey
-ORGANIZER;CN=Lilit Azatyan;EMAIL=lilit.azatyan@pogos.io;SCHEDULE-AGENT=NO
- NE:mailto:lilit.azatyan@pogos.io
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Post-WHX Meeting | Marc <> Lilit 
@@ -5196,19 +4883,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=assistant@neurosolutionlc.com;CUTYPE=INDIVIDUAL;EMAIL=assista
- nt@neurosolutionlc.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:assistant@neurosolutionlc.
- com
-ATTENDEE;CN=kdaigle@snabiotech.com;CUTYPE=INDIVIDUAL;EMAIL=kdaigle@snabio
- tech.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:kdaigle@snabiotech.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250818T200757Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/89266715881\n\nMeeting ID: 8
@@ -5221,8 +4895,6 @@ DTSTAMP:20250902T204013Z
 DTSTART;TZID=America/Los_Angeles:20250902T143000
 LAST-MODIFIED:20250902T204012Z
 LOCATION:https://us02web.zoom.us/j/89266715881
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:reson8 - dr kyle 
@@ -5351,24 +5023,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251108T071934Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5382,8 +5036,6 @@ DTSTAMP:20251113T152353Z
 DTSTART;TZID=Europe/London:20251113T160000
 LAST-MODIFIED:20251113T152351Z
 LOCATION:https://meet.google.com/xbt-nmtt-xbx
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=NONE:m
- ailto:mark@markwbenson.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8/A&M kick off
@@ -5392,15 +5044,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/xbt-nmtt-xbx
 X-MICROSOFT-CDO-OWNERAPPTID:-328284450
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Risto Kuulasmaa;CUTYPE=INDIVIDUAL;EMAIL=risto@brightland.grou
- p;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:risto@brightland.group
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250722T225534Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5413,8 +5056,6 @@ DTEND;TZID=America/Los_Angeles:20250729T121500
 DTSTAMP:20250722T231304Z
 DTSTART;TZID=America/Los_Angeles:20250729T113000
 LAST-MODIFIED:20250722T231303Z
-ORGANIZER;CN=Risto Kuulasmaa;EMAIL=risto@brightland.group;SCHEDULE-AGENT=
- CLIENT:mailto:risto@brightland.group
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Risto x Nick & Marc
@@ -5423,18 +5064,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/ews-qcet-qny
 X-MICROSOFT-CDO-OWNERAPPTID:-234259610
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=fengleeus@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=fengleeus@gmail.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:fengleeus@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260316T142230Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/857
@@ -5452,8 +5081,6 @@ DTSTART;TZID=America/Los_Angeles:20260319T190000
 LAST-MODIFIED:20260316T142335Z
 LOCATION:https://us06web.zoom.us/j/85702127201?pwd=2he951spGPywSs6EjrQyzD
  hb2NtEIz.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Feng Zoom Meeting
@@ -5461,15 +5088,6 @@ UID:1o4p7ui938s01arusdvura5qk8@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:923147198
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Ben Alemany;CUTYPE=INDIVIDUAL;EMAIL=benjamin@savvycapital.io;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:benjamin@savvycapital.io
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20241224T193024Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5482,8 +5100,6 @@ DTEND;TZID=America/Mexico_City:20250114T123000
 DTSTAMP:20250103T175301Z
 DTSTART;TZID=America/Mexico_City:20250114T120000
 LAST-MODIFIED:20250103T175301Z
-ORGANIZER;CN=Ben Alemany;EMAIL=benjamin@savvycapital.io;SCHEDULE-AGENT=NO
- NE:mailto:benjamin@savvycapital.io
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Reason8 - 2nd Call
@@ -5492,12 +5108,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/wjg-vdht-uwt
 X-MICROSOFT-CDO-OWNERAPPTID:1447938655
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Cassie Falk;CUTYPE=INDIVIDUAL;EMAIL=cassie@selfdecode.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:cassie@selfdecode.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20260108T201052Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5511,8 +5121,6 @@ DTSTAMP:20260109T170029Z
 DTSTART;TZID=America/New_York:20260109T120000
 LAST-MODIFIED:20260109T170028Z
 LOCATION:https://meet.google.com/gqe-ipgs-rsf
-ORGANIZER;CN=Cassie Falk;EMAIL=cassie@selfdecode.com;SCHEDULE-AGENT=CLIEN
- T:mailto:cassie@selfdecode.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 <> OE: Custom Kit Discussion
@@ -5571,12 +5179,6 @@ TZID:America/Los_Angeles
 UID:20241212T194255Z-87894538473@fe80:0:0:0:1847:8bff:fe26:1815eth0
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250617T185415Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84306764149\n\nMeeting ID: 8
@@ -5595,8 +5197,6 @@ DTSTAMP:20250623T150014Z
 DTSTART;TZID=America/Los_Angeles:20250623T080000
 LAST-MODIFIED:20250623T150013Z
 LOCATION:https://us02web.zoom.us/j/84306764149
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:reson8 and shay 
@@ -5710,15 +5310,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Casey Stickles;CUTYPE=INDIVIDUAL;EMAIL=caseys@sticklespr.com;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:caseys@sticklespr.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251009T204301Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5732,8 +5323,6 @@ DTSTAMP:20251009T213135Z
 DTSTART;TZID=America/New_York:20251017T150000
 LAST-MODIFIED:20251009T213134Z
 LOCATION:https://meet.google.com/oey-nbov-wfz
-ORGANIZER;CN=Casey Stickles;EMAIL=caseys@sticklespr.com;SCHEDULE-AGENT=CL
- IENT:mailto:caseys@sticklespr.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x SPR 
@@ -5772,25 +5361,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|v2qfuh51r5qppalq96che6e9cs@googl
  -85f530fa-cb83-43b2-b41b-bf36a3dca24a@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Arthur Cheung;CUTYPE=INDIVIDUAL;EMAIL=acheung@twistbioscience
- .com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT
- =NONE;X-NUM-GUESTS=0:mailto:acheung@twistbioscience.com
-ATTENDEE;CN=Ciara Martin;CUTYPE=INDIVIDUAL;EMAIL=cimartin@twistbioscience
- .com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NON
- E;X-NUM-GUESTS=0:mailto:cimartin@twistbioscience.com
-ATTENDEE;CN=chaitanya.r@signiosbio.com;CUTYPE=INDIVIDUAL;EMAIL=chaitanya.
- r@signiosbio.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SC
- HEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:chaitanya.r@signiosbio.com
-ATTENDEE;CN=chris.balagtas@signiosbio.com;CUTYPE=INDIVIDUAL;EMAIL=chris.b
- alagtas@signiosbio.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:chris.balagtas@signiosbio.
- com
-ATTENDEE;CN=harsha.gowda@signiosbio.com;CUTYPE=INDIVIDUAL;EMAIL=harsha.go
- wda@signiosbio.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;
- SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:harsha.gowda@signiosbio.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=reson8frequ
- ency@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:reson8frequency@gmail.com
 CREATED:20260217T181157Z
 DESCRIPTION:<p><br>──────────<br><br>Ciara Martin is inviting you to a sc
  heduled Zoom meeting.<br>Join Zoom Meeting<br>https://twistbioscience.zo
@@ -5807,8 +5377,6 @@ DTSTART;TZID=America/Denver:20260219T113000
 LAST-MODIFIED:20260218T225913Z
 LOCATION:https://twistbioscience.zoom.us/j/95333032550?pwd=7nwHsaXsBoTId6
  EerPwAOgalrfa7Ka.1&jst=3
-ORGANIZER;CN=Ciara Martin;EMAIL=cimartin@twistbioscience.com;SCHEDULE-AGE
- NT=NONE:mailto:cimartin@twistbioscience.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Pilot project scoping (Reson8\, Signios & Twist)
@@ -5935,21 +5503,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251210T063949Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5963,8 +5516,6 @@ DTSTAMP:20251210T123046Z
 DTSTART;TZID=Europe/London:20251210T163000
 LAST-MODIFIED:20251210T123046Z
 LOCATION:https://meet.google.com/sew-sffz-kmw
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8/Art&Medicine
@@ -5973,15 +5524,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/sew-sffz-kmw
 X-MICROSOFT-CDO-OWNERAPPTID:357764877
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jamaal Rashad;CUTYPE=INDIVIDUAL;EMAIL=jamaal@rashadgroup.co;P
- ARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NU
- M-GUESTS=0:mailto:jamaal@rashadgroup.co
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250520T175309Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -5994,8 +5536,6 @@ DTEND;TZID=America/Los_Angeles:20250605T114500
 DTSTAMP:20250605T180013Z
 DTSTART;TZID=America/Los_Angeles:20250605T110000
 LAST-MODIFIED:20250605T180013Z
-ORGANIZER;CN=Jamaal Rashad;EMAIL=jamaal@rashadgroup.co;SCHEDULE-AGENT=CLI
- ENT:mailto:jamaal@rashadgroup.co
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Reson8 Follow Up
@@ -6004,9 +5544,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/dzd-oprz-bon
 X-MICROSOFT-CDO-OWNERAPPTID:-1794719118
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20251006T234351Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6021,8 +5558,6 @@ DTSTART;TZID=America/Los_Angeles:20251015T100000
 LAST-MODIFIED:20251008T175329Z
 LOCATION:Club Joyful\, 2121 Lincoln Blvd\, Venice\, CA 90291\, USA\; http
  s://meet.google.com/hip-kkcn-qks
-ORGANIZER;CN=Crystelle Desnoyer;EMAIL=crystelle.desnoyer@gmail.com;SCHEDU
- LE-AGENT=CLIENT:mailto:crystelle.desnoyer@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY: Exhibitors - Health & Wellness Tech Innovators' Summit
@@ -6032,21 +5567,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/hip-kkcn-qks
 X-MICROSOFT-CDO-OWNERAPPTID:1966376404
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251124T085711Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6060,8 +5580,6 @@ DTSTAMP:20251126T155506Z
 DTSTART;TZID=Europe/London:20251126T160000
 LAST-MODIFIED:20251126T155505Z
 LOCATION:https://meet.google.com/cdo-qpgx-gni
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8/Art&Medicine update.
@@ -6070,21 +5588,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/cdo-qpgx-gni
 X-MICROSOFT-CDO-OWNERAPPTID:-1349042475
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251001T155842Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6098,8 +5601,6 @@ DTSTAMP:20251006T140113Z
 DTSTART;TZID=Europe/London:20251006T160000
 LAST-MODIFIED:20251006T140112Z
 LOCATION:https://meet.google.com/egd-nxwh-vid
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8-Art&Medicine
@@ -6108,15 +5609,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/egd-nxwh-vid
 X-MICROSOFT-CDO-OWNERAPPTID:-982536640
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Kevin Peake;CUTYPE=INDIVIDUAL;EMAIL=kpeake@next-health.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:kpeake@next-health.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20241215T052526Z
 DESCRIPTION:<p><br>──────────<br><br>Kevin Peake is inviting you to a sch
  eduled Zoom meeting.<br>Join Zoom Meeting<br>https://us06web.zoom.us/j/8
@@ -6137,8 +5629,6 @@ DTSTAMP:20241217T191229Z
 DTSTART;TZID=America/Los_Angeles:20241217T110000
 LAST-MODIFIED:20241217T191229Z
 LOCATION:https://us06web.zoom.us/j/8811097630?omn=86709127168
-ORGANIZER;CN=Kevin Peake;EMAIL=kpeake@next-health.com;SCHEDULE-AGENT=CLIE
- NT:mailto:kpeake@next-health.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:NH x MARC BENARDOUT
@@ -6224,12 +5714,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|cc5c2o59tuk0igsrf0ikr8uh70@googl
  -630f31b0-aed4-4922-8879-d8019fb09acb@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Casey Stickles;CUTYPE=INDIVIDUAL;EMAIL=caseys@sticklespr.com;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:caseys@sticklespr.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20251007T192836Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6243,8 +5727,6 @@ DTSTAMP:20251009T175045Z
 DTSTART;TZID=America/New_York:20251009T130000
 LAST-MODIFIED:20251009T175043Z
 LOCATION:https://meet.google.com/emo-wrfx-uxv
-ORGANIZER;CN=Casey Stickles;EMAIL=caseys@sticklespr.com;SCHEDULE-AGENT=CL
- IENT:mailto:caseys@sticklespr.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reason8 x SPR PR Proposal
@@ -6277,27 +5759,12 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=RESON8;CUTYPE=INDIVIDUAL;EMAIL=24746043189d60a52843c6064d473d
- a562bf1c668f9b2e7534058bc5a4f91ea4@group.calendar.google.com;PARTSTAT=AC
- CEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0
- :mailto:24746043189d60a52843c6064d473da562bf1c668f9b2e7534058bc5a4f91ea4
- @group.calendar.google.com
-ATTENDEE;CN=gz@longevc.com;CUTYPE=INDIVIDUAL;EMAIL=gz@longevc.com;PARTSTA
- T=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:gz@longevc.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20260104T194204Z
 DTEND;TZID=America/Los_Angeles:20260108T120000
 DTSTAMP:20260104T194247Z
 DTSTART;TZID=America/Los_Angeles:20260108T110000
 LAST-MODIFIED:20260104T194247Z
 LOCATION:2644 Eden Pl\nBeverly Hills\, CA\, United States
-ORGANIZER;CN=RESON8;EMAIL=24746043189d60a52843c6064d473da562bf1c668f9b2e7
- 534058bc5a4f91ea4@group.calendar.google.com;SCHEDULE-AGENT=CLIENT:mailto
- :24746043189d60a52843c6064d473da562bf1c668f9b2e7534058bc5a4f91ea4@group.
- calendar.google.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8 - Garri Zmudze
@@ -6517,15 +5984,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Baniyas Road 1/3, Dubai,
  .313807
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=rramberg@rina-capital.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:rramberg@rina-capital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250904T200527Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6538,8 +5996,6 @@ DTEND;TZID=America/Los_Angeles:20250905T103000
 DTSTAMP:20250904T223440Z
 DTSTART;TZID=America/Los_Angeles:20250905T100000
 LAST-MODIFIED:20250904T223427Z
-ORGANIZER;CN=Rich Ramberg;EMAIL=rramberg@rina-capital.com;SCHEDULE-AGENT=
- CLIENT:mailto:rramberg@rina-capital.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8/Rich Time
@@ -6642,12 +6098,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jamaal Rashad;CUTYPE=INDIVIDUAL;EMAIL=jamaal@rashadgroup.co;P
- ARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NU
- M-GUESTS=0:mailto:jamaal@rashadgroup.co
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250821T225146Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6660,8 +6110,6 @@ DTEND;TZID=America/Los_Angeles:20250825T170000
 DTSTAMP:20250825T230054Z
 DTSTART;TZID=America/Los_Angeles:20250825T160000
 LAST-MODIFIED:20250825T230053Z
-ORGANIZER;CN=Jamaal Rashad;EMAIL=jamaal@rashadgroup.co;SCHEDULE-AGENT=CLI
- ENT:mailto:jamaal@rashadgroup.co
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Jamaal &  Marc Benardout
@@ -6670,12 +6118,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/duc-yiss-mhk
 X-MICROSOFT-CDO-OWNERAPPTID:-568536365
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Ralph Kenney;CUTYPE=INDIVIDUAL;EMAIL=ralph@selfdecode.com;PAR
- TSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:ralph@selfdecode.com
-ATTENDEE;CN=benardout@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.c
- om;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;
- X-NUM-GUESTS=0:mailto:benardout@gmail.com
 CREATED:20250815T180358Z
 DESCRIPTION:<b>Booked by</b>\nMarc Benardout\nbenardout@gmail.com\n<br><b
  >Purpose of Meeting</b>\nReson8 collaboration discussion\n\n-::~:~::~:~:
@@ -6690,8 +6132,6 @@ DTEND;TZID=Europe/Belgrade:20250825T163000
 DTSTAMP:20250815T180517Z
 DTSTART;TZID=Europe/Belgrade:20250825T160000
 LAST-MODIFIED:20250815T180407Z
-ORGANIZER;CN=Ralph Kenney;EMAIL=ralph@selfdecode.com;SCHEDULE-AGENT=NONE:
- mailto:ralph@selfdecode.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:30 minute meeting with Ralph Kenney (Marc Benardout)
@@ -6700,15 +6140,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/gws-jytv-vgj
 X-MICROSOFT-CDO-OWNERAPPTID:-365685503
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20251013T155328Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6722,8 +6153,6 @@ DTSTAMP:20251013T155811Z
 DTSTART;TZID=Europe/London:20251013T170000
 LAST-MODIFIED:20251013T155810Z
 LOCATION:https://meet.google.com/pky-dskk-csm
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8/Art&Medicine
@@ -6732,18 +6161,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/pky-dskk-csm
 X-MICROSOFT-CDO-OWNERAPPTID:-860192774
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc@birthmarc.com;CUTYPE=INDIVIDUAL;EMAIL=marc@birthmarc.com
- ;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-GUESTS
- =0:mailto:marc@birthmarc.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marc@reson8frequency.com
-ATTENDEE;CN=rm@424cap.io;CUTYPE=INDIVIDUAL;EMAIL=rm@424cap.io;PARTSTAT=NE
- EDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUES
- TS=0:mailto:rm@424cap.io
 CREATED:20260307T042828Z
 DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
  d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8763
@@ -6759,8 +6176,6 @@ DTSTART;TZID=America/Los_Angeles:20260309T080000
 LAST-MODIFIED:20260307T144327Z
 LOCATION:https://us02web.zoom.us/j/87637859065?pwd=VcIxysaZnvdMQBZQDEgvXg
  HPWPFyxc.1
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Raj - RESON8 
@@ -6781,24 +6196,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251221T092741Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -6812,8 +6209,6 @@ DTSTAMP:20260109T150432Z
 DTSTART;TZID=Europe/London:20260109T160000
 LAST-MODIFIED:20260109T150431Z
 LOCATION:https://meet.google.com/umr-jsig-gno
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=NONE:m
- ailto:mark@markwbenson.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Art&MEdicine/RESON8 start the year!
@@ -6846,9 +6241,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250916T232332Z
 DESCRIPTION:<b>Please bring your ID to check into the event </b><br><br>J
  oin the Ionava team as we bring together health &amp\; wellness innovato
@@ -6877,8 +6269,6 @@ DTSTAMP:20251003T125519Z
 DTSTART;TZID=America/Toronto:20251015T130000
 LAST-MODIFIED:20251003T125518Z
 LOCATION:Club Joyful\, 2121 Lincoln Blvd\, Venice\, CA 90291\, USA
-ORGANIZER;CN=Crystelle Desnoyer;EMAIL=crystelle.desnoyer@gmail.com;SCHEDU
- LE-AGENT=CLIENT:mailto:crystelle.desnoyer@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Attendees - Health & Wellness Tech Innovators' Summit
@@ -6931,11 +6321,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|social\\\\\\|reson8 x hisham zoo
  ndar-fbe316cd-662f-4d63-abaf-6d3de90f06ed@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=helpuhear@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=helpuhear@gmail.c
- om;PARTSTAT=ACCEPTED:mailto:helpuhear@gmail.com
 CREATED:20250303T210934Z
 DESCRIPTION:Marc Benardout is inviting you to a scheduled Zoom meeting.\n
  Join Zoom Meeting\nhttps://us06web.zoom.us/j/89614676200?pwd=e7c6oJ5kTLD
@@ -6955,30 +6340,14 @@ DTSTART;TZID=America/Los_Angeles:20250303T133000
 LAST-MODIFIED:20250303T212255Z
 LOCATION:https://us06web.zoom.us/j/89614676200?pwd=e7c6oJ5kTLDdbJwkRFZodS
  Eps68ApV.1
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:Reson8 x Dr Chris Zoom Meeting
 UID:49329BAB-1451-4D7C-B7FF-79287D2BB65F
 X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 DTSTAMP:20250303T212256Z
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=DECLINED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;EMAIL=
- marc.benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf
- 7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=curtis.estes@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=curtis.estes@g
- mail.com;PARTSTAT=NEEDS-ACTION:mailto:curtis.estes@gmail.com
-ATTENDEE;CN=curtis.estes@nm.com;CUTYPE=INDIVIDUAL;EMAIL=curtis.estes@nm.c
- om:mailto:curtis.estes@nm.com
-ATTENDEE;CN=curtis_estes@hotmail.com;CUTYPE=INDIVIDUAL;EMAIL=curtis_estes
- @hotmail.com;PARTSTAT=NEEDS-ACTION:mailto:curtis_estes@hotmail.com
 CREATED:20250219T071901Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86955593115\n\nMeeting ID: 8
@@ -6996,8 +6365,6 @@ DTEND;TZID=America/Denver:20250220T160000
 DTSTART;TZID=America/Denver:20250220T150000
 LAST-MODIFIED:20250220T210254Z
 LOCATION:https://us02web.zoom.us/j/86955593115
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:3
 SUMMARY:Curtis and RESON8
 UID:498E23D5-BED5-4AA8-92DD-A889D3B84ADB
@@ -7040,17 +6407,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|hd31lkgp6splji3kfr1g3k1ug4@googl
  -57811e22-dfe2-4826-a8de-12e78dc02d5e@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=reson8frequency@gmail.
- com:mailto:reson8frequency@gmail.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=ACCEPTED:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=nick@reson8f
- requency.com:mailto:nick@reson8frequency.com
-ATTENDEE;CN=sarahkim@alum.mit.edu;CUTYPE=INDIVIDUAL;EMAIL=sarahkim@alum.m
- it.edu;PARTSTAT=ACCEPTED:mailto:sarahkim@alum.mit.edu
 CREATED:20260305T215444Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86315011390\n\nMeeting ID: 8
@@ -7062,8 +6418,6 @@ DTEND;TZID=America/Los_Angeles:20260306T100000
 DTSTART;TZID=America/Los_Angeles:20260306T090000
 LAST-MODIFIED:20260306T160743Z
 LOCATION:https://us02web.zoom.us/j/86315011390
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:RESON8 tech 
 UID:4ABA11F2-1B16-4AC6-A4F4-1F0075BF3DEE
@@ -7136,21 +6490,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAES3gIIrk0Qr
    91604, United States":geo:34.143583,-118.391959
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Belinda Nguyen;CUTYPE=INDIVIDUAL;EMAIL=belinda@expa.com;PARTS
- TAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GU
- ESTS=0:mailto:belinda@expa.com
-ATTENDEE;CN=Milun Tesovic;CUTYPE=INDIVIDUAL;EMAIL=mt@expa.com;PARTSTAT=NE
- EDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUES
- TS=0:mailto:mt@expa.com
-ATTENDEE;CN=Roberto Sanabria;CUTYPE=INDIVIDUAL;EMAIL=rs@expa.com;PARTSTAT
- =NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:rs@expa.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250813T171644Z
 DESCRIPTION:\nThe address is 926 N. Sycamore Avenue\, West Hollywood on t
  he 8th floor. When you arrive at security\, let them know you're here fo
@@ -7167,8 +6506,6 @@ DTSTAMP:20250813T190242Z
 DTSTART;TZID=America/Los_Angeles:20250820T140000
 LAST-MODIFIED:20250813T190235Z
 LOCATION:926 N. Sycamore Avenue\, West Hollywood on the 8th floor
-ORGANIZER;CN=Belinda Nguyen;EMAIL=belinda@expa.com;SCHEDULE-AGENT=CLIENT:
- mailto:belinda@expa.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Meeting w Nick/Marc (reson8) + Roberto/Milun (Expa)
@@ -7176,22 +6513,6 @@ UID:4o305u6ton3la3fe2hasa45vl5@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-2011412082
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Collins Billhardt;CUTYPE=INDIVIDUAL;EMAIL=collins.billhardt@r
- adiclescience.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHED
- ULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:collins.billhardt@radiclescience.co
- m
-ATTENDEE;CN=Susan Hewlings;CUTYPE=INDIVIDUAL;EMAIL=susan.hewlings@radicle
- science.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE;X-NUM-GUESTS=0:mailto:susan.hewlings@radiclescience.com
-ATTENDEE;CN=john@olivonadvisors.com;CUTYPE=INDIVIDUAL;EMAIL=john@olivonad
- visors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@olivonadvisors.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251105T184849Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j
@@ -7214,8 +6535,6 @@ DTEND;TZID=America/New_York:20251111T141500
 DTSTAMP:20251111T184138Z
 DTSTART;TZID=America/New_York:20251111T133000
 LAST-MODIFIED:20251111T184137Z
-ORGANIZER;CN=Collins Billhardt;EMAIL=collins.billhardt@radiclescience.com
- ;SCHEDULE-AGENT=CLIENT:mailto:collins.billhardt@radiclescience.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 & Radicle Science
@@ -7442,29 +6761,11 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Bill Bae;CUTYPE=INDIVIDUAL;EMAIL=bill.bae@radiclescience.com;
- PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE
- ;X-NUM-GUESTS=0:mailto:bill.bae@radiclescience.com
-ATTENDEE;CN=Collins Billhardt;CUTYPE=INDIVIDUAL;EMAIL=collins.billhardt@r
- adiclescience.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHED
- ULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:collins.billhardt@radiclescience.co
- m
-ATTENDEE;CN=john@olivonadvisors.com;CUTYPE=INDIVIDUAL;EMAIL=john@olivonad
- visors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@olivonadvisors.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250925T185039Z
 DTEND;TZID=America/New_York:20250926T124500
 DTSTAMP:20250926T151602Z
 DTSTART;TZID=America/New_York:20250926T120000
 LAST-MODIFIED:20250926T151601Z
-ORGANIZER;CN=Collins Billhardt;EMAIL=collins.billhardt@radiclescience.com
- ;SCHEDULE-AGENT=CLIENT:mailto:collins.billhardt@radiclescience.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 & Radicle Science: Introduction Call
@@ -7484,12 +6785,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251010T113922Z
 DESCRIPTION:=::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::=\nPlease do not edit this section of the descr
@@ -7504,8 +6799,6 @@ DTEND;TZID=Europe/Berlin:20251112T173000
 DTSTAMP:20251106T165354Z
 DTSTART;TZID=Europe/Berlin:20251112T170000
 LAST-MODIFIED:20251106T165353Z
-ORGANIZER;CN=Oleg Stavitsky;EMAIL=oleg@endel.io;SCHEDULE-AGENT=CLIENT:mai
- lto:oleg@endel.io
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Call: Oleg (Endel) - Nick (reson8)
@@ -7537,14 +6830,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voT
- F1V4IQ/principal/
-ATTENDEE;CN=ralph@selfdecode.com;CUTYPE=INDIVIDUAL;EMAIL=ralph@selfdecode
- .com:mailto:ralph@selfdecode.com
 CREATED:20250103T210627Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84231915338\n\nMeeting ID: 8
@@ -7562,8 +6847,6 @@ DTEND;TZID=America/Los_Angeles:20250107T090000
 DTSTART;TZID=America/Los_Angeles:20250107T080000
 LAST-MODIFIED:20250107T162415Z
 LOCATION:https://us02web.zoom.us/j/84231915338
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:RESON8-selfdecode
 UID:5A9CA14D-DCE0-4277-B4C2-6CAAB96016C0
@@ -7611,15 +6894,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=melrose@permaculture.capital;CUTYPE=INDIVIDUAL;EMAIL=melrose@
- permaculture.capital;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRU
- E;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:melrose@permaculture.capital
 CREATED:20250912T154900Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/85327012759\n\nMeeting ID: 8
@@ -7632,8 +6906,6 @@ DTSTAMP:20250914T154507Z
 DTSTART;TZID=Europe/Madrid:20250914T180000
 LAST-MODIFIED:20250914T154506Z
 LOCATION:https://us02web.zoom.us/j/85327012759
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:mel rose and reson8 
@@ -7681,21 +6953,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=john@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=john@artandme
- dicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20251023T165215Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -7709,8 +6966,6 @@ DTSTAMP:20251023T173000Z
 DTSTART;TZID=Europe/London:20251105T170000
 LAST-MODIFIED:20251023T172959Z
 LOCATION:https://meet.google.com/dfr-nfpo-gkk
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8/Art&Medicine follow up
@@ -7719,18 +6974,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/dfr-nfpo-gkk
 X-MICROSOFT-CDO-OWNERAPPTID:-1474255169
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Isabella Baldini;CUTYPE=INDIVIDUAL;EMAIL=isabella@danteomics.
- com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=
- NONE;X-NUM-GUESTS=0:mailto:isabella@danteomics.com
-ATTENDEE;CN=Riccardo Ottalevi;CUTYPE=INDIVIDUAL;EMAIL=riccardo.ottalevi@d
- anteomics.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE;X-NUM-GUESTS=0:mailto:riccardo.ottalevi@danteomics.com
-ATTENDEE;CN=marc.benardout@icloud.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benard
- out@icloud.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NON
- E;X-NUM-GUESTS=0:mailto:marc.benardout@icloud.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250404T174259Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -7743,8 +6986,6 @@ DTEND;TZID=Europe/Rome:20250409T180000
 DTSTAMP:20250409T150003Z
 DTSTART;TZID=Europe/Rome:20250409T170000
 LAST-MODIFIED:20250409T150003Z
-ORGANIZER;CN=Riccardo Ottalevi;EMAIL=riccardo.ottalevi@danteomics.com;SCH
- EDULE-AGENT=CLIENT:mailto:riccardo.ottalevi@danteomics.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Gene Expression Project - Review and timelines
@@ -7753,21 +6994,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/cjx-iskp-enk
 X-MICROSOFT-CDO-OWNERAPPTID:753264015
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=kyle.daigle10@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=kyle.daigle10
- @gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:kyle.daigle10@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marc@reson8frequency.com
-ATTENDEE;CN=mhawes@scitexas.edu;CUTYPE=INDIVIDUAL;EMAIL=mhawes@scitexas.e
- du;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:mhawes@scitexas.edu
 CREATED:20260412T054726Z
 DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
  d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8422
@@ -7783,8 +7009,6 @@ DTSTART;TZID=America/Los_Angeles:20260415T150000
 LAST-MODIFIED:20260415T220336Z
 LOCATION:https://us02web.zoom.us/j/84221498764?pwd=vQil8IhnaXxhqApruxEB5S
  kvKbYTj1.1
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- NONE:mailto:nickrosenmusic@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8 <> video games 
@@ -7874,14 +7098,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voT
- F1V4IQ/principal/
-ATTENDEE;CN=frank@frankfitzpatrick.com;CUTYPE=INDIVIDUAL;EMAIL=frank@fran
- kfitzpatrick.com:mailto:frank@frankfitzpatrick.com
 CREATED:20250201T012105Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/87287794817\n\nMeeting ID: 8
@@ -7899,8 +7115,6 @@ DTEND;TZID=America/Los_Angeles:20250205T143000
 DTSTART;TZID=America/Los_Angeles:20250205T140000
 LAST-MODIFIED:20250205T192427Z
 LOCATION:https://us02web.zoom.us/j/87287794817
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:Frank and RESON8
 UID:6375448F-2C38-4C14-8467-80D1E93BDB00
@@ -7908,8 +7122,6 @@ URL;VALUE=URI:https://us02web.zoom.us/j/87287794817
 X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
 X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 DTSTAMP:20250205T192429Z
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260210T114819Z
@@ -8053,26 +7265,11 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|social\\\\\\|reson8 x naser zoom
  dar-4daa1775-f146-4ad3-8487-bb7bc7a953e6@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;EMAIL=
- marc.benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf
- 7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Tim Degraye;CUTYPE=INDIVIDUAL;EMAIL=greymatter@me.com;PARTSTA
- T=ACCEPTED;ROLE=REQ-PARTICIPANT:/aMzgyNTkzNjYzODI1OTM2NpW3sR_YqePBfDnBxB
- grub2SO_YENz05HyGlocnqyEcs/principal/
-ATTENDEE;CN=shea@neuroacoustic.com;CUTYPE=INDIVIDUAL;EMAIL=shea@neuroacou
- stic.com:mailto:shea@neuroacoustic.com
-ATTENDEE;CN=thomasvu@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=thomasvu@gmail.com
- ;PARTSTAT=NEEDS-ACTION:mailto:thomasvu@gmail.com
 CREATED:20251203T010016Z
 DTEND;TZID=America/Los_Angeles:20251210T190000
 DTSTART;TZID=America/Los_Angeles:20251210T130000
 LAST-MODIFIED:20251204T223130Z
 LOCATION:2644 Eden Pl\nBeverly Hills\, CA\, United States
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:5
 SUMMARY:Dr Thompson / BioTune @ Eden
 UID:685F291A-288F-4288-AC59-07D18459921B
@@ -8209,18 +7406,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|social\\\\\\|reaon8 x signios zo
  endar-8c10557f-d1e6-4269-ad2c-2b438a44b846@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=daekha@yahoo.com;CUTYPE=INDIVIDUAL;EMAIL=daekha@yahoo.com;PAR
- TSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-
- NUM-GUESTS=0:mailto:daekha@yahoo.com
-ATTENDEE;CN=kyle.daigle10@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=kyle.daigle10
- @gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:kyle.daigle10@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20260124T045928Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/83126882946\n\nMeeting ID: 8
@@ -8233,8 +7418,6 @@ DTSTAMP:20260127T143739Z
 DTSTART;TZID=America/Los_Angeles:20260127T073000
 LAST-MODIFIED:20260127T143738Z
 LOCATION:https://us02web.zoom.us/j/83126882946
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:reson8 - Dae 
@@ -8245,15 +7428,6 @@ X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 X-MICROSOFT-CDO-OWNERAPPTID:-748329255
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Riccardo Ottalevi;CUTYPE=INDIVIDUAL;EMAIL=riccardo.ottalevi@d
- anteomics.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE;X-NUM-GUESTS=0:mailto:riccardo.ottalevi@danteomics.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20241209T085732Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8266,8 +7440,6 @@ DTEND;TZID=Europe/Rome:20241209T190000
 DTSTAMP:20241209T165222Z
 DTSTART;TZID=Europe/Rome:20241209T180000
 LAST-MODIFIED:20241209T165220Z
-ORGANIZER;CN=Riccardo Ottalevi;EMAIL=riccardo.ottalevi@danteomics.com;SCH
- EDULE-AGENT=CLIENT:mailto:riccardo.ottalevi@danteomics.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:REASON8 - DANTE : recap next steps 
@@ -8276,18 +7448,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/pwh-thdd-cdm
 X-MICROSOFT-CDO-OWNERAPPTID:518653349
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Chris Cannon;CUTYPE=INDIVIDUAL;EMAIL=chris@m2mma.com;PARTSTAT
- =ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUEST
- S=0:mailto:chris@m2mma.com
-ATTENDEE;CN=Jeff Robinson;CUTYPE=INDIVIDUAL;EMAIL=jeff@m2bio.ai;PARTSTAT=
- NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GU
- ESTS=0:mailto:jeff@m2bio.ai
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260219T140835Z
 DESCRIPTION:<p>──────────<br/>Chris Cannon is inviting you to a scheduled
   Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/83853
@@ -8306,8 +7466,6 @@ DTSTART;TZID=Asia/Dubai:20260223T180000
 LAST-MODIFIED:20260219T141440Z
 LOCATION:https://us06web.zoom.us/j/83853243734?pwd=lGMwHozcGRrr6CkweB9gE9
  24FZLQIa.1
-ORGANIZER;CN=Chris Cannon;EMAIL=chris@m2mma.com;SCHEDULE-AGENT=CLIENT:mai
- lto:chris@m2mma.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:M2MMA x Reson8
@@ -8315,15 +7473,6 @@ UID:6oag2e1i4i55d7gd16mouc4um0@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-812162718
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Riccardo Ottalevi;CUTYPE=INDIVIDUAL;EMAIL=riccardo.ottalevi@d
- anteomics.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE;X-NUM-GUESTS=0:mailto:riccardo.ottalevi@danteomics.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250213T222927Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8336,8 +7485,6 @@ DTEND;TZID=Europe/Rome:20250218T180000
 DTSTAMP:20250218T153855Z
 DTSTART;TZID=Europe/Rome:20250218T170000
 LAST-MODIFIED:20250218T153854Z
-ORGANIZER;CN=Riccardo Ottalevi;EMAIL=riccardo.ottalevi@danteomics.com;SCH
- EDULE-AGENT=CLIENT:mailto:riccardo.ottalevi@danteomics.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reason8 - Dante [DEG project]
@@ -8346,15 +7493,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/vhd-zoot-yns
 X-MICROSOFT-CDO-OWNERAPPTID:1304410719
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=rramberg@rina-capital.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:rramberg@rina-capital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250819T021343Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8367,8 +7505,6 @@ DTEND;TZID=America/New_York:20250820T210000
 DTSTAMP:20250821T002033Z
 DTSTART;TZID=America/New_York:20250820T200000
 LAST-MODIFIED:20250821T002032Z
-ORGANIZER;CN=Rich Ramberg;EMAIL=rramberg@rina-capital.com;SCHEDULE-AGENT=
- CLIENT:mailto:rramberg@rina-capital.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8/Rich
@@ -8377,15 +7513,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/exw-qygc-uzq
 X-MICROSOFT-CDO-OWNERAPPTID:509326616
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jamaal Rashad;CUTYPE=INDIVIDUAL;EMAIL=jamaal@rashadgroup.co;P
- ARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NU
- M-GUESTS=0:mailto:jamaal@rashadgroup.co
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250428T193156Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8398,8 +7525,6 @@ DTEND;TZID=America/Los_Angeles:20250507T114500
 DTSTAMP:20250428T212927Z
 DTSTART;TZID=America/Los_Angeles:20250507T110000
 LAST-MODIFIED:20250428T212925Z
-ORGANIZER;CN=Jamaal Rashad;EMAIL=jamaal@rashadgroup.co;SCHEDULE-AGENT=CLI
- ENT:mailto:jamaal@rashadgroup.co
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Jamaal
@@ -8420,19 +7545,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=nick@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nick@reson8frequency.com
-ATTENDEE;CN=stephan.agerman@slvventure.com;CUTYPE=INDIVIDUAL;EMAIL=stepha
- n.agerman@slvventure.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP
- =TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:stephan.agerman@slvventu
- re.com
 CREATED:20260417T204021Z
 DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
  d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8306
@@ -8448,8 +7560,6 @@ DTSTART;TZID=America/Los_Angeles:20260428T100000
 LAST-MODIFIED:20260417T204113Z
 LOCATION:https://us02web.zoom.us/j/83065800865?pwd=3Z6YJoEzPmb0N9pbS3bqA1
  4JanOnlx.1
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- NONE:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Stephen <> RESON8
@@ -8658,15 +7768,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=rramberg@rina-capital.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:rramberg@rina-capital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250804T034407Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8679,8 +7780,6 @@ DTEND;TZID=America/Los_Angeles:20250806T180000
 DTSTAMP:20250806T235422Z
 DTSTART;TZID=America/Los_Angeles:20250806T170000
 LAST-MODIFIED:20250806T235422Z
-ORGANIZER;CN=Rich Ramberg;EMAIL=rramberg@rina-capital.com;SCHEDULE-AGENT=
- CLIENT:mailto:rramberg@rina-capital.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 Data Room Review w/Rich
@@ -8714,25 +7813,16 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=sefton@houseldn.com;CUTYPE=INDIVIDUAL;EMAIL=sefton@houseldn.c
- om;PARTSTAT=ACCEPTED:mailto:sefton@houseldn.com
 CREATED:20260106T173002Z
 DTEND;TZID=Europe/London:20260205T100000
 DTSTART;TZID=Europe/London:20260205T090000
 LAST-MODIFIED:20260129T075736Z
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:2
 SUMMARY:RESON8 X SEFTON BREAKFAST MEET
 UID:7E23728D-34C2-47C2-A8BA-721B4764522B
 X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 DTSTAMP:20260129T075737Z
-ATTENDEE;CN=tim@hedunity.com;CUTYPE=INDIVIDUAL;EMAIL=tim@hedunity.com;SCH
- EDULE-STATUS=1.2:mailto:tim@hedunity.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20251007T165337Z
@@ -8759,15 +7849,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=rramberg@rina-capital.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:rramberg@rina-capital.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250718T024732Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -8780,8 +7861,6 @@ DTEND;TZID=America/Chicago:20250723T174500
 DTSTAMP:20250722T221308Z
 DTSTART;TZID=America/Chicago:20250723T164500
 LAST-MODIFIED:20250722T221227Z
-ORGANIZER;CN=Rich Ramberg;EMAIL=rramberg@rina-capital.com;SCHEDULE-AGENT=
- CLIENT:mailto:rramberg@rina-capital.com
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Reson8 Roadmap
@@ -8875,15 +7954,11 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@me.com;PARTSTAT=ACCEPTED;
- SCHEDULE-AGENT=NONE:mailto:marc.benardout@me.com
 DESCRIPTION:Greg to call Marc on cell.
 DTEND;TZID=America/Los_Angeles:20250106T123000
 DTSTAMP:20250106T194108Z
 DTSTART;TZID=America/Los_Angeles:20250106T120000
 LAST-MODIFIED:20250106T194108Z
-ORGANIZER;EMAIL=greg@mojaveghost.com;SCHEDULE-AGENT=NONE:mailto:greg@moja
- veghost.com
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Marc / RESON8
@@ -8891,31 +7966,6 @@ UID:85b4544c-9bff-4713-b593-96995895390e
 X-ALT-DESC;FMTTYPE=text/html:<p>Greg to call Marc on cell.</p>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=b.chretien@theclcgroup.net;CUTYPE=INDIVIDUAL;EMAIL=b.chretien
- @theclcgroup.net;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SC
- HEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:b.chretien@theclcgroup.net
-ATTENDEE;CN=billyg@sideviewventures.com;CUTYPE=INDIVIDUAL;EMAIL=billyg@si
- deviewventures.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;
- SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:billyg@sideviewventures.com
-ATTENDEE;CN=john@olivonadvisors.com;CUTYPE=INDIVIDUAL;EMAIL=john@olivonad
- visors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:john@olivonadvisors.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=marcellus@projecttransition.org;CUTYPE=INDIVIDUAL;EMAIL=marce
- llus@projecttransition.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RS
- VP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marcellus@projecttrans
- ition.org
-ATTENDEE;CN=mark@olivonadvisors.com;CUTYPE=INDIVIDUAL;EMAIL=mark@olivonad
- visors.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGE
- NT=NONE;X-NUM-GUESTS=0:mailto:mark@olivonadvisors.com
-ATTENDEE;CN=mlp@sideviewventures.com;CUTYPE=INDIVIDUAL;EMAIL=mlp@sideview
- ventures.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:mlp@sideviewventures.com
 CREATED:20251003T204009Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/88049930069\n\nMeeting ID: 8
@@ -8928,8 +7978,6 @@ DTSTAMP:20251003T220314Z
 DTSTART;TZID=America/Los_Angeles:20251006T110000
 LAST-MODIFIED:20251003T220313Z
 LOCATION:https://us02web.zoom.us/j/88049930069
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8 overview call 
@@ -8966,18 +8014,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Blackwell;CUTYPE=UNKNOWN;EMAIL=mark.blackwell@apexinvest
- ment.ae;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AG
- ENT=NONE:mailto:mark.blackwell@apexinvestment.ae
-ATTENDEE;CN=Quinton;CUTYPE=UNKNOWN;EMAIL=quinton@avercare.global;PARTSTAT
- =NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE:mailto:
- quinton@avercare.global
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=UNKNOWN;EMAIL=nickrosenmusic@
- gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-
- AGENT=NONE:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=UNKNOWN;EMAIL=reson8frequenc
- y@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDUL
- E-AGENT=NONE:mailto:reson8frequency@gmail.com
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US: Zoom Details TBC\n
 DTEND;TZID=Africa/Blantyre:20260108T180000
@@ -8985,8 +8021,6 @@ DTSTAMP:20260108T145538Z
 DTSTART;TZID=Africa/Blantyre:20260108T170000
 LAST-MODIFIED:20260108T145536Z
 LOCATION;LANGUAGE=en-US:Zoom Call Link- Details Below
-ORGANIZER;CN=Bianca Coutinho;EMAIL=bianca@avercare.global;SCHEDULE-AGENT=
- NONE:mailto:bianca@avercare.global
 PRIORITY:5
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -9020,23 +8054,16 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
 CREATED:20260127T152718Z
 DTEND;TZID=Europe/London:20260204T201500
 DTSTART;TZID=Europe/London:20260204T190000
 LAST-MODIFIED:20260129T075721Z
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:Dale & James Morris Dinner
 UID:8CB542A6-E707-4BB7-82BA-0A55917DD5A3
 X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 DTSTAMP:20260129T075722Z
-ATTENDEE;CN=Tim Degraye;CUTYPE=INDIVIDUAL;EMAIL=tim@hedunity.com;SCHEDULE
- -STATUS=1.2:mailto:tim@hedunity.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250109T202715Z
@@ -9121,18 +8148,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Gag K;CUTYPE=INDIVIDUAL;EMAIL=k.gag.k.1999@gmail.com;PARTSTAT
- =NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:k.gag.k.1999@gmail.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=abhivashi.ibs@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=abhivashi.ibs
- @gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:abhivashi.ibs@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20241223T193533Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/81865904558\n\nMeeting ID: 8
@@ -9151,8 +8166,6 @@ DTSTAMP:20241224T182000Z
 DTSTART;TZID=America/Los_Angeles:20241224T110000
 LAST-MODIFIED:20241224T181959Z
 LOCATION:https://us02web.zoom.us/j/81865904558
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8 aws and api 
@@ -9245,15 +8258,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=kuulasmaa@me.com;CUTYPE=INDIVIDUAL;EMAIL=kuulasmaa@me.com;PAR
- TSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-
- NUM-GUESTS=0:mailto:kuulasmaa@me.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250821T173215Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84066099204\n\nMeeting ID: 8
@@ -9266,8 +8270,6 @@ DTSTAMP:20250822T185538Z
 DTSTART;TZID=America/Los_Angeles:20250822T110000
 LAST-MODIFIED:20250822T185537Z
 LOCATION:https://us02web.zoom.us/j/84066099204
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:reson8 - risto
@@ -9746,25 +8748,12 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Johnny What;CUTYPE=INDIVIDUAL;EMAIL=johnnywhatla@gmail.com:ma
- ilto:johnnywhatla@gmail.com
-ATTENDEE;CN=Jon Blanchard;CUTYPE=INDIVIDUAL;EMAIL=jon@blvdhospitality.com
- ;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:/aNTU1OTkzNDMzNTU1OTkzNEGz3HJHlq
- S4kRDd0s4_oBJHvoRkiVsAkCYY35yATXbH/principal/
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Tim Degraye;CUTYPE=INDIVIDUAL;EMAIL=greymatter@me.com;PARTSTA
- T=DECLINED;ROLE=REQ-PARTICIPANT:/aMzgyNTkzNjYzODI1OTM2NpW3sR_YqePBfDnBxB
- grub2SO_YENz05HyGlocnqyEcs/principal/
 CREATED:20260302T162250Z
 DTEND:20260325T223000Z
 DTSTART:20260325T213000Z
 LAST-MODIFIED:20260325T195825Z
 LOCATION:The Maybourne Beverly Hills\, 225 N Canon Dr\, Beverly Hills\, C
  A 90210\, USA
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:17
 STATUS:CONFIRMED
 SUMMARY:Panel for Prestel and Partners
@@ -9871,17 +8860,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAEShwMIrk0Q3
  9, United States":geo:34.090797,-118.375448
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=RESON8;CUTYPE=INDIVIDUAL;EMAIL=24746043189d60a52843c6064d473d
- a562bf1c668f9b2e7534058bc5a4f91ea4@group.calendar.google.com;PARTSTAT=AC
- CEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0
- :mailto:24746043189d60a52843c6064d473da562bf1c668f9b2e7534058bc5a4f91ea4
- @group.calendar.google.com
-ATTENDEE;CN=hello@health-corp.com.au;CUTYPE=INDIVIDUAL;EMAIL=hello@health
- -corp.com.au;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hello@health-corp.com.au
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20260116T061336Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86497439550\n\nMeeting ID: 8
@@ -9894,10 +8872,6 @@ DTSTAMP:20260123T070003Z
 DTSTART;TZID=America/Los_Angeles:20260126T080000
 LAST-MODIFIED:20260123T070003Z
 LOCATION:https://us02web.zoom.us/j/86497439550
-ORGANIZER;CN=RESON8;EMAIL=24746043189d60a52843c6064d473da562bf1c668f9b2e7
- 534058bc5a4f91ea4@group.calendar.google.com;SCHEDULE-AGENT=NONE:mailto:2
- 4746043189d60a52843c6064d473da562bf1c668f9b2e7534058bc5a4f91ea4@group.ca
- lendar.google.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8-shane 
@@ -10078,9 +9052,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="71a Street 2/2, Dubai, U
  -REFERENCEFRAME=1;X-TITLE=Dubai Marina:geo:25.216201,55.266657
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
 CREATED:20251110T043946Z
 DESCRIPTION:Marc Benardout is inviting you to a scheduled Zoom meeting.\n
  Join Zoom Meeting\nhttps://us06web.zoom.us/j/81587597052?pwd=kIWr2QTKi4z
@@ -10094,8 +9065,6 @@ DTSTART;TZID=America/Los_Angeles:20251110T080000
 LAST-MODIFIED:20251110T043946Z
 LOCATION:https://us06web.zoom.us/j/81587597052?pwd=kIWr2QTKi4zYTUbdKy18tn
  1taKY6wj.1
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:0
 SUMMARY:Reson8 x Len call
 UID:B98B7D0E-D9D4-44ED-9C4B-CCEB15083E96
@@ -10104,10 +9073,6 @@ URL;VALUE=URI:https://us06web.zoom.us/j/81587597052?pwd=kIWr2QTKi4zYTUbdK
 X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
 X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 DTSTAMP:20251110T043949Z
-ATTENDEE;CN=len@saltwater.ventures;CUTYPE=INDIVIDUAL;EMAIL=len@saltwater.
- ventures;SCHEDULE-STATUS=5.2:mailto:len@saltwater.ventures
-ATTENDEE;CN=Nick Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.com;P
- ARTSTAT=ACCEPTED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260119T175838Z
@@ -10137,17 +9102,12 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
 CREATED:20251113T003912Z
 DTEND;TZID=America/Los_Angeles:20251118T140000
 DTSTART;TZID=America/Los_Angeles:20251118T130000
 LAST-MODIFIED:20251113T012203Z
 LOCATION:Soho House\n9200 Sunset Boulevard\, West Hollywood\, CA 90069\, 
  United States
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:2
 SUMMARY:Peter Bocian Meeting
 UID:BABB84A1-FFB9-4E68-A149-CA54246F03DC
@@ -10164,10 +9124,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAES0gIIrk0Q7
  0;X-TITLE="Soho House\n9200 Sunset Boulevard, West Hollywood, CA 90069, 
  United States":geo:34.089892,-118.392814
 DTSTAMP:20251113T012208Z
-ATTENDEE;CN=Peter Bocian;CUTYPE=INDIVIDUAL;EMAIL=pbocian503@gmail.com;SCH
- EDULE-STATUS=1.2:mailto:pbocian503@gmail.com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250930T223000Z
@@ -10292,16 +9248,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=0;X-APPLE-REFERENCEF
  RAME=0;X-TITLE=40 Greek Street:geo:51.513233,-0.130480
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=reson8frequency@gmail.
- com;PARTSTAT=ACCEPTED:mailto:reson8frequency@gmail.com
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voT
- F1V4IQ/principal/
-ATTENDEE;CN=metin@theguveners.com;CUTYPE=INDIVIDUAL;EMAIL=metin@theguvene
- rs.com:mailto:metin@theguveners.com
 CREATED:20260217T143554Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84300939866\n\nMeeting ID: 8
@@ -10313,8 +9259,6 @@ DTEND;TZID=Europe/Madrid:20260218T170000
 DTSTART;TZID=Europe/Madrid:20260218T160000
 LAST-MODIFIED:20260217T171550Z
 LOCATION:https://us02web.zoom.us/j/84300939866
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:RESON8 - Metin
 UID:C018831A-28A1-4682-A31D-5F97B4C875EB
@@ -10639,9 +9583,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|evt-gjhRoEENhXaRTa2@events.lu.ma
  c21-b1a166dd-6e90-4d97-86af-279dcb755df6-000000@us-west-2.amazonses.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
 CREATED:20260104T191752Z
 DESCRIPTION:Marc Benardout is inviting you to a scheduled Zoom meeting.\n
  Join Zoom Meeting\nhttps://us06web.zoom.us/j/86546935215?pwd=0cCj9O422H1
@@ -10657,8 +9598,6 @@ DTSTART;TZID=America/Los_Angeles:20260105T080000
 LAST-MODIFIED:20260104T191752Z
 LOCATION:https://us06web.zoom.us/j/86546935215?pwd=0cCj9O422H138iiyiD6SnP
  U0mvJLzN.1
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:0
 SUMMARY:Reson8 x Abbey zoom meeting 
 UID:CE4488CD-D165-4CC2-AC13-8F391445C1CC
@@ -10667,11 +9606,6 @@ URL;VALUE=URI:https://us06web.zoom.us/j/86546935215?pwd=0cCj9O422H138iiyi
 X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
 X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 DTSTAMP:20260104T191753Z
-ATTENDEE;CN=Abbeymc22x@outlook.com;CUTYPE=INDIVIDUAL;EMAIL=Abbeymc22x@out
- look.com;SCHEDULE-STATUS=1.1;PARTSTAT=ACCEPTED:mailto:Abbeymc22x@outlook
- .com
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260312T235213Z
@@ -10863,15 +9797,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|314cu14ghvnng5hdn9fsouq12m@googl
  -6621-4B9D-8F2C-6BC26271FC14@me.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=len@saltwater.ventures;CUTYPE=INDIVIDUAL;EMAIL=len@saltwater.
- ventures;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:len@saltwater.ventures
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20251104T144754Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86912839993\n\nMeeting ID: 8
@@ -10884,8 +9809,6 @@ DTSTAMP:20251109T160015Z
 DTSTART;TZID=Europe/Madrid:20251109T170000
 LAST-MODIFIED:20251109T160015Z
 LOCATION:https://us02web.zoom.us/j/86912839993
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8 - Len financials 
@@ -10931,17 +9854,12 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
 CREATED:20260301T151911Z
 DESCRIPTION:----( Video Call )----\nhttps://us02web.zoom.us/j/88106027656
  ?pwd=O05xv5xVEqdcA3TroaakyVUO91DO2o.1\n---===---
 DTEND;TZID=America/Los_Angeles:20260303T200000
 DTSTART;TZID=America/Los_Angeles:20260303T190000
 LAST-MODIFIED:20260301T165937Z
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:2
 SUMMARY:Call with Accelerated Biosciences/philip and Yuta
 UID:D7B3213A-BE10-4A94-A8FC-26BD7861CA66
@@ -10949,8 +9867,6 @@ URL;VALUE=URI:
 X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 DTSTAMP:20260301T165938Z
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;SCHEDULE-STATUS=2.0:mailto:nickrosenmusic@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20251204T164736Z
@@ -11055,11 +9971,6 @@ X-APPLE-SUGGESTION-INFO-UNIQUE-KEY:|2|\\|social\\\\\\|reson8 x marcus/ale
  <calendar-2a9dd337-aa6f-48e8-9b65-10125568127d@google.com>
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=andrea@danteomics.com;CUTYPE=INDIVIDUAL;EMAIL=andrea@danteomi
- cs.com;PARTSTAT=ACCEPTED:mailto:andrea@danteomics.com
 CREATED:20250207T175304Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/83804198960\n\nMeeting ID: 8
@@ -11077,8 +9988,6 @@ DTEND;TZID=America/Los_Angeles:20250212T100000
 DTSTART;TZID=America/Los_Angeles:20250212T090000
 LAST-MODIFIED:20250212T170016Z
 LOCATION:https://us02web.zoom.us/j/83804198960
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:Andrea -RESON8
 UID:E0989F10-FE63-48A2-96CD-120C12E7E977
@@ -11154,16 +10063,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=lschweizer@disruptive-oncology.com;CUTYPE=INDIVIDUAL;EMAIL=ls
- chweizer@disruptive-oncology.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIP
- ANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:lschweizer@disru
- ptive-oncology.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20250905T175505Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84299123984\n\nMeeting ID: 8
@@ -11176,8 +10075,6 @@ DTSTAMP:20250917T165457Z
 DTSTART;TZID=America/Los_Angeles:20250917T100000
 LAST-MODIFIED:20250917T165457Z
 LOCATION:https://us02web.zoom.us/j/84299123984
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- NONE:mailto:nickrosenmusic@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8 - Liang
@@ -11263,11 +10160,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;EMAIL=marc
- .benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@me.com:
- mailto:marc.benardout@me.com
 CREATED:20250103T183702Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84707269541\n\nMeeting ID: 8
@@ -11285,8 +10177,6 @@ DTEND;TZID=America/Los_Angeles:20250106T090000
 DTSTART;TZID=America/Los_Angeles:20250106T080000
 LAST-MODIFIED:20250103T183702Z
 LOCATION:https://us02web.zoom.us/j/84707269541
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:0
 SUMMARY:RESON8 app new features 
 UID:ED5A1B2A-D212-4D0F-8B94-C0D47F219534
@@ -11294,8 +10184,6 @@ URL;VALUE=URI:https://us02web.zoom.us/j/84707269541
 X-APPLE-CREATOR-IDENTITY:us.zoom.videomeetings
 X-APPLE-CREATOR-TEAM-IDENTITY:BJ4HAAB9B3
 DTSTAMP:20250103T183703Z
-ATTENDEE;CN=abhivashi.ibs@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=abhivashi.ibs
- @gmail.com;SCHEDULE-STATUS=1.2:mailto:abhivashi.ibs@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250703T014911Z
@@ -11396,15 +10284,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=nick@reson8f
- requency.com;PARTSTAT=ACCEPTED:mailto:nick@reson8frequency.com
-ATTENDEE;CN=veronica.s.chou@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=veronica.s.
- chou@gmail.com;PARTSTAT=ACCEPTED:mailto:veronica.s.chou@gmail.com
 CREATED:20260225T095524Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/87680934224\n\nMeeting ID: 8
@@ -11416,8 +10295,6 @@ DTEND;TZID=Europe/Madrid:20260225T190000
 DTSTART;TZID=Europe/Madrid:20260225T180000
 LAST-MODIFIED:20260225T164603Z
 LOCATION:https://us02web.zoom.us/j/87680934224
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:1
 SUMMARY:Veronica - Reson8 
 UID:F34F0283-3553-440C-BEAB-5E0B14A48137
@@ -11512,23 +10389,12 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=richard.ramberg@gmail.co
- m;PARTSTAT=NEEDS-ACTION:mailto:richard.ramberg@gmail.com
-ATTENDEE;CN=Rich Ramberg;CUTYPE=INDIVIDUAL;EMAIL=rramberg@rina-capital.co
- m;PARTSTAT=NEEDS-ACTION:mailto:rramberg@rina-capital.com
 CREATED:20251117T191320Z
 DTEND;TZID=America/Los_Angeles:20251124T140000
 DTSTART;TZID=America/Los_Angeles:20251124T130000
 LAST-MODIFIED:20251124T204941Z
 LOCATION:Soho House Holloway\n8465 W Holloway Dr\, West Hollywood\, CA  9
  0069\, United States
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:8
 SUMMARY:Rich Ramberg
 UID:F721363C-C3F8-4904-AFEB-CF10EF691B56
@@ -11683,14 +10549,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=MARC BENARDOUT;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@mac.com
- ;PARTSTAT=ACCEPTED;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf7opo
- K3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=Marc Bernadout;CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;EMAIL=
- marc.benardout@mac.com;ROLE=CHAIR:/aOTQzNzEzMjM5NDM3MTMyM8myjMiJEpQvPhGf
- 7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
-ATTENDEE;CN=laura@lauramwilde.com;CUTYPE=INDIVIDUAL;EMAIL=laura@lauramwil
- de.com;PARTSTAT=NEEDS-ACTION:mailto:laura@lauramwilde.com
 CREATED:20250107T233957Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/86881205163\n\nMeeting ID: 8
@@ -11708,8 +10566,6 @@ DTEND;TZID=America/Los_Angeles:20250115T170000
 DTSTART;TZID=America/Los_Angeles:20250115T160000
 LAST-MODIFIED:20250115T232536Z
 LOCATION:https://us02web.zoom.us/j/86881205163
-ORGANIZER;CN=MARC BENARDOUT;EMAIL=marc.benardout@mac.com:/aOTQzNzEzMjM5ND
- M3MTMyM8myjMiJEpQvPhGf7opoK3BHHbdmdTBeAV8voTF1V4IQ/principal/
 SEQUENCE:2
 SUMMARY:Laura - RESON8 
 UID:FBD14B02-242E-4736-BFA8-956FFC8BA2D2
@@ -11792,15 +10648,6 @@ X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=mark@olivonadvisors.com;CUTYPE=INDIVIDUAL;EMAIL=mark@olivonad
- visors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:mark@olivonadvisors.com
 CREATED:20260331T221817Z
 DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
  d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8913
@@ -11816,8 +10663,6 @@ DTSTART;TZID=America/Los_Angeles:20260410T110000
 LAST-MODIFIED:20260403T221338Z
 LOCATION:https://us02web.zoom.us/j/89132444520?pwd=UPvvkqeo78dhAYPtFB93ti
  tTVWwYxq.1
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8 <> Mark Moline catch up
@@ -11825,8 +10670,6 @@ UID:a7vdc0ra389jm453ela1u7kqd4@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-184892720
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CUTYPE=UNKNOWN;EMAIL=marc@reson8frequency.com;SCHEDULE-AGENT=NON
- E:mailto:marc@reson8frequency.com
 CLASS:PUBLIC
 DESCRIPTION:Event Name: Introductory Meeting\nEvent Description: This int
  roductory meeting will allow our team to assess whether your business al
@@ -11844,24 +10687,11 @@ DTEND:20260414T170000Z
 DTSTAMP:20260414T163422Z
 DTSTART:20260414T163000Z
 LAST-MODIFIED:20260414T163422Z
-ORGANIZER;CN=Rick Bergesen;SCHEDULE-AGENT=NONE:no-reply@calendly.com
 SEQUENCE:0
 SUMMARY:Introductory Meeting with Rick Bergesen
 UID:calendly-1568836152
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Len Findlay;CUTYPE=INDIVIDUAL;EMAIL=len@saltwater.ventures;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:len@saltwater.ventures
-ATTENDEE;CN=c-michele.scataglini@difc.ae;CUTYPE=INDIVIDUAL;EMAIL=c-michel
- e.scataglini@difc.ae;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRU
- E;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:c-michele.scataglini@difc.ae
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260210T103117Z
 DTEND;TZID=Asia/Dubai:20260212T120000
 DTSTAMP:20260210T135941Z
@@ -11869,8 +10699,6 @@ DTSTART;TZID=Asia/Dubai:20260212T110000
 LAST-MODIFIED:20260210T135936Z
 LOCATION:DIFC Innovation Hub\, Gate Avenue\, Zone D - Level 1 Al Mustaqba
  l St - Zaa'beel Second - DIFC - Dubai - United Arab Emirates
-ORGANIZER;CN=Len Findlay;EMAIL=len@saltwater.ventures;SCHEDULE-AGENT=CLIE
- NT:mailto:len@saltwater.ventures
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Intro/Catch up - Michele/Len/Reson8
@@ -11878,21 +10706,6 @@ UID:chj34dhk69h30b9h69j6ab9k6gr3abb2ckp3ib9ocksj0c1mccpm6dpgco@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-1672998610
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=liv@houseldn.com;CUTYPE=INDIVIDUAL;EMAIL=liv@houseldn.com;PAR
- TSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-
- NUM-GUESTS=0:mailto:liv@houseldn.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=sefton@houseldn.com;CUTYPE=INDIVIDUAL;EMAIL=sefton@houseldn.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:sefton@houseldn.com
 CREATED:20260320T151818Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/897
@@ -11910,8 +10723,6 @@ DTSTART;TZID=America/Los_Angeles:20260326T100000
 LAST-MODIFIED:20260326T172435Z
 LOCATION:https://us06web.zoom.us/j/89727486731?pwd=iUsDZiMAaN9e4zxbtz0leg
  ooZTPA5p.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Sefton/Liv Zoom Meeting
@@ -11938,15 +10749,6 @@ X-ALT-DESC;FMTTYPE=text/html:This 90-minute virtual experience offers an
  s\nNovember 25\, 2025 at 9:00 AM PST\nZOOM
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260217T135511Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/858
@@ -11964,8 +10766,6 @@ DTSTART;TZID=America/Los_Angeles:20260220T060000
 LAST-MODIFIED:20260220T130513Z
 LOCATION:https://us06web.zoom.us/j/85850696819?pwd=rxvbDzIE8O7RldHpPQ1NXa
  MkV3GxTb.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Gautam Zoom Meeting
@@ -11973,18 +10773,6 @@ UID:ea0o3hq3sb44dlouo3rvaovtp0@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-1959335664
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Krisbell Robles;CUTYPE=INDIVIDUAL;EMAIL=krisbell@hylafunds.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:krisbell@hylafunds.com
-ATTENDEE;CN=Paola Origel;CUTYPE=INDIVIDUAL;EMAIL=paola@hylafunds.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:paola@hylafunds.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260115T170529Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -11998,8 +10786,6 @@ DTSTAMP:20260119T175144Z
 DTSTART;TZID=America/New_York:20260119T130000
 LAST-MODIFIED:20260119T175144Z
 LOCATION:https://meet.google.com/fbc-ewoq-axc
-ORGANIZER;CN=Krisbell Robles;EMAIL=krisbell@hylafunds.com;SCHEDULE-AGENT=
- CLIENT:mailto:krisbell@hylafunds.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Call - DNA Kits
@@ -12008,9 +10794,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/fbc-ewoq-axc
 X-MICROSOFT-CDO-OWNERAPPTID:-1003240012
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 DESCRIPTION:Get up-to-date information at: https://luma.com/event/evt-oYN
  CViCmJyen6fo?pk=g-LPG4UtC2JCI3V90\n\nAddress:\n10395 Jefferson Blvd\nCul
  ver City\, California\nUnited States\n\nLimitless & Evolved | Designing 
@@ -12029,8 +10812,6 @@ DTSTART:20251114T023000Z
 GEO:34.007976299999996;-118.39192609999999
 LAST-MODIFIED:20251111T005743Z
 LOCATION:10395 Jefferson Blvd
-ORGANIZER;CN=Share Ventures | Inside the Circle;EMAIL=calendar-invite@lu.
- ma;SCHEDULE-AGENT=CLIENT:MAILTO:calendar-invite@lu.ma
 SEQUENCE:184985863
 STATUS:CONFIRMED
 SUMMARY:Limitless & Evolved | Designing the Future of Men's Health & Long
@@ -12038,15 +10819,6 @@ SUMMARY:Limitless & Evolved | Designing the Future of Men's Health & Long
 UID:evt-oYNCViCmJyen6fo@events.lu.ma
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Sabrina Guler;CUTYPE=INDIVIDUAL;EMAIL=sabrina@intuitiveceo.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:sabrina@intuitiveceo.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251101T121818Z
 DESCRIPTION:Event Name\nCoffee Chat!\n\nLocation: This is a Zoom web conf
  erence.\n\nYou can join this meeting from your computer\, tablet\, or sm
@@ -12067,8 +10839,6 @@ DTSTART;TZID=America/Los_Angeles:20251106T090000
 LAST-MODIFIED:20251102T030319Z
 LOCATION:https://us02web.zoom.us/j/88600476108?pwd=tCG1OKAqycL3T8GljdHytF
  aZFAyv2Y.1
-ORGANIZER;CN=Sabrina Guler;EMAIL=sabrina@intuitiveceo.com;SCHEDULE-AGENT=
- CLIENT:mailto:sabrina@intuitiveceo.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Marc Benardout and Sabrina Guler
@@ -12076,20 +10846,12 @@ UID:g9dm4nuq52aeahpr32rpqmnkb4@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:1458813632
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Ciara Martin;CUTYPE=INDIVIDUAL;EMAIL=cimartin@twistbioscience
- .com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NON
- E;X-NUM-GUESTS=0:mailto:cimartin@twistbioscience.com
-ATTENDEE;CN=reson8frequency@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=reson8frequ
- ency@gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:reson8frequency@gmail.com
 CREATED:20260103T010033Z
 DESCRIPTION:Invitee: Marc Benardout\n
 DTEND;TZID=America/Denver:20260105T100000
 DTSTAMP:20260103T010145Z
 DTSTART;TZID=America/Denver:20260105T094500
 LAST-MODIFIED:20260103T010036Z
-ORGANIZER;CN=Ciara Martin;EMAIL=cimartin@twistbioscience.com;SCHEDULE-AGE
- NT=NONE:mailto:cimartin@twistbioscience.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Meeting with Marc Benardout
@@ -12097,22 +10859,6 @@ UID:h9famjc72920fe9gst41irnng4@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-1742729398
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=chris.balagtas@signiosbio.com;CUTYPE=INDIVIDUAL;EMAIL=chris.b
- alagtas@signiosbio.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:chris.balagtas@signiosbio.
- com
-ATTENDEE;CN=leehdanny@yahoo.com;CUTYPE=INDIVIDUAL;EMAIL=leehdanny@yahoo.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:leehdanny@yahoo.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260416T005747Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/845
@@ -12130,8 +10876,6 @@ DTSTART;TZID=America/Los_Angeles:20260416T130000
 LAST-MODIFIED:20260416T200009Z
 LOCATION:https://us06web.zoom.us/j/84501638991?pwd=68UjSXCVSOLFH1URaW2E1a
  StQOc8yK.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Danny Lee Zoom Meeting
@@ -12139,21 +10883,6 @@ UID:j6e6sbs8vkik0il6r2agv19qng@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:174972611
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=oaksusu@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=oaksusu@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;
- X-NUM-GUESTS=0:mailto:oaksusu@gmail.com
-ATTENDEE;CN=sarah@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=sarah@reson
- 8frequency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:sarah@reson8frequency.com
 CREATED:20260310T131502Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/891
@@ -12171,8 +10900,6 @@ DTSTART;TZID=America/Los_Angeles:20260311T093000
 LAST-MODIFIED:20260311T162521Z
 LOCATION:https://us06web.zoom.us/j/89130211109?pwd=rHVbDZTIdoWdxuVjvJVqxb
  dUVkoRSk.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:RESON8 x Gaurav Zoom Meeting
@@ -12180,22 +10907,6 @@ UID:j9h3ic953gctd7as69ibi558gg@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:147860422
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=chris.balagtas@signiosbio.com;CUTYPE=INDIVIDUAL;EMAIL=chris.b
- alagtas@signiosbio.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=T
- RUE;SCHEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:chris.balagtas@signiosbio.
- com
-ATTENDEE;CN=leehdanny@yahoo.com;CUTYPE=INDIVIDUAL;EMAIL=leehdanny@yahoo.c
- om;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:leehdanny@yahoo.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260417T002955Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/861
@@ -12213,8 +10924,6 @@ DTSTART;TZID=America/Los_Angeles:20260417T170000
 LAST-MODIFIED:20260417T003117Z
 LOCATION:https://us06web.zoom.us/j/86131803398?pwd=SarTS2eTxFjEGcodF51FlQ
  0ACckScn.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Danny Lee Zoom Meeting
@@ -12222,15 +10931,6 @@ UID:jbkvs6gdngntntih5u2pr8mamk@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:1170691243
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Crystelle Desnoyer;CUTYPE=INDIVIDUAL;EMAIL=crystelle.desnoyer
- @gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGE
- NT=NONE;X-NUM-GUESTS=0:mailto:crystelle.desnoyer@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250922T232029Z
 DESCRIPTION:Event Name\nMeet with Crystelle (30min)\n\nFriday afternoons 
  are all about giving back and connecting. They are dedicated to:\n\n\nVo
@@ -12262,8 +10962,6 @@ DTSTART;TZID=America/Toronto:20251003T113000
 LAST-MODIFIED:20251003T143009Z
 LOCATION:Google Meet (instructions in description)\; https://meet.google.
  com/hef-wemn-ncx
-ORGANIZER;CN=Crystelle Desnoyer;EMAIL=crystelle.desnoyer@gmail.com;SCHEDU
- LE-AGENT=CLIENT:mailto:crystelle.desnoyer@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Marc Benardout and Crystelle Desnoyer
@@ -12272,21 +10970,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/hef-wemn-ncx
 X-MICROSOFT-CDO-OWNERAPPTID:1797460634
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Mark Benson;CUTYPE=INDIVIDUAL;EMAIL=mark@markwbenson.com;PART
- STAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM-G
- UESTS=0:mailto:mark@markwbenson.com
-ATTENDEE;CN=darren@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=darren@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:darren@artandmedicine.org
-ATTENDEE;CN=hector@artandmedicine.org;CUTYPE=INDIVIDUAL;EMAIL=hector@arta
- ndmedicine.org;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:hector@artandmedicine.org
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260217T170322Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -12300,8 +10983,6 @@ DTSTAMP:20260220T175205Z
 DTSTART;TZID=Europe/London:20260220T170000
 LAST-MODIFIED:20260220T175157Z
 LOCATION:https://meet.google.com/ayx-yzdk-hiu
-ORGANIZER;CN=Mark Benson;EMAIL=mark@markwbenson.com;SCHEDULE-AGENT=CLIENT
- :mailto:mark@markwbenson.com
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:RESON8/A&M catch up
@@ -12310,15 +10991,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/ayx-yzdk-hiu
 X-MICROSOFT-CDO-OWNERAPPTID:1959130011
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Laura Zarzuela;CUTYPE=INDIVIDUAL;EMAIL=laura.zarzuela@websumm
- it.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=N
- ONE;X-NUM-GUESTS=0:mailto:laura.zarzuela@websummit.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=nick@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nick@reson8frequency.com
 CREATED:20260318T173023Z
 DESCRIPTION:Event Name: Web Summit Vancouver 2026: Startups Program\n\nIt
   would be great if we could have a 20 minute call to discuss your compan
@@ -12354,8 +11026,6 @@ DTSTART;TZID=Europe/Dublin:20260324T162000
 LAST-MODIFIED:20260324T153912Z
 LOCATION:Google Meet (instructions in description)\; https://meet.google.
  com/foz-xqcp-mjq
-ORGANIZER;CN=Laura Zarzuela;EMAIL=laura.zarzuela@websummit.com;SCHEDULE-A
- GENT=NONE:mailto:laura.zarzuela@websummit.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Marc Benardout and Laura Zarzuela
@@ -12364,20 +11034,12 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/foz-xqcp-mjq
 X-MICROSOFT-CDO-OWNERAPPTID:1456662855
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Lior Rauchberger;CUTYPE=INDIVIDUAL;EMAIL=lior@genebygene.com;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:lior@genebygene.com
-ATTENDEE;CN=benardout@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.c
- om;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;
- X-NUM-GUESTS=0:mailto:benardout@gmail.com
 CREATED:20251205T123329Z
 DESCRIPTION:<b>Booked by</b>\nMarc Benardout\nbenardout@gmail.com
 DTEND;TZID=Australia/Melbourne:20251209T130000
 DTSTAMP:20251205T123428Z
 DTSTART;TZID=Australia/Melbourne:20251209T121500
 LAST-MODIFIED:20251205T123332Z
-ORGANIZER;CN=Lior Rauchberger;EMAIL=lior@genebygene.com;SCHEDULE-AGENT=NO
- NE:mailto:lior@genebygene.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Meeting with Lior (Marc Benardout)
@@ -12385,18 +11047,6 @@ UID:n7hujqi1hel10fkodahi48m75g@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-869190076
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=dariusmarder@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=dariusmarder@g
- mail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:dariusmarder@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260415T184600Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/817
@@ -12414,8 +11064,6 @@ DTSTART;TZID=America/Los_Angeles:20260420T070000
 LAST-MODIFIED:20260420T135839Z
 LOCATION:https://us06web.zoom.us/j/81751735063?pwd=7wBH6lDhKKV4Rbe37XFSrx
  wBsXbuYA.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Darius x Reson8 Zoom Meeting
@@ -12423,18 +11071,6 @@ UID:nc2jbqir82aa4e6ph7rc7fj5so@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:205447670
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=scohen@kwilladvisors.com;CUTYPE=INDIVIDUAL;EMAIL=scohen@kwill
- advisors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:scohen@kwilladvisors.com
 CREATED:20260310T030322Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/893
@@ -12452,8 +11088,6 @@ DTSTART;TZID=America/Los_Angeles:20260313T080000
 LAST-MODIFIED:20260313T144830Z
 LOCATION:https://us06web.zoom.us/j/89365154886?pwd=qNaMkVZsOVOb0192BmsKPO
  YVlNo7E7.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Scott Cohen Zoom Meeting
@@ -12461,12 +11095,6 @@ UID:no53pq814ph23klgdkic7kk6f8@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-256076529
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
 CREATED:20260415T025910Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/886
@@ -12484,8 +11112,6 @@ DTSTART;TZID=America/Los_Angeles:20260415T163000
 LAST-MODIFIED:20260415T131236Z
 LOCATION:https://us06web.zoom.us/j/88676394731?pwd=CuEkiX9LexSvXOfCwylxpW
  iifJQjM3.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reaon8 x Signios Zoom Meeting
@@ -12493,15 +11119,6 @@ UID:o5kn44u9u5ig38o9bt7bk1cgqc@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:1491783508
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Jamaal Rashad;CUTYPE=INDIVIDUAL;EMAIL=jamaal@rashadgroup.co;P
- ARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NU
- M-GUESTS=0:mailto:jamaal@rashadgroup.co
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20250702T012224Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -12514,8 +11131,6 @@ DTEND;TZID=America/Los_Angeles:20250704T093000
 DTSTAMP:20250702T153353Z
 DTSTART;TZID=America/Los_Angeles:20250704T090000
 LAST-MODIFIED:20250702T153347Z
-ORGANIZER;CN=Jamaal Rashad;EMAIL=jamaal@rashadgroup.co;SCHEDULE-AGENT=CLI
- ENT:mailto:jamaal@rashadgroup.co
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Rashad Group
@@ -12524,18 +11139,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/wun-eotr-vyr
 X-MICROSOFT-CDO-OWNERAPPTID:2137565712
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Krisbell Robles;CUTYPE=INDIVIDUAL;EMAIL=krisbell@hylafunds.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:krisbell@hylafunds.com
-ATTENDEE;CN=Paola Origel;CUTYPE=INDIVIDUAL;EMAIL=paola@hylafunds.com;PART
- STAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:paola@hylafunds.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251119T184715Z
 DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
  :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
@@ -12549,8 +11152,6 @@ DTSTAMP:20251124T162520Z
 DTSTART;TZID=America/New_York:20251124T120000
 LAST-MODIFIED:20251124T162519Z
 LOCATION:https://meet.google.com/ipr-nmzy-ssr
-ORGANIZER;CN=Krisbell Robles;EMAIL=krisbell@hylafunds.com;SCHEDULE-AGENT=
- CLIENT:mailto:krisbell@hylafunds.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Call - Frequency Legends
@@ -12559,21 +11160,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/ipr-nmzy-ssr
 X-MICROSOFT-CDO-OWNERAPPTID:1230109228
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=fmraoul@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=fmraoul@gmail.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;
- X-NUM-GUESTS=0:mailto:fmraoul@gmail.com
-ATTENDEE;CN=gautam@f-f.co.in;CUTYPE=INDIVIDUAL;EMAIL=gautam@f-f.co.in;PAR
- TSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-
- NUM-GUESTS=0:mailto:gautam@f-f.co.in
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260310T174823Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/897
@@ -12591,8 +11177,6 @@ DTSTART;TZID=America/Los_Angeles:20260311T080000
 LAST-MODIFIED:20260310T174858Z
 LOCATION:https://us06web.zoom.us/j/89771362603?pwd=TJNV9xnPFemfJXpRoWX8gf
  4LalsPtC.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Gautam/Raoul Zoom Meeting
@@ -12600,21 +11184,6 @@ UID:pa7bco7iigg87djjp3m0pnkg7c@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-199018542
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=bradleydock@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=bradleydock@gma
- il.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGE
- NT=NONE;X-NUM-GUESTS=0:mailto:bradleydock@gmail.com
-ATTENDEE;CN=laura@lauramwilde.com;CUTYPE=INDIVIDUAL;EMAIL=laura@lauramwil
- de.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGE
- NT=NONE;X-NUM-GUESTS=0:mailto:laura@lauramwilde.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260415T181010Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/838
@@ -12632,8 +11201,6 @@ DTSTART;TZID=America/Los_Angeles:20260416T100000
 LAST-MODIFIED:20260415T181049Z
 LOCATION:https://us06web.zoom.us/j/83826422592?pwd=rVbvLr03YcoAPrqv1VhW5a
  puM51xl5.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Bradley Zoom Meeting
@@ -12641,15 +11208,6 @@ UID:pmeu10jarisakepfp8guc1tbv0@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-2017898399
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Ben Alemany;CUTYPE=INDIVIDUAL;EMAIL=benjamin@savvycapital.io;
- PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-N
- UM-GUESTS=0:mailto:benjamin@savvycapital.io
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20241210T002259Z
 DESCRIPTION:Event Name: Scheduled Call\n\nPlease use this option to sched
  ule a 30-minute conversation.\n\nLocation: This is a Google Meet web con
@@ -12671,8 +11229,6 @@ DTSTAMP:20241219T184507Z
 DTSTART;TZID=America/Mexico_City:20241219T100000
 LAST-MODIFIED:20241219T184506Z
 LOCATION:Google Meet (instructions in description)
-ORGANIZER;CN=Ben Alemany;EMAIL=benjamin@savvycapital.io;SCHEDULE-AGENT=NO
- NE:mailto:benjamin@savvycapital.io
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:(2nd Call Discovery) Marc & Nick/ Reson8 frequency system and Ben
@@ -12682,21 +11238,6 @@ X-GOOGLE-CONFERENCE:https://meet.google.com/bhe-nfec-cfp
 X-MICROSOFT-CDO-OWNERAPPTID:-2079584716
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=dean@premiermentors.com;CUTYPE=INDIVIDUAL;EMAIL=dean@premierm
- entors.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:dean@premiermentors.com
-ATTENDEE;CN=dwyman@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=dwyman@gmail.com;PAR
- TSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-
- NUM-GUESTS=0:mailto:dwyman@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=TENTATIVE;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260319T221210Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/824
@@ -12714,8 +11255,6 @@ DTSTART;TZID=America/Los_Angeles:20260320T110000
 LAST-MODIFIED:20260320T181837Z
 LOCATION:https://us06web.zoom.us/j/82425288441?pwd=MzDCRGbQFSycdeM4ggbZUE
  b72xYjVM.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Drewski Zoom Meeting
@@ -12723,15 +11262,6 @@ UID:r2btboj7dejkr94qmevp7i7dt4@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-1419310573
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Nicolas Rosen;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmusic@gmail.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=sri@abundancehealth.com;CUTYPE=INDIVIDUAL;EMAIL=sri@abundance
- health.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE
- -AGENT=NONE;X-NUM-GUESTS=0:mailto:sri@abundancehealth.com
 CREATED:20250116T214804Z
 DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
  oin Zoom Meeting\nhttps://us02web.zoom.us/j/84877275509\n\nMeeting ID: 8
@@ -12750,8 +11280,6 @@ DTSTAMP:20250122T210219Z
 DTSTART;TZID=America/Los_Angeles:20250122T130000
 LAST-MODIFIED:20250122T210218Z
 LOCATION:https://us02web.zoom.us/j/84877275509
-ORGANIZER;CN=Nicolas Rosen;EMAIL=nickrosenmusic@gmail.com;SCHEDULE-AGENT=
- CLIENT:mailto:nickrosenmusic@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Dr Sri- RESON8
@@ -12759,21 +11287,6 @@ UID:rcjkgvua908698ic46cd0uqfps@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-1076438596
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=dominik.kaiser@ayus.health;CUTYPE=INDIVIDUAL;EMAIL=dominik.ka
- iser@ayus.health;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SC
- HEDULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:dominik.kaiser@ayus.health
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=mg@octagonalorigin.com;CUTYPE=INDIVIDUAL;EMAIL=mg@octagonalor
- igin.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-A
- GENT=NONE;X-NUM-GUESTS=0:mailto:mg@octagonalorigin.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20260401T232155Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/892
@@ -12791,8 +11304,6 @@ DTSTART;TZID=America/Los_Angeles:20260408T100000
 LAST-MODIFIED:20260408T163430Z
 LOCATION:https://us06web.zoom.us/j/89293493887?pwd=coaVp9aoJOnKB34oNomXPP
  nAb43yLs.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Dominik & Metin Zoom Meeting
@@ -12800,27 +11311,6 @@ UID:t3319c33335fcp523gmlh98k3o@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:679809415
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Marc Benardout;CUTYPE=INDIVIDUAL;EMAIL=benardout@gmail.com;PA
- RTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X-NUM
- -GUESTS=0:mailto:benardout@gmail.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=marc@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=marc@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:marc@reson8frequency.com
-ATTENDEE;CN=nick@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=nick@reson8f
- requency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nick@reson8frequency.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
-ATTENDEE;CN=oaksusu@yahoo.com;CUTYPE=INDIVIDUAL;EMAIL=oaksusu@yahoo.com;P
- ARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;
- X-NUM-GUESTS=0:mailto:oaksusu@yahoo.com
-ATTENDEE;CN=sarah@reson8frequency.com;CUTYPE=INDIVIDUAL;EMAIL=sarah@reson
- 8frequency.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHE
- DULE-AGENT=NONE;X-NUM-GUESTS=0:mailto:sarah@reson8frequency.com
 CREATED:20260228T181508Z
 DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
  ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/826
@@ -12839,8 +11329,6 @@ EXDATE;TZID=America/Los_Angeles:20260309T090000
 LAST-MODIFIED:20260406T163656Z
 LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
  3qSTKrji.1
-ORGANIZER;CN=Marc Benardout;EMAIL=benardout@gmail.com;SCHEDULE-AGENT=CLIE
- NT:mailto:benardout@gmail.com
 RRULE:FREQ=WEEKLY;BYDAY=MO
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -12849,15 +11337,6 @@ UID:u21ah53v518q85cms1pfo8q0n0@google.com
 X-MICROSOFT-CDO-OWNERAPPTID:-2142843864
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN=Sabrina Guler;CUTYPE=INDIVIDUAL;EMAIL=sabrina@intuitiveceo.co
- m;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDULE-AGENT=NONE;X
- -NUM-GUESTS=0:mailto:sabrina@intuitiveceo.com
-ATTENDEE;CN=marc.benardout@me.com;CUTYPE=INDIVIDUAL;EMAIL=marc.benardout@
- me.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;SCHEDULE-AGENT=NONE;X-NUM-
- GUESTS=0:mailto:marc.benardout@me.com
-ATTENDEE;CN=nickrosenmusic@gmail.com;CUTYPE=INDIVIDUAL;EMAIL=nickrosenmus
- ic@gmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE;SCHEDU
- LE-AGENT=NONE;X-NUM-GUESTS=0:mailto:nickrosenmusic@gmail.com
 CREATED:20251109T210717Z
 DESCRIPTION:Event Name\nFollow-Up Call\n\nLocation: This is a Zoom web co
  nference.\n\nYou can join this meeting from your computer\, tablet\, or 
@@ -12878,8 +11357,6 @@ DTSTART;TZID=America/Los_Angeles:20251111T143000
 LAST-MODIFIED:20251111T214253Z
 LOCATION:https://us02web.zoom.us/j/88588088070?pwd=h8TyGQahJ5SI4tB9SGqoef
  k9a5E9C6.1
-ORGANIZER;CN=Sabrina Guler;EMAIL=sabrina@intuitiveceo.com;SCHEDULE-AGENT=
- CLIENT:mailto:sabrina@intuitiveceo.com
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Marc Benardout and Sabrina Guler
