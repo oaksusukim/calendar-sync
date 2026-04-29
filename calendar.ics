@@ -9258,4 +9258,28 @@ SUMMARY:Call with Adeel
 UID:B9B0698D-734E-46C5-ABAC-49686638FDBF
 URL;VALUE=URI:
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260429T170814Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/852
+ 90483166?pwd=Xv17Ja4r2spNltYD5QeEaLekQMNfb6.1<br/><br/>View meeting insi
+ ghts with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?muid=
+ 539340c3-29cd-4650-9b0e-6daa083f87bc<br/><br/>Meeting ID: 852 9048 3166<
+ br/>Passcode: 800635<br/><br/>---<br/><br/>One tap mobile<br/>+166944491
+ 71\,\,85290483166#\,\,\,\,*800635# US<br/>+17207072699\,\,85290483166#\,
+ \,\,\,*800635# US (Denver)<br/><br/><br/>---<br/><br/>Join by SIP<br/>• 
+ 85290483166@zoomcrc.com<br/><br/>Join instructions<br/>https://us06web.z
+ oom.us/meetings/85290483166/invitations?signature=2_flB_TNYzdEqUSIdv5Lg7
+ gAQVU4ftPNylnG6Dr0IEE<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260430T080000
+DTSTAMP:20260429T170927Z
+DTSTART;TZID=America/Los_Angeles:20260430T070000
+LAST-MODIFIED:20260429T170927Z
+LOCATION:https://us06web.zoom.us/j/85290483166?pwd=Xv17Ja4r2spNltYD5QeEaL
+ ekQMNfb6.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Raj Follow Up Zoom Meeting
+UID:2iq27u50u83etj5qe7ki9ijb3k@google.com
+END:VEVENT
 END:VCALENDAR
