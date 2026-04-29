@@ -9282,4 +9282,31 @@ STATUS:CONFIRMED
 SUMMARY:Reson8 x Raj Follow Up Zoom Meeting
 UID:2iq27u50u83etj5qe7ki9ijb3k@google.com
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260429T182056Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~::~:~::-\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j
+ /4242819882?omn=82896268842&jst=2 (ID: 4242819882)\n\nJoin by phone\n(US
+ ) +1 669-444-9171\n\nJoin using SIP\n4242819882@zoomcrc.com\n\nJoining i
+ nstructions: https://www.google.com/url?q=https://applications.zoom.us/a
+ ddon/invitation/detail?meetingUuid%3DmBoeC5gvTBiSf%252Bs8euKDKA%253D%253
+ D%26signature%3Df0615d0f4c65085d42150314a12caf3b01b25d1fa63bcc6a5f54439c
+ 3d61572c%26v%3D1&sa=D&source=calendar&usg=AOvVaw1qRg1JeMO0y6-3x5kaRjWV\n
+ \nMeeting host: <a href="mailto:yuta.lee@acceleratedbio.com" target="_bl
+ ank">yuta.lee@acceleratedbio.com</a><br /><br />Join Zoom Meeting: <br /
+ ><a href="https://www.google.com/url?q=https://us02web.zoom.us/j/4242819
+ 882?omn%3D82896268842%26jst%3D2&amp\;sa=D&amp\;source=calendar&amp\;usg=
+ AOvVaw2k15Gs09bPpQqPZvg_AQc9" target="_blank">https://us02web.zoom.us/j/
+ 4242819882?omn=82896268842&amp\;jst=2</a>\n\nPlease do not edit this sec
+ tion.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+DTEND;TZID=America/Los_Angeles:20260429T153000
+DTSTAMP:20260429T194731Z
+DTSTART;TZID=America/Los_Angeles:20260429T143000
+LAST-MODIFIED:20260429T182110Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Accelerated <> Reson8
+UID:2jtnfugf90d35b1sbmu2ntbs5b@google.com
+END:VEVENT
 END:VCALENDAR
