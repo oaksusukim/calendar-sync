@@ -9508,4 +9508,31 @@ SUMMARY:Call with Despina
 UID:56D1AF6F-B005-4B1E-83A7-CE57342E3FD9
 URL;VALUE=URI:
 END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\nMatt mhawes@scitexas.edu is inviting you to 
+ a scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://exeterlms.zoom.us/
+ j/99857621636?from=addon\n\nMeeting agenda\nhttps://docs.zoom.us/agenda/
+ doc/1606aeaf-3e23-495f-b548-084d80a79b81?from=addon\n\nMeeting chat link
+ \nhttps://exeterlms.zoom.us/launch/jc/99857621636\n\nView meeting insigh
+ ts with Zoom AI Companion\nhttps://exeterlms.zoom.us/launch/edl?muid=160
+ 6aeaf-3e23-495f-b548-084d80a79b81&from=addon\n\nMeeting ID: 998 5762 163
+ 6\n\n---\n\nOne tap mobile\n+16699006833\,\,99857621636# US (San Jose)\n
+ +17193594580\,\,99857621636# US\n\n\n---\n\nJoin by SIP\n• 99857621636@z
+ oomcrc.com\n\nJoin instructions\nhttps://exeterlms.zoom.us/meetings/9985
+ 7621636/invitations?signature=jlSV9muydqrweq2yMqvaGJ_KFTv6bcYDGhjqviZd58
+ 8\n\n
+DTEND;TZID=US/Mountain:20260511T084500
+DTSTAMP:20260509T223608Z
+DTSTART;TZID=US/Mountain:20260511T080000
+LAST-MODIFIED:20260509T215407Z
+LOCATION;LANGUAGE=en-US:https://exeterlms.zoom.us/j/99857621636?from=addo
+ n
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Meet reason8 and NSH brains behind everything 
+UID:040000008200E00074C5B7101A82E0080000000003E9615BFEDFDC010000000000000
+ 000100000008B0E4490C3BD0940B7B4B79263ECF2E6
+END:VEVENT
 END:VCALENDAR
