@@ -9559,4 +9559,43 @@ SEQUENCE:0
 SUMMARY:Follow-up call with Raj - tbc
 UID:E2803BE9-3A84-406C-93ED-7BC085A72DE2
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260512T163342Z
+DTEND;TZID=America/Los_Angeles:20260515T093000
+DTSTAMP:20260512T163509Z
+DTSTART;TZID=America/Los_Angeles:20260515T080000
+LAST-MODIFIED:20260512T163413Z
+LOCATION:https://us06web.zoom.us/j/83083195561?pwd=xmUebXGLQHJkyGzg0ekGCy
+ elccBHHB.1
+SEQUENCE:1
+SUMMARY:Invitation: Reson8 x G-Money Zoom Meeting
+UID:98863FEF-0BE4-41B9-A428-081BF83D81FD
+URL;VALUE=URI:message:%3Ccalendar-1dee8187-0441-483a-be7e-43fc12b4c3b1@go
+ ogle.com%3E?c=1778603566&k=%7Cjgkiv8dfgkf9enbk80i0p8jn48@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260512T163241Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/830
+ 83195561?pwd=xmUebXGLQHJkyGzg0ekGCyelccBHHB.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/83083195561<br/><br/>View meeting
+  insights with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?
+ muid=0bedac18-89db-41d1-a815-a50cfce93668<br/><br/>Meeting ID: 830 8319 
+ 5561<br/>Passcode: 818875<br/><br/>---<br/><br/>One tap mobile<br/>+1669
+ 4449171\,\,83083195561#\,\,\,\,*818875# US<br/>+17207072699\,\,830831955
+ 61#\,\,\,\,*818875# US (Denver)<br/><br/><br/>---<br/><br/>Join by SIP<b
+ r/>• 83083195561@zoomcrc.com<br/><br/>Join instructions<br/>https://us06
+ web.zoom.us/meetings/83083195561/invitations?signature=KZacsNlPHETTez1fN
+ mMCd0YPdhDD59SDZwliDK9ZV80<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260515T090000
+DTSTAMP:20260512T163339Z
+DTSTART;TZID=America/Los_Angeles:20260515T080000
+LAST-MODIFIED:20260512T163337Z
+LOCATION:https://us06web.zoom.us/j/83083195561?pwd=xmUebXGLQHJkyGzg0ekGCy
+ elccBHHB.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x G-Money Zoom Meeting
+UID:jgkiv8dfgkf9enbk80i0p8jn48@google.com
+END:VEVENT
 END:VCALENDAR
