@@ -9756,14 +9756,40 @@ UID:mdipm8l7m5u5n4d9khho5atekc@google.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260515T184356Z
-DTEND;TZID=America/Los_Angeles:20260519T090000
-DTSTAMP:20260515T184829Z
+DTEND;TZID=America/Los_Angeles:20260519T083000
+DTSTAMP:20260515T185420Z
 DTSTART;TZID=America/Los_Angeles:20260519T080000
-LAST-MODIFIED:20260515T184821Z
+LAST-MODIFIED:20260515T185419Z
+LOCATION:https://us06web.zoom.us/j/88628845172?pwd=BMSD8bH0PlvDUjboYsxdo8
+ GyMWgyNm.1
+SEQUENCE:1
+SUMMARY:Aleef call
+UID:BB88D86C-48DE-4BD9-901D-D637BC22BC1A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260515T185400Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/886
+ 28845172?pwd=BMSD8bH0PlvDUjboYsxdo8GyMWgyNm.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/88628845172<br/><br/>View meeting
+  insights with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?
+ muid=c425371d-d640-439e-b43e-2b9f96a40178<br/><br/>Meeting ID: 886 2884 
+ 5172<br/>Passcode: 586431<br/><br/>---<br/><br/>One tap mobile<br/>+1669
+ 4449171\,\,88628845172#\,\,\,\,*586431# US<br/>+17193594580\,\,886288451
+ 72#\,\,\,\,*586431# US<br/><br/><br/>---<br/><br/>Join by SIP<br/>• 8862
+ 8845172@zoomcrc.com<br/><br/>Join instructions<br/>https://us06web.zoom.
+ us/meetings/88628845172/invitations?signature=aKrkDsOor4ZCtHpA7DwaHYJlPu
+ 6MKy5OSx-RedwVcaE<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260519T083000
+DTSTAMP:20260515T185406Z
+DTSTART;TZID=America/Los_Angeles:20260519T080000
+LAST-MODIFIED:20260515T185405Z
 LOCATION:https://us06web.zoom.us/j/88628845172?pwd=BMSD8bH0PlvDUjboYsxdo8
  GyMWgyNm.1
 SEQUENCE:0
-SUMMARY:Aleef call
-UID:BB88D86C-48DE-4BD9-901D-D637BC22BC1A
+SUMMARY:Reson8 x Aleef Zoom Meeting
+UID:D5EA392D-A944-4C1E-8259-ABE64467920F
+URL;VALUE=URI:message:%3Ccalendar-7ae92660-ee65-45c1-aad5-0e52aba71346@go
+ ogle.com%3E?c=1778870718&k=%7Cvd92npuqqc37p8kg7u0pl4g09o@google.com
 END:VEVENT
 END:VCALENDAR
