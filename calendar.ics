@@ -9826,4 +9826,27 @@ SUMMARY:Call with Abbie at Neurosolutions
 UID:79FB91D4-90AF-45E9-BDAE-D02E6E7817BD
 URL;VALUE=URI:
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260521T161147Z
+DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
+ d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8326
+ 3632645?pwd=0frEUE9wVbQgES0sKlEdDwdAIOPfHB.1<br/><br/>Meeting chat link<
+ br/>https://us02web.zoom.us/launch/jc/83263632645<br/><br/>Meeting ID: 8
+ 32 6363 2645<br/>Passcode: 541337<br/><br/>---<br/><br/>One tap mobile<b
+ r/>+16699006833\,\,83263632645#\,\,\,\,*541337# US (San Jose)<br/>+16694
+ 449171\,\,83263632645#\,\,\,\,*541337# US<br/><br/><br/>---<br/><br/>Joi
+ n by SIP<br/>• 83263632645@zoomcrc.com<br/><br/>Join instructions<br/>ht
+ tps://us02web.zoom.us/meetings/83263632645/invitations?signature=TFiub4G
+ 5xuEP4q6QQQhIYyrp8uH2D8B9_mXNq4OWTgA<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260525T090000
+DTSTAMP:20260521T161216Z
+DTSTART;TZID=America/Los_Angeles:20260525T083000
+LAST-MODIFIED:20260521T161154Z
+LOCATION:https://us02web.zoom.us/j/83263632645?pwd=0frEUE9wVbQgES0sKlEdDw
+ dAIOPfHB.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jenna RESON8 protocol
+UID:kpsfgmjcfatg942irbm0o2seoc@google.com
+END:VEVENT
 END:VCALENDAR
