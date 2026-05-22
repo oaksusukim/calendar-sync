@@ -9851,4 +9851,42 @@ STATUS:CONFIRMED
 SUMMARY:Jenna RESON8 protocol
 UID:kpsfgmjcfatg942irbm0o2seoc@google.com
 END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-GB:\n____________________________________________
+ ____________________________________\nMicrosoft Teams meeting\nJoin: htt
+ ps://teams.microsoft.com/meet/39290215715431?p=K6v5QEyQ9wTvfQcila\nMeeti
+ ng ID: 392 902 157 154 31\nPasscode: 2g7rr3cL\n_________________________
+ _______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-GB> | System
+  reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTg0ZW
+ I5OGMtMmEyZS00MTI5LWJiM2EtZTZkMjIwOTAzZmVl%40thread.v2/0?context=%7b%22T
+ id%22%3a%223cdf00ea-bd35-4aac-a70c-9e0efc952b9b%22%2c%22Oid%22%3a%224c4f
+ 950d-2334-477e-91a5-2807ad6ca9e3%22%7d>\nFor organisers: Meeting options
+ <https://teams.microsoft.com/meetingOptions/?organizerId=4c4f950d-2334-4
+ 77e-91a5-2807ad6ca9e3&tenantId=3cdf00ea-bd35-4aac-a70c-9e0efc952b9b&thre
+ adId=19_meeting_MTg0ZWI5OGMtMmEyZS00MTI5LWJiM2EtZTZkMjIwOTAzZmVl@thread.
+ v2&messageId=0&language=en-GB>\n________________________________________
+ ________________________________________\n
+DTEND;TZID=Asia/Baku:20260526T200000
+DTSTAMP:20260522T145114Z
+DTSTART;TZID=Asia/Baku:20260526T190000
+LAST-MODIFIED:20260522T060025Z
+LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-GB:Reson8 Introductory Call with Dr. Mansoor
+UID:040000008200E00074C5B7101A82E0080000000044859347B0E9DC010000000000000
+ 00010000000D2E78E8C93202F48A93714A867404566
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260522T145138Z
+DTEND;TZID=America/Los_Angeles:20260525T200000
+DTSTAMP:20260522T145139Z
+DTSTART;TZID=America/Los_Angeles:20260525T190000
+LAST-MODIFIED:20260522T145138Z
+SEQUENCE:0
+SUMMARY:Call with Adeel tbc
+UID:F1908C35-FC69-4BED-9E5C-D00FB4F6E07C
+END:VEVENT
 END:VCALENDAR
