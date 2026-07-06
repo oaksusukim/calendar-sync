@@ -10534,4 +10534,33 @@ SUMMARY:Coffee with Catherine Kimmel
 UID:2E5266DF-76DF-49A9-AF1D-589590495CC4
 URL;VALUE=URI:
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260702T231522Z
+DESCRIPTION:Event Name\n30 Minutes with Kieve Huffman\n\nExploring ways t
+ hat I can help your business.\n\nLocation: This is a Zoom web conference
+ .\n\nYou can join this meeting from your computer\, tablet\, or smartpho
+ ne.\nhttps://us06web.zoom.us/j/86009403881?pwd=Bm6j1gBp5bRycAWrzZ9c3bo9d
+ NdJAo.1\n\nPassword: 202965\n\nOne tap mobile:\n+1 305 224 1968\,\,86009
+ 403881#\n+1 309 205 3325\,\,86009403881#\n\nYou can also dial in using y
+ our phone.\nUS: +1 305 224 1968\, +1 309 205 3325\, +1 312 626 6799\, +1
+  646 931 3860\, +1 929 205 6099\, +1 301 715 8592\, +1 564 217 2000\, +1
+  669 444 9171\, +1 669 900 6833\, +16892781000\, +1 719 359 4580\, +1 25
+ 3 205 0468\, +1 253 215 8782\, +1 346 248 7799\, +1 360 209 5623\, +1 38
+ 6 347 5053\, +1 507 473 4847\nMeeting ID: 860-094-03881\n\nJoin from a v
+ ideo system or application\nsip:86009403881@zoomcrc.com\nYou can also di
+ al and enter your meeting ID 860-094-03881\n\nNeed to make changes to th
+ is event?\nCancel: https://calendly.com/cancellations/ae20a970-5ba0-437c
+ -a1d5-b9d0d2f7f6ff\nReschedule: https://calendly.com/reschedulings/ae20a
+ 970-5ba0-437c-a1d5-b9d0d2f7f6ff\n\nPowered by Calendly.com\n
+DTEND;TZID=America/Los_Angeles:20260706T153000
+DTSTAMP:20260706T220210Z
+DTSTART;TZID=America/Los_Angeles:20260706T150000
+LAST-MODIFIED:20260706T185650Z
+LOCATION:https://us06web.zoom.us/j/86009403881?pwd=Bm6j1gBp5bRycAWrzZ9c3b
+ o9dNdJAo.1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Marc Benardout and Kieve Huffman
+UID:2a5jbmusdhukgsb0ihdiejt9ns@google.com
+END:VEVENT
 END:VCALENDAR
