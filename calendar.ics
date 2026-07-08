@@ -10562,4 +10562,43 @@ SEQUENCE:0
 SUMMARY:Kai Reson8 meeting - location tbc
 UID:C85038BD-AA4E-484A-83A0-91899D46E6B7
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260708T171559Z
+DTEND;TZID=America/Los_Angeles:20260728T183000
+DTSTAMP:20260708T171559Z
+DTSTART;TZID=America/Los_Angeles:20260728T173000
+LAST-MODIFIED:20260708T171559Z
+LOCATION:Gravitas Beverly Hills
+SEQUENCE:0
+SUMMARY:Beusail Event
+UID:84F1E652-109C-413F-8CD9-BB891BA628FE
+URL;VALUE=URI:message:%3C20260609180135.18aee3db7ec0c5f3@lc.beusail.com%3
+ E
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260708T171753Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/thelongevitys
+ eries-7.28?pk=g-fzoxGxRaJCoGwL9\n\nAddress:\nGravitas Club\nBeverly Hill
+ s\, CA\nUnited States\n\nWelcome\nFollowing two outstanding evenings fea
+ turing Dr. Chris Renna and Jackie Iversen\, we're excited to welcome Dr.
+  Darshan Shah\, Founder & CEO of Next Health\, for the next installment 
+ of The Longevity Series at Gravitas.\nJoin us on Tuesday\, July 28th for
+  an intimate evening at Gravitas\, Beverly Hills' private members club\,
+  bringing together a curated community around longevity\, health optimiz
+ ation\, resilience\, and modern wellness.\nHosted by Curtis Estes & Jenn
+ a Benami.\n\nWhat to Expect\n🔸 Community networking hour\n🔸 Experience
+  Gravitas while connecting with fellow founders\, physicians\,…\n\nHoste
+ d by Curtis Estes & Jenna Benami
+DTEND;TZID=America/Los_Angeles:20260728T200000
+DTSTAMP:20260708T171759Z
+DTSTART;TZID=America/Los_Angeles:20260728T173000
+LAST-MODIFIED:20260708T171757Z
+LOCATION:Gravitas Club
+SEQUENCE:0
+SUMMARY:The Longevity Series at Gravitas\, Tuesday\, July 28th
+UID:9BCC92F4-6A7A-433C-A303-AAF2115F8019
+URL;VALUE=URI:message:%3C0101019f42badd27-faa03bb0-7224-4b59-8603-42d5bd5
+ 03197-000000@us-west-2.amazonses.com%3E?c=1783530970&k=%7Cevt-ua5MHlHmRu
+ Sei56@events.lu.ma
+END:VEVENT
 END:VCALENDAR
