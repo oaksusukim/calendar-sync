@@ -10659,4 +10659,29 @@ SEQUENCE:0
 SUMMARY:Call with Tamara Loehr
 UID:907B9DEE-2521-41DF-A2DA-8FEFF25CAE3A
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260713T173027Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/875
+ 73416628?pwd=uhGb4quBuYCVk6EFY3ZnLl5bY6kp99.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/87573416628<br/><br/>View meeting
+  insights<br/>https://us06web.zoom.us/launch/edl?muid=6ab6a44b-274e-423e
+ -a68e-852440e57fa5<br/><br/>Meeting ID: 875 7341 6628<br/>Passcode: 9057
+ 72<br/><br/>---<br/><br/>One tap mobile<br/>+16694449171\,\,87573416628#
+ \,\,\,\,*905772# US<br/>+13462487799\,\,87573416628#\,\,\,\,*905772# US 
+ (Houston)<br/><br/><br/>---<br/><br/>Join by SIP<br/>• 87573416628@zoomc
+ rc.com<br/><br/>Join instructions<br/>https://us06web.zoom.us/meetings/8
+ 7573416628/invitations?signature=gwKq9fDUmVQ2D2xml31Kuv_7OQ6BkJ76ooTXZUl
+ NBE4<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260716T113000
+DTSTAMP:20260713T173610Z
+DTSTART;TZID=America/Los_Angeles:20260716T110000
+LAST-MODIFIED:20260713T173609Z
+LOCATION:https://us06web.zoom.us/j/87573416628?pwd=uhGb4quBuYCVk6EFY3ZnLl
+ 5bY6kp99.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Fatima Zoom Meeting
+UID:mugk79ip71054ac5v4evtb9jv8@google.com
+END:VEVENT
 END:VCALENDAR
