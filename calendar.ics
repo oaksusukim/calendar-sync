@@ -10668,23 +10668,50 @@ URL;VALUE=URI:message:%3Ccalendar-cda29e2c-9e30-43f0-9b11-f4dd2764d528@go
  ogle.com%3E?c=1783970014&k=%7C2hrr2l7kod9l6u256nh0kefcg0@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260717T160632Z
-DTEND;TZID=America/Los_Angeles:20260722T083000
-DTSTAMP:20260717T160633Z
-DTSTART;TZID=America/Los_Angeles:20260722T080000
-LAST-MODIFIED:20260717T160632Z
+CREATED:20260718T091606Z
+DESCRIPTION:──────────\nStephan Agerman is inviting you to a scheduled Zo
+ om meeting.\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/87990230197?pw
+ d=MPzoJc3ympsc4sdG5He3E0tTHhVEIF.1&jst=2\n\nMeeting chat link\nhttps://u
+ s06web.zoom.us/launch/jc/87990230197\n\nMeeting ID: 879 9023 0197\nPassc
+ ode: 546031\n\n---\n\nOne tap mobile\n+12532158782\,\,87990230197#\,\,\,
+ \,*546031# US (Tacoma)\n+13017158592\,\,87990230197#\,\,\,\,*546031# US 
+ (Washington DC)\n\n\n---\n\nJoin by SIP\n• 87990230197@zoomcrc.com\n\nJo
+ in instructions\nhttps://us06web.zoom.us/meetings/87990230197/invitation
+ s?signature=AG53aDwfXEXlVS1pJA3rgQejV02io_QwiAuErAku4Y0\n\n\n──────────
+DTEND;TZID=America/Los_Angeles:20260721T083000
+DTSTAMP:20260718T122518Z
+DTSTART;TZID=America/Los_Angeles:20260721T080000
+LAST-MODIFIED:20260718T091619Z
+LOCATION:https://us06web.zoom.us/j/87990230197?pwd=MPzoJc3ympsc4sdG5He3E0
+ tTHhVEIF.1&jst=2
 SEQUENCE:0
-SUMMARY:Call with Emilia in India tbc
-UID:2CB6F8C8-6509-474D-90BD-56462BA3B363
+STATUS:CONFIRMED
+SUMMARY:Stephan / Reson8 Contract Discussion
+UID:1iavpia7qco66cmlsm0n8lrcts@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260717T160534Z
-DTEND;TZID=America/Los_Angeles:20260721T083000
-DTSTAMP:20260717T160534Z
-DTSTART;TZID=America/Los_Angeles:20260721T080000
-LAST-MODIFIED:20260717T160534Z
+CREATED:20260718T122849Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/894
+ 74721911?pwd=kT2pgURQfKCyXKewwThums8wWDRCHt.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/89474721911<br/><br/>View meeting
+  insights<br/>https://us06web.zoom.us/launch/edl?muid=3461c1a7-9523-4e1f
+ -9106-a147c7336181<br/><br/>Meeting ID: 894 7472 1911<br/>Passcode: 7257
+ 58<br/><br/>---<br/><br/>One tap mobile<br/>+16694449171\,\,89474721911#
+ \,\,\,\,*725758# US<br/>+17207072699\,\,89474721911#\,\,\,\,*725758# US 
+ (Denver)<br/><br/><br/>---<br/><br/>Join by SIP<br/>• 89474721911@zoomcr
+ c.com<br/><br/>Join instructions<br/>https://us06web.zoom.us/meetings/89
+ 474721911/invitations?signature=mxV_04kj3kBPO08HgPA3pi66RvcdTJeBZmn_7ifg
+ XoY<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260722T083000
+DTSTAMP:20260718T123014Z
+DTSTART;TZID=America/Los_Angeles:20260722T080000
+LAST-MODIFIED:20260718T122858Z
+LOCATION:https://us06web.zoom.us/j/89474721911?pwd=kT2pgURQfKCyXKewwThums
+ 8wWDRCHt.1
 SEQUENCE:0
-SUMMARY:Call with Stephan tbc
-UID:DB1396CE-6393-448F-B39C-CF75309E3E3D
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Emilia Zoom Meeting
+UID:o45rajf8na0n3akc6o029m7g78@google.com
 END:VEVENT
 END:VCALENDAR
