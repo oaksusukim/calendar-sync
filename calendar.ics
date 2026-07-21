@@ -10714,4 +10714,26 @@ STATUS:CONFIRMED
 SUMMARY:Reson8 x Emilia Zoom Meeting
 UID:o45rajf8na0n3akc6o029m7g78@google.com
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260721T151514Z
+DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\nJ
+ oin Zoom Meeting\nhttps://us02web.zoom.us/j/81130527762?pwd=04d5VNErWqb4
+ 6NAA0UsYOlHMaSpkSB.1\n\nMeeting chat link\nhttps://us02web.zoom.us/launc
+ h/jc/81130527762\n\nMeeting ID: 811 3052 7762\nPasscode: 493090\n\n---\n
+ \nOne tap mobile\n+16694449171\,\,81130527762#\,\,\,\,*493090# US\n+1669
+ 9006833\,\,81130527762#\,\,\,\,*493090# US (San Jose)\n\n\n---\n\nJoin b
+ y SIP\n• 81130527762@zoomcrc.com\n\nJoin instructions\nhttps://us02web.z
+ oom.us/meetings/81130527762/invitations?signature=SX628Yb8Dx9ZpQUGkHIsGg
+ w178TUrgzoGGHVy4Cp1b0\n\n
+DTEND;TZID=America/Los_Angeles:20260721T123000
+DTSTAMP:20260721T151514Z
+DTSTART;TZID=America/Los_Angeles:20260721T120000
+LAST-MODIFIED:20260721T151514Z
+LOCATION:https://us02web.zoom.us/j/81130527762?pwd=04d5VNErWqb46NAA0UsYOl
+ HMaSpkSB.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pauline <> RESON8
+UID:543B74E2-94F5-4AEB-B6FA-ED451AFF49C0
+END:VEVENT
 END:VCALENDAR
