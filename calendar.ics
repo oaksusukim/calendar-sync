@@ -10750,4 +10750,27 @@ SUMMARY:RESON8 x SAM GOOGLE MEET
 UID:E14DD933-D08F-4C91-A273-8CF145585D10
 DTSTAMP:20260722T144959Z
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260723T062759Z
+DESCRIPTION:<p>──────────<br/>Nicolas Rosen is inviting you to a schedule
+ d Zoom meeting.<br/>Join Zoom Meeting<br/>https://us02web.zoom.us/j/8323
+ 7333044?pwd=NQLEeR0llMhvBQxbKYiidwB2ao4QbN.1<br/><br/>Meeting chat link<
+ br/>https://us02web.zoom.us/launch/jc/83237333044<br/><br/>Meeting ID: 8
+ 32 3733 3044<br/>Passcode: 365216<br/><br/>---<br/><br/>One tap mobile<b
+ r/>+16694449171\,\,83237333044#\,\,\,\,*365216# US<br/>+16699006833\,\,8
+ 3237333044#\,\,\,\,*365216# US (San Jose)<br/><br/><br/>---<br/><br/>Joi
+ n by SIP<br/>• 83237333044@zoomcrc.com<br/><br/>Join instructions<br/>ht
+ tps://us02web.zoom.us/meetings/83237333044/invitations?signature=QRNYELj
+ PEav6nTYKOkjpXyvba_OZrL-XQdFhK0S-Z84<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260728T133000
+DTSTAMP:20260723T133513Z
+DTSTART;TZID=America/Los_Angeles:20260728T130000
+LAST-MODIFIED:20260723T062808Z
+LOCATION:https://us02web.zoom.us/j/83237333044?pwd=NQLEeR0llMhvBQxbKYiidw
+ B2ao4QbN.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dr. Small <> RESON8
+UID:di3v0vpbhneqpg64rcfjcm4lco@google.com
+END:VEVENT
 END:VCALENDAR
