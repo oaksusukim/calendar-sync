@@ -9452,13 +9452,14 @@ DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you
  b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
  BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
 DTEND;TZID=America/Los_Angeles:20260302T100000
-DTSTAMP:20260727T035929Z
+DTSTAMP:20260728T001523Z
 DTSTART;TZID=America/Los_Angeles:20260302T090000
 EXDATE;TZID=America/Los_Angeles:20260309T090000
 EXDATE;TZID=America/Los_Angeles:20260518T090000
 EXDATE;TZID=America/Los_Angeles:20260525T090000
 EXDATE;TZID=America/Los_Angeles:20260713T090000
-LAST-MODIFIED:20260720T150006Z
+EXDATE;TZID=America/Los_Angeles:20260727T090000
+LAST-MODIFIED:20260728T001523Z
 LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
  3qSTKrji.1
 RRULE:FREQ=WEEKLY;BYDAY=MO
@@ -9480,36 +9481,12 @@ DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you
  b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
  BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
 DTEND;TZID=America/Los_Angeles:20260504T100000
-DTSTAMP:20260727T035929Z
+DTSTAMP:20260728T001523Z
 DTSTART;TZID=America/Los_Angeles:20260504T090000
 LAST-MODIFIED:20260601T154744Z
 LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
  3qSTKrji.1
 RECURRENCE-ID;TZID=America/Los_Angeles:20260504T090000
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
-UID:u21ah53v518q85cms1pfo8q0n0@google.com
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20260727T035929Z
-DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
- ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/826
- 35524539?pwd=IDoAe9iLFrfBB4e99yqFRH3qSTKrji.1<br/><br/>View meeting insi
- ghts with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?muid=
- 6363c88c-836b-410e-a0e1-256ff72eb107<br/><br/>Meeting ID: 826 3552 4539<
- br/>Passcode: 854411<br/><br/>---<br/><br/>One tap mobile<br/>+166944491
- 71\,\,82635524539#\,\,\,\,*854411# US<br/>+12532158782\,\,82635524539#\,
- \,\,\,*854411# US (Tacoma)<br/><br/>Join instructions<br/>https://us06we
- b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
- BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
-DTEND;TZID=America/Los_Angeles:20260727T100000
-DTSTAMP:20260727T035929Z
-DTSTART;TZID=America/Los_Angeles:20260727T090000
-LAST-MODIFIED:20260727T035929Z
-LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
- 3qSTKrji.1
-RECURRENCE-ID;TZID=America/Los_Angeles:20260727T090000
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
@@ -10829,5 +10806,17 @@ SEQUENCE:2
 SUMMARY:Curtis Dinner Event
 UID:94289901-4273-41D1-9905-06F0EF9A8EBF
 URL;VALUE=URI:
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260728T002429Z
+DTEND;TZID=America/Los_Angeles:20260730T120000
+DTSTAMP:20260728T002440Z
+DTSTART;TZID=America/Los_Angeles:20260730T110000
+LAST-MODIFIED:20260728T002440Z
+LOCATION:Joan’s on Third\n12059 Ventura Pl\, Studio City\, CA 91604\, Uni
+ ted States
+SEQUENCE:0
+SUMMARY:Reson8 meeting
+UID:849063C0-D38C-4076-96B9-2C796AC23BD9
 END:VEVENT
 END:VCALENDAR
