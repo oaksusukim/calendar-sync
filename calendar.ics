@@ -10864,4 +10864,23 @@ SEQUENCE:0
 SUMMARY:Reson8 call with Sam
 UID:D063094D-4680-43F6-A287-62B91A549D43
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260730T213940Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
+ om/iwd-zmcr-hyk\n\nLearn more about Meet at: https://support.google.com/
+ a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+DTEND;TZID=America/Los_Angeles:20260802T230000
+DTSTAMP:20260730T215716Z
+DTSTART;TZID=America/Los_Angeles:20260802T220000
+LAST-MODIFIED:20260730T213945Z
+LOCATION:https://meet.google.com/iwd-zmcr-hyk
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sam <> RESON8
+UID:1u6fu4k6up35vcgllise8jatqs@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/iwd-zmcr-hyk
+END:VEVENT
 END:VCALENDAR
