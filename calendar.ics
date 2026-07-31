@@ -10830,31 +10830,6 @@ SUMMARY:email & social blast about sydenham event
 UID:6C66727D-988C-45AD-96B8-6A540163D90E
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260728T231946Z
-DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
- ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/819
- 14569630?pwd=k3p2tChHVAmPop451x6aYvi4GoNnxi.1<br/><br/>Meeting chat link
- <br/>https://us06web.zoom.us/launch/jc/81914569630<br/><br/>View meeting
-  insights<br/>https://us06web.zoom.us/launch/edl?muid=a2fd2190-282c-4e59
- -a2c5-23be71baf5eb<br/><br/>Meeting ID: 819 1456 9630<br/>Passcode: 6565
- 56<br/><br/>---<br/><br/>One tap mobile<br/>+16694449171\,\,81914569630#
- \,\,\,\,*656556# US<br/>+12532050468\,\,81914569630#\,\,\,\,*656556# US<
- br/><br/><br/>---<br/><br/>Join by SIP<br/>• 81914569630@zoomcrc.com<br/
- ><br/>Join instructions<br/>https://us06web.zoom.us/meetings/81914569630
- /invitations?signature=QQ_AJKYRmK_FAjPHaN2Vsm2S5AZxZwabFuio3FAF5Bo<br/><
- br/><br>──────────</p>
-DTEND;TZID=America/Los_Angeles:20260731T123000
-DTSTAMP:20260728T232028Z
-DTSTART;TZID=America/Los_Angeles:20260731T120000
-LAST-MODIFIED:20260728T232027Z
-LOCATION:https://us06web.zoom.us/j/81914569630?pwd=k3p2tChHVAmPop451x6aYv
- i4GoNnxi.1
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Reson8 x Artemis/Cath Zoom Meeting
-UID:k2d21cfb3t4q0ml5ejafgi0rl4@google.com
-END:VEVENT
-BEGIN:VEVENT
 CREATED:20260730T051316Z
 DTEND;TZID=America/Los_Angeles:20260802T230000
 DTSTAMP:20260730T051316Z
