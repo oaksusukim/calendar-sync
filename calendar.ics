@@ -10883,4 +10883,32 @@ SUMMARY:Sam <> RESON8
 UID:1u6fu4k6up35vcgllise8jatqs@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/iwd-zmcr-hyk
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260731T141916Z
+DESCRIPTION:Event Name\nDiscovery Call\n\nLocation: This is a Google Meet
+  web conference.\nYou can join this meeting from your computer\, tablet\
+ , or smartphone.\nhttps://calendly.com/events/d7bf3bde-1c4a-42fb-bc01-41
+ 5586fcce70/google_meet\n\nPlease share anything that will help prepare f
+ or our meeting.: Further discussion with regards Reson8 Frequency Healin
+ g following meeting at Curtis's longevity dinner.\n\nNeed to make change
+ s to this event?\nCancel: https://calendly.com/cancellations/3e9c0487-1f
+ d8-4f9f-a5bd-d6d099373b00\nReschedule: https://calendly.com/rescheduling
+ s/3e9c0487-1fd8-4f9f-a5bd-d6d099373b00\n\nPowered by Calendly.com\n\n\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/rif-jcph-
+ mub\n\nLearn more about Meet at: https://support.google.com/a/users/answ
+ er/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID=America/Los_Angeles:20260804T143000
+DTSTAMP:20260731T142206Z
+DTSTART;TZID=America/Los_Angeles:20260804T140000
+LAST-MODIFIED:20260731T141924Z
+LOCATION:Google Meet (instructions in description)\; https://meet.google.
+ com/rif-jcph-mub
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marc Benardout and CR Celona
+UID:v5igad7jj41qjoojllb24ej7gg@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rif-jcph-mub
+END:VEVENT
 END:VCALENDAR
