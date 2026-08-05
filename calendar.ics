@@ -10947,4 +10947,23 @@ SEQUENCE:2
 SUMMARY:Onboard OCSC
 UID:D6F56287-5B7B-4D65-9A4D-C2BE2D73AECC
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260805T014231Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
+ om/faa-ywjv-iyz\n\nLearn more about Meet at: https://support.google.com/
+ a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+DTEND;TZID=America/Los_Angeles:20260809T230000
+DTSTAMP:20260805T224000Z
+DTSTART;TZID=America/Los_Angeles:20260809T220000
+LAST-MODIFIED:20260805T015631Z
+LOCATION:https://meet.google.com/faa-ywjv-iyz
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:sam <> RESON8 2
+UID:C38B1F59-BE58-44F7-B15F-C3E18E9DB077
+X-GOOGLE-CONFERENCE:https://meet.google.com/faa-ywjv-iyz
+END:VEVENT
 END:VCALENDAR
