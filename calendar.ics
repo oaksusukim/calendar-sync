@@ -10979,4 +10979,27 @@ SUMMARY:Call with Adeel
 UID:2F13063B-2C9E-4AF1-B7A4-6349DD2C0EB7
 URL;VALUE=URI:
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260808T004645Z
+DESCRIPTION:Marc Benardout is inviting you to a scheduled Zoom meeting.\n
+ Join Zoom Meeting\nhttps://us06web.zoom.us/j/81643513412?pwd=49xUXshDWIN
+ Fjzr16Sx6mKrQoA2ohX.1\n\nView meeting insights\nhttps://us06web.zoom.us/
+ launch/edl?muid=aa959e39-dba2-4370-811f-97bb53753403\n\nMeeting ID: 816 
+ 4351 3412\nPasscode: 020064\n\n---\n\nOne tap mobile\n+16694449171\,\,81
+ 643513412#\,\,\,\,*020064# US\n+17193594580\,\,81643513412#\,\,\,\,*0200
+ 64# US\n\n\n---\n\nJoin by SIP\n• 81643513412@zoomcrc.com\n\nJoin instru
+ ctions\nhttps://us06web.zoom.us/meetings/81643513412/invitations?signatu
+ re=POipHHDRFM5jcuE-dWAne4Wf-J4k2KptdRi0mkbQVIo\n\n
+DTEND;TZID=America/Los_Angeles:20260810T120000
+DTSTART;TZID=America/Los_Angeles:20260810T113000
+LAST-MODIFIED:20260808T004645Z
+LOCATION:https://us06web.zoom.us/j/81643513412?pwd=49xUXshDWINFjzr16Sx6mK
+ rQoA2ohX.1
+SEQUENCE:0
+SUMMARY:Reson8 x Adeel Zoom Meeting
+UID:49F79F47-9D9B-4038-A416-66F0E90B3FA9
+URL;VALUE=URI:https://us06web.zoom.us/j/81643513412?pwd=49xUXshDWINFjzr16
+ Sx6mKrQoA2ohX.1
+DTSTAMP:20260808T004646Z
+END:VEVENT
 END:VCALENDAR
