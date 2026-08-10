@@ -11002,4 +11002,23 @@ URL;VALUE=URI:https://us06web.zoom.us/j/81643513412?pwd=49xUXshDWINFjzr16
  Sx6mKrQoA2ohX.1
 DTSTAMP:20260808T004646Z
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260810T053825Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
+ om/mju-bxph-mae\n\nLearn more about Meet at: https://support.google.com/
+ a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+DTEND;TZID=America/Los_Angeles:20260816T224500
+DTSTAMP:20260810T151440Z
+DTSTART;TZID=America/Los_Angeles:20260816T220000
+LAST-MODIFIED:20260810T054016Z
+LOCATION:https://meet.google.com/mju-bxph-mae
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Sam <> RESON8 3
+UID:0t60h4une2l5rjl2iouv04dt0p@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mju-bxph-mae
+END:VEVENT
 END:VCALENDAR
