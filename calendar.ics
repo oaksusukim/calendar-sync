@@ -11021,4 +11021,33 @@ SEQUENCE:0
 SUMMARY:Mansoor Call TBC
 UID:DBAC74F0-65C0-4D62-8BB5-0AAFDCE14EA1
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260811T192058Z
+DESCRIPTION:Event Name: Meeting with Alexandra Rossi\n\nLocation: This is
+  a Zoom web conference.<br/><div style="text-align: left\;"><a style="di
+ splay: inline-block\; color: #0d6bde\; text-decoration: none\;" href="ht
+ tps://us06web.zoom.us/j/81076416511?pwd=h8XvPOIyDU2YAFlokRGbcsNzTPOSCa.1
+ ">https://us06web.zoom.us/j/81076416511?pwd=h8XvPOIyDU2YAFlokRGbcsNzTPOS
+ Ca.1</a></div><br/>Meeting ID: 81076416511<br/>Passcode: 120560<br/><br/
+ >Join instructions<br/><div style="text-align: left\;"><a style="display
+ : inline-block\; color: #0d6bde\; text-decoration: none\;" href="https:/
+ /us06web.zoom.us/meetings/81076416511/invitations?signature=-PMpzoGsXR1b
+ rw_pcxlJxGs1dFukotwbQLmM7Nclahc">https://us06web.zoom.us/meetings/810764
+ 16511/invitations?signature=-PMpzoGsXR1brw_pcxlJxGs1dFukotwbQLmM7Nclahc<
+ /a></div><br/>Click the link below to make changes to this event<br/><di
+ v style="text-align: left\;"><a style="display: inline-block\; color: #0
+ d6bde\; text-decoration: none\;" href="https://scheduler.zoom.us/manage/
+ 8sbqj0lbwyt812jjr52ra25910">https://scheduler.zoom.us/manage/8sbqj0lbwyt
+ 812jjr52ra25910</a></div><br/><br/>
+DTEND;TZID=America/Los_Angeles:20260831T103000
+DTSTAMP:20260811T195509Z
+DTSTART;TZID=America/Los_Angeles:20260831T100000
+LAST-MODIFIED:20260811T192115Z
+LOCATION:https://us06web.zoom.us/j/81076416511?pwd=h8XvPOIyDU2YAFlokRGbcs
+ NzTPOSCa.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting with Alexandra Rossi - nic rosen  and Alexandra Rossi
+UID:jda5m4o5v4crc9ndkrtci3t0hc@google.com
+END:VEVENT
 END:VCALENDAR
