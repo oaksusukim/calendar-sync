@@ -11050,4 +11050,23 @@ STATUS:CONFIRMED
 SUMMARY:Meeting with Alexandra Rossi - nic rosen  and Alexandra Rossi
 UID:jda5m4o5v4crc9ndkrtci3t0hc@google.com
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What:\n30 Min Meeting between The Reson8 Frequency System and
+  Hayden Czwarno\n\nInvitee timezone:\nEurope/London\n\nWho:\nThe Reson8 
+ Frequency System - Organizer\nreson8frequency@gmail.com\nHayden Czwarno\
+ nh.czwarno@gmail.com\n\nWhere:\nhttps://us06web.zoom.us/j/84502897852?pw
+ d=898QQPsTXh6spMPdXpd4eJ4bxSkapD.1\n\nNeed to reschedule or cancel? http
+ s://cal.com/booking/bkPWTghr4QDNPzWQC3mfY9?changes=true
+DTEND:20260827T163000Z
+DTSTAMP:20260812T172213Z
+DTSTART:20260827T160000Z
+LAST-MODIFIED:20260812T165800Z
+LOCATION:https://us06web.zoom.us/j/84502897852?pwd=898QQPsTXh6spMPdXpd4eJ
+ 4bxSkapD.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:30 Min Meeting between The Reson8 Frequency System and Hayden Czw
+ arno
+UID:bkPWTghr4QDNPzWQC3mfY9@Cal.com
+END:VEVENT
 END:VCALENDAR
