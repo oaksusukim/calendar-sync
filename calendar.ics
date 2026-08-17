@@ -11069,4 +11069,76 @@ SUMMARY:30 Min Meeting between The Reson8 Frequency System and Hayden Czw
  arno
 UID:bkPWTghr4QDNPzWQC3mfY9@Cal.com
 END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams meeting\nJoin 
+ on your computer\, mobile app or room device\nClick here to join the mee
+ ting<https://teams.live.com/meet/9345530490459?p=bkil9FsndIIrD23Zgv>\nMe
+ eting ID: 934 553 049 045 9\nPasscode: b22Tf3\nDownload Teams<https://ww
+ w.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<ht
+ tps://www.microsoft.com/microsoft-teams/join-a-meeting>\nLearn More<http
+ s://aka.ms/JoinTeamsFreeMeeting> | Meeting options<https://teams.live.co
+ m/meetingOptions/meetings/9345530490459/view?localeCode=en-US>\n________
+ ________________________________________________________________________
+ \n\nReplies and calendar responses will not be sent to the organizer\n
+DTEND;TZID=America/Los_Angeles:20260820T080000
+DTSTAMP:20260817T143845Z
+DTSTART;TZID=America/Los_Angeles:20260820T070000
+LAST-MODIFIED:20260817T143301Z
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Reson8 x Dr Mansoor
+UID:040000008200E00074C5B7101A82E00800000000B3C3C54D552EDD010000000000000
+ 0001000000039235E46377BB6429633D91E0AE179DB
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260817T171343Z
+DTEND;TZID=America/Los_Angeles:20260922T100000
+DTSTAMP:20260817T171344Z
+DTSTART;TZID=America/Los_Angeles:20260922T090000
+LAST-MODIFIED:20260817T171343Z
+SEQUENCE:0
+SUMMARY:Reach out to Merck per his request
+UID:04BC2051-70CA-452E-81BD-4551A195F3BA
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260817T162648Z
+DTEND;TZID=America/Los_Angeles:20260821T160000
+DTSTAMP:20260817T165654Z
+DTSTART;TZID=America/Los_Angeles:20260821T150000
+LAST-MODIFIED:20260817T165653Z
+SEQUENCE:1
+SUMMARY:Coffee with Kai and Parkson
+UID:06491B6D-2B68-420A-817A-24298D1A37AA
+URL;VALUE=URI:
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260817T163715Z
+DTEND;TZID=America/Los_Angeles:20260818T100000
+DTSTAMP:20260817T163716Z
+DTSTART;TZID=America/Los_Angeles:20260818T090000
+LAST-MODIFIED:20260817T163715Z
+SEQUENCE:0
+SUMMARY:Jaz at MK Dons
+UID:D2B6D059-5E92-4431-AFB6-87B5ABAB44D2
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260815T213540Z
+DESCRIPTION:Reservation Number: 94938\n\nProvider: OpenTable\n\nGuests: M
+ arc Benardout\n\nParty size: 4\n\nTelephone: (818) 989-2600
+DTEND;TZID=America/Los_Angeles:20260816T213000
+DTSTAMP:20260817T023120Z
+DTSTART;TZID=America/Los_Angeles:20260816T200000
+LAST-MODIFIED:20260817T023119Z
+LOCATION:Petit Trois Le Valley\n13705 Ventura Blvd Sherman Oaks\, CA 9142
+ 3
+SEQUENCE:0
+SUMMARY:Reservation: Petit Trois Le Valley
+UID:D3C245CF-22F7-4633-B957-0B472800AACA
+URL;VALUE=URI:message:%3CA9RxuTUJTlKCMMuZgfJf8g@geopod-ismtpd-19%3E?c=178
+ 6822480&k=%7Cfood%5C%7C94938
+END:VEVENT
 END:VCALENDAR
