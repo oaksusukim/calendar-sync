@@ -11239,4 +11239,30 @@ SEQUENCE:1
 SUMMARY:Call with Lorenzo/JPM
 UID:9880474A-EEC5-4E1A-9C92-896BA60C0AAD
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260826T205650Z
+DESCRIPTION:\n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nI'm using Zoom for my meetings.\n
+ \n\n\nMeeting ID: 91860347577\n\n\n\nJoin from PC\, Mac\, iOS or Android
+ : https://jpmchase.zoom.us/j/91860347577\n\n\n\nNon-JPMC attendees diali
+ ng SIP: 91860347577@zoomcrc.com\n\n\n\nVisit http://go/zoominfo for ever
+ ything you need to know. If you're sharing your remote workspace with a 
+ family member\, a roommate or others\, please ensure your work conversat
+ ion stays private. You can try to take your meetings in a private space 
+ and use your headphones. Read more at http://go/zoomcalls about protecti
+ ng the firm's data while working remotely.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\n\n
+DTEND;TZID=America/Los_Angeles:20260827T160000
+DTSTAMP:20260826T205704Z
+DTSTART;TZID=America/Los_Angeles:20260827T153000
+LAST-MODIFIED:20260826T205703Z
+LOCATION:Zoom Meeting ID: 918 6034 7577
+SEQUENCE:0
+SUMMARY:Lorenzo - Marc catch up
+UID:29BED980-CF53-4702-824C-14DBDDCD8833
+URL;VALUE=URI:message:%3CEA2P130MB0420837043B5572C2223FE1382AE2@EA2P130MB
+ 0420.NAMP130.PROD.OUTLOOK.COM%3E?c=1787775912&k=%7C040000008200E00074C5B
+ 7101A82E008000000009064D81A5E35DD01000000000000000010000000D6C41B7DBC3E2
+ D44A70CE5DB8FC1C4B1
+END:VEVENT
 END:VCALENDAR
