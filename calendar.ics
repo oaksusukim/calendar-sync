@@ -11253,9 +11253,9 @@ DESCRIPTION:\n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  ng the firm's data while working remotely.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\n\n
 DTEND;TZID=America/Los_Angeles:20260827T160000
-DTSTAMP:20260826T205704Z
+DTSTAMP:20260826T232637Z
 DTSTART;TZID=America/Los_Angeles:20260827T153000
-LAST-MODIFIED:20260826T205703Z
+LAST-MODIFIED:20260826T232637Z
 LOCATION:Zoom Meeting ID: 918 6034 7577
 SEQUENCE:0
 SUMMARY:Lorenzo - Marc catch up
