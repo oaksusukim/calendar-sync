@@ -11508,4 +11508,29 @@ SEQUENCE:0
 SUMMARY:Call with julio
 UID:C5EF6248-29D2-498D-83D0-232F92020365
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260916T145030Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/836
+ 29502307?pwd=U3jLBG1N0N1filRLKZUTIAbykTDXpB.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/83629502307<br/><br/>View meeting
+  insights<br/>https://us06web.zoom.us/launch/edl?muid=a7cee63e-259f-4f36
+ -9910-2c3408dec9ec<br/><br/>Meeting ID: 836 2950 2307<br/>Passcode: 8883
+ 14<br/><br/>---<br/><br/>One tap mobile<br/>+16694449171\,\,83629502307#
+ \,\,\,\,*888314# US<br/>+17193594580\,\,83629502307#\,\,\,\,*888314# US<
+ br/><br/><br/>---<br/><br/>Join by SIP<br/>• 83629502307@zoomcrc.com<br/
+ ><br/>Join instructions<br/>https://us06web.zoom.us/meetings/83629502307
+ /invitations?signature=KYC_wnfSVAXHKX-3e4WhVnipHwgajOpUpMgbsxGCM4o<br/><
+ br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260924T090000
+DTSTAMP:20260916T145124Z
+DTSTART;TZID=America/Los_Angeles:20260924T080000
+LAST-MODIFIED:20260916T145039Z
+LOCATION:https://us06web.zoom.us/j/83629502307?pwd=U3jLBG1N0N1filRLKZUTIA
+ bykTDXpB.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Raj Zoom Meeting
+UID:dpu7qeeaanq661smvf1bn8coh0@google.com
+END:VEVENT
 END:VCALENDAR
