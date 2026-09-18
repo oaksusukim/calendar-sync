@@ -11553,4 +11553,29 @@ SEQUENCE:1
 SUMMARY:Call with Metin
 UID:38085DCA-253C-45E3-AB91-934440316033
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260918T164522Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/833
+ 26923467?pwd=PBS5l5kIpdRq3NeUZoY5y8pMOJeXO4.1<br/><br/>Meeting chat link
+ <br/>https://us06web.zoom.us/launch/jc/83326923467<br/><br/>View meeting
+  insights<br/>https://us06web.zoom.us/launch/edl?muid=510c42e5-4928-4a8a
+ -b57c-d11c26bd813d<br/><br/>Meeting ID: 833 2692 3467<br/>Passcode: 0538
+ 01<br/><br/>---<br/><br/>One tap mobile<br/>+13052241968\,\,83326923467#
+ \,\,\,\,*053801# US<br/>+13092053325\,\,83326923467#\,\,\,\,*053801# US<
+ br/><br/><br/>---<br/><br/>Join by SIP<br/>• 83326923467@zoomcrc.com<br/
+ ><br/>Join instructions<br/>https://us06web.zoom.us/meetings/83326923467
+ /invitations?signature=VnvIz63sAHkRVj7bwJeBlNICdymUe7o84-0KfWZVA8Q<br/><
+ br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260923T090000
+DTSTAMP:20260918T165734Z
+DTSTART;TZID=America/Los_Angeles:20260923T080000
+LAST-MODIFIED:20260918T164531Z
+LOCATION:https://us06web.zoom.us/j/83326923467?pwd=PBS5l5kIpdRq3NeUZoY5y8
+ pMOJeXO4.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Metin Zoom Meeting
+UID:6tjjnlin7a5mgq34s390sb0m00@google.com
+END:VEVENT
 END:VCALENDAR
