@@ -9512,7 +9512,7 @@ DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you
  b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
  BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
 DTEND;TZID=America/Los_Angeles:20260302T100000
-DTSTAMP:20260920T174313Z
+DTSTAMP:20260921T153051Z
 DTSTART;TZID=America/Los_Angeles:20260302T090000
 EXDATE;TZID=America/Los_Angeles:20260309T090000
 EXDATE;TZID=America/Los_Angeles:20260518T090000
@@ -9524,30 +9524,6 @@ LAST-MODIFIED:20260914T153008Z
 LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
  3qSTKrji.1
 RRULE:FREQ=WEEKLY;BYDAY=MO
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
-UID:u21ah53v518q85cms1pfo8q0n0@google.com
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20260502T195839Z
-DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
- ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/826
- 35524539?pwd=IDoAe9iLFrfBB4e99yqFRH3qSTKrji.1<br/><br/>View meeting insi
- ghts with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?muid=
- 6363c88c-836b-410e-a0e1-256ff72eb107<br/><br/>Meeting ID: 826 3552 4539<
- br/>Passcode: 854411<br/><br/>---<br/><br/>One tap mobile<br/>+166944491
- 71\,\,82635524539#\,\,\,\,*854411# US<br/>+12532158782\,\,82635524539#\,
- \,\,\,*854411# US (Tacoma)<br/><br/>Join instructions<br/>https://us06we
- b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
- BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
-DTEND;TZID=America/Los_Angeles:20260504T100000
-DTSTAMP:20260920T174313Z
-DTSTART;TZID=America/Los_Angeles:20260504T090000
-LAST-MODIFIED:20260914T153008Z
-LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
- 3qSTKrji.1
-RECURRENCE-ID;TZID=America/Los_Angeles:20260504T090000
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
@@ -9566,12 +9542,36 @@ DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you
  b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
  BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
 DTEND;TZID=America/Los_Angeles:20260921T100000
-DTSTAMP:20260920T174313Z
+DTSTAMP:20260921T153051Z
 DTSTART;TZID=America/Los_Angeles:20260921T090000
-LAST-MODIFIED:20260920T174313Z
+LAST-MODIFIED:20260921T153050Z
 LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
  3qSTKrji.1
 RECURRENCE-ID;TZID=America/Los_Angeles:20260921T090000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
+UID:u21ah53v518q85cms1pfo8q0n0@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260502T195839Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/>Join Zoom Meeting<br/>https://us06web.zoom.us/j/826
+ 35524539?pwd=IDoAe9iLFrfBB4e99yqFRH3qSTKrji.1<br/><br/>View meeting insi
+ ghts with Zoom AI Companion<br/>https://us06web.zoom.us/launch/edl?muid=
+ 6363c88c-836b-410e-a0e1-256ff72eb107<br/><br/>Meeting ID: 826 3552 4539<
+ br/>Passcode: 854411<br/><br/>---<br/><br/>One tap mobile<br/>+166944491
+ 71\,\,82635524539#\,\,\,\,*854411# US<br/>+12532158782\,\,82635524539#\,
+ \,\,\,*854411# US (Tacoma)<br/><br/>Join instructions<br/>https://us06we
+ b.zoom.us/meetings/82635524539/invitations?signature=dpsdCzjNeuhFjECbVpV
+ BS9wedJjcpXW62LwjRUPVWl0<br/><br/><br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20260504T100000
+DTSTAMP:20260921T153051Z
+DTSTART;TZID=America/Los_Angeles:20260504T090000
+LAST-MODIFIED:20260914T153008Z
+LOCATION:https://us06web.zoom.us/j/82635524539?pwd=IDoAe9iLFrfBB4e99yqFRH
+ 3qSTKrji.1
+RECURRENCE-ID;TZID=America/Los_Angeles:20260504T090000
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Reson8 Weekly Tech Call Zoom Meeting
