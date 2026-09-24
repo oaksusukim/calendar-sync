@@ -11612,4 +11612,52 @@ SEQUENCE:0
 SUMMARY:Call with julio
 UID:E6A65FDC-F389-4EBB-A551-A6CF311CE20A
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260924T040155Z
+DESCRIPTION:\n\n[https://us06st2.zoom.us/static/26.9.67319/image/new/Zoom
+ Logo_110_25.png]<https://zoom.com/>\nHi there\,\nJulio De Laffitte is in
+ viting you to a scheduled Zoom meeting.\nJoin Zoom Meeting<https://us06w
+ eb.zoom.us/j/83019245842?pwd=GbSux8TwssgYLlG7NKTn0I25TQ7GWm.1>\nJoin and
+  take notes<https://us06web.zoom.us/j/83019245842?pwd=GbSux8TwssgYLlG7NK
+ Tn0I25TQ7GWm.1&mynotes=on>\nMeeting agenda<https://docs.zoom.us/agenda/d
+ oc/5a4a3a9d-92ca-4f75-8ab2-cb0234e6da52>\nMeeting chat link<https://us06
+ web.zoom.us/launch/jc/83019245842>\nView meeting insights<https://us06we
+ b.zoom.us/launch/edl?muid=5a4a3a9d-92ca-4f75-8ab2-cb0234e6da52&from=plug
+ in>\nOne tap mobile:\nUS: +13863475053\,\,83019245842#\,\,\,\,*232010#<t
+ el:+13863475053\,\,83019245842#\,\,\,\,*232010#> or +15074734847\,\,8301
+ 9245842#\,\,\,\,*232010#<tel:+15074734847\,\,83019245842#\,\,\,\,*232010
+ #>\nMeeting URL:\nhttps://us06web.zoom.us/j/83019245842?pwd=GbSux8TwssgY
+ LlG7NKTn0I25TQ7GWm.1\nMeeting ID:\n830 1924 5842\nPasscode:\n232010\nJoi
+ n by Telephone\nFor higher quality\, dial a number based on your current
+  location.\nDial:\n+1 386 347 5053 US\n+1 507 473 4847 US\n+1 564 217 20
+ 00 US\n+1 646 931 3860 US\n+1 669 444 9171 US\n+1 669 900 6833 US (San J
+ ose)\n+1 689 278 1000 US\n+1 719 359 4580 US\n+1 929 205 6099 US (New Yo
+ rk)\n+1 253 205 0468 US\n+1 253 215 8782 US (Tacoma)\n+1 301 715 8592 US
+  (Washington DC)\n+1 305 224 1968 US\n+1 309 205 3325 US\n+1 312 626 679
+ 9 US (Chicago)\n+1 346 248 7799 US (Houston)\n+1 360 209 5623 US\nMeetin
+ g ID:\n830 1924 5842\nPasscode:\n232010\nInternational numbers<https://u
+ s06web.zoom.us/u/kSq2E2XH>\nJoin by SIP\n83019245842@zoomcrc.com\n\n\n\n
+ \n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/83019245
+ 842?pwd=GbSux8TwssgYLlG7NKTn0I25TQ7GWm.1 (ID: 83019245842\, passcode: 23
+ 2010)\n\nMeeting host: <a href="mailto:Julio+De+Laffitte" target="_blank
+ ">Julio De Laffitte</a><br /><br />\n<a href="https://www.google.com/url
+ ?q=https://us06web.zoom.us/j/83019245842?pwd%3DGbSux8TwssgYLlG7NKTn0I25T
+ Q7GWm.1&amp\;sa=D&amp\;source=calendar&amp\;usg=AOvVaw145XNTdV0oKvNP4e3H
+ a-jA" target="_blank">Join Zoom Meeting</a>\n\nPlease do not edit this s
+ ection.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID=America/Los_Angeles:20260924T153000
+DTSTAMP:20260924T040157Z
+DTSTART;TZID=America/Los_Angeles:20260924T143000
+LAST-MODIFIED:20260924T040155Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:second meeting. 
+UID:8CEC2AE1-6623-4F8F-B291-76AA62845EC4
+URL;VALUE=URI:message:%3CSY7P282MB550240F181C521D6AB99032185812@SY7P282MB
+ 5502.AUSP282.PROD.OUTLOOK.COM%3E?c=1790218231&k=%7C040000008200E00074C5B
+ 7101A82E0080000000040976E2A234CDD0100000000000000001000000061CD835415C19
+ E41BCF950AB05B813AF
+END:VEVENT
 END:VCALENDAR
