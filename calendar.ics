@@ -11769,16 +11769,6 @@ SUMMARY:Marc to Call Kirk Myers
 UID:211F2638-C676-4AEA-BB62-0C1EB9C21ECA
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260926T222301Z
-DTEND;TZID=America/Los_Angeles:20260929T151500
-DTSTAMP:20260926T222302Z
-DTSTART;TZID=America/Los_Angeles:20260929T141500
-LAST-MODIFIED:20260926T222301Z
-SEQUENCE:0
-SUMMARY:Julio Call
-UID:369850FD-476F-40FD-B88D-2CDEDFDF114C
-END:VEVENT
-BEGIN:VEVENT
 CREATED:20260927T191747Z
 DTEND;TZID=America/Los_Angeles:20261006T150000
 DTSTAMP:20260927T191748Z
@@ -11787,5 +11777,45 @@ LAST-MODIFIED:20260927T191747Z
 SEQUENCE:0
 SUMMARY:Phil Harvey meeting
 UID:DD7513BF-DB42-4904-8A73-9D651F06D021
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n\n[https://us06st2.zoom.us/static/26.9.67489
+ /image/new/ZoomLogo_110_25.png]<https://zoom.com/>\nHi there\,\nJulio De
+  Laffitte is inviting you to a scheduled Zoom meeting.\nJoin Zoom Meetin
+ g<https://us06web.zoom.us/j/82482968038?pwd=9adLHm1bu3aOtOs9tJBlaAvQuQI8
+ zS.1&from=addon>\nJoin and take notes<https://us06web.zoom.us/j/82482968
+ 038?pwd=9adLHm1bu3aOtOs9tJBlaAvQuQI8zS.1&from=addon&mynotes=on>\nMeeting
+  agenda<https://docs.zoom.us/agenda/doc/db6aead2-60b2-4687-8ec1-3a801a18
+ 234a?from=addon>\nMeeting chat link<https://us06web.zoom.us/launch/jc/82
+ 482968038>\nView meeting insights<https://us06web.zoom.us/launch/edl?mui
+ d=db6aead2-60b2-4687-8ec1-3a801a18234a&from=addon>\nOne tap mobile:\nUS:
+  +16469313860\,\,82482968038#\,\,\,\,*016372#<tel:+16469313860\,\,824829
+ 68038#\,\,\,\,*016372#> or +16694449171\,\,82482968038#\,\,\,\,*016372#<
+ tel:+16694449171\,\,82482968038#\,\,\,\,*016372#>\nMeeting URL:\nhttps:/
+ /us06web.zoom.us/j/82482968038?pwd=9adLHm1bu3aOtOs9tJBlaAvQuQI8zS.1&from
+ =addon\nMeeting ID:\n824 8296 8038\nPasscode:\n016372\nJoin by Telephone
+ \nFor higher quality\, dial a number based on your current location.\nDi
+ al:\n+1 646 931 3860 US\n+1 669 444 9171 US\n+1 669 900 6833 US (San Jos
+ e)\n+1 689 278 1000 US\n+1 719 359 4580 US\n+1 929 205 6099 US (New York
+ )\n+1 253 205 0468 US\n+1 253 215 8782 US (Tacoma)\n+1 301 715 8592 US (
+ Washington DC)\n+1 305 224 1968 US\n+1 309 205 3325 US\n+1 312 626 6799 
+ US (Chicago)\n+1 346 248 7799 US (Houston)\n+1 360 209 5623 US\n+1 386 3
+ 47 5053 US\n+1 507 473 4847 US\n+1 564 217 2000 US\nMeeting ID:\n824 829
+ 6 8038\nPasscode:\n016372\nInternational numbers<https://us06web.zoom.us
+ /u/kB5nMF9LB>\nJoin by SIP\n82482968038@zoomcrc.com<mailto:82482968038@z
+ oomcrc.com>\n\n
+DTEND;TZID=Australia/Brisbane:20260930T083000
+DTSTAMP:20260927T202736Z
+DTSTART;TZID=Australia/Brisbane:20260930T073000
+LAST-MODIFIED:20260927T062328Z
+LOCATION;LANGUAGE=en-US:https://us06web.zoom.us/j/82482968038?pwd=9adLHm1
+ bu3aOtOs9tJBlaAvQuQI8zS.1&from=addon
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Third Meeting
+UID:040000008200E00074C5B7101A82E00800000000907368749C4EDD010000000000000
+ 0001000000042F3A3A7593A684B8E09599009E89133
 END:VEVENT
 END:VCALENDAR
