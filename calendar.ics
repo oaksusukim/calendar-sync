@@ -11818,4 +11818,31 @@ SUMMARY;LANGUAGE=en-US:Third Meeting
 UID:040000008200E00074C5B7101A82E00800000000907368749C4EDD010000000000000
  0001000000042F3A3A7593A684B8E09599009E89133
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20260929T200132Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/87229924682?pwd=PaKGN23N0raurSE9OeQJcFQaYSfLha.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/87229924682?pwd=PaKGN23N0raurSE9Oe
+ QJcFQaYSfLha.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/87229924682<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=6748944c-93bc-4554-aebf-8b709aed2
+ 512<br/><br/>Meeting ID: 872 2992 4682<br/>Passcode: 990715<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,87229924682#\,\,\,\,*990715
+ # US<br/>+17193594580\,\,87229924682#\,\,\,\,*990715# US<br/><br/><br/>-
+ --<br/><br/>Join by SIP<br/>• 87229924682@zoomcrc.com<br/><br/>Join inst
+ ructions<br/>https://us06web.zoom.us/meetings/87229924682/invitations?si
+ gnature=90dCrKgNUTrU-6a7i0hFE12VLuu7HSROQok92Rkw3YY<br/><br/><br>───────
+ ───</p>
+DTEND;TZID=America/Los_Angeles:20261002T090000
+DTSTAMP:20260929T200233Z
+DTSTART;TZID=America/Los_Angeles:20261002T080000
+LAST-MODIFIED:20260929T200142Z
+LOCATION:https://us06web.zoom.us/j/87229924682?pwd=PaKGN23N0raurSE9OeQJcF
+ QaYSfLha.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Fatima Zoom Meeting
+UID:a34cleul1km1j21lfst3uojl8s@google.com
+END:VEVENT
 END:VCALENDAR
