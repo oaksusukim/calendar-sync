@@ -11854,13 +11854,23 @@ SUMMARY:Metin Call
 UID:2E5B018E-10C4-4789-9656-1C6C86673052
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20261002T212525Z
-DTEND;TZID=America/Los_Angeles:20261008T134500
-DTSTAMP:20261002T212525Z
-DTSTART;TZID=America/Los_Angeles:20261008T130000
-LAST-MODIFIED:20261002T212525Z
+CREATED:20261002T214514Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.c
+ om/mhr-mihr-tos\nOr dial: (US) +1 661-622-3306 PIN: 607833545#\nMore pho
+ ne numbers: https://tel.meet/mhr-mihr-tos?pin=6475612159376&hs=7\n\nLear
+ n more about Meet at: https://support.google.com/a/users/answer/9282720\
+ n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID=America/New_York:20261008T170000
+DTSTAMP:20261002T220814Z
+DTSTART;TZID=America/New_York:20261008T160000
+LAST-MODIFIED:20261002T214528Z
+LOCATION:https://meet.google.com/mhr-mihr-tos
 SEQUENCE:0
-SUMMARY:Call with Iman
-UID:A3D3F028-C3E2-467B-AB49-E45A92C78CC0
+STATUS:CONFIRMED
+SUMMARY:Iman X The Reson8 Frequency System
+UID:7rug4dgku8135jbvr1ulk9gl4l@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mhr-mihr-tos
 END:VEVENT
 END:VCALENDAR
