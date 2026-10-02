@@ -11834,13 +11834,11 @@ DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you
  ructions<br/>https://us06web.zoom.us/meetings/87229924682/invitations?si
  gnature=90dCrKgNUTrU-6a7i0hFE12VLuu7HSROQok92Rkw3YY<br/><br/><br>───────
  ───</p>
-DTEND;TZID=America/Los_Angeles:20261002T090000
-DTSTAMP:20260929T200233Z
-DTSTART;TZID=America/Los_Angeles:20261002T080000
-LAST-MODIFIED:20260929T200142Z
-LOCATION:https://us06web.zoom.us/j/87229924682?pwd=PaKGN23N0raurSE9OeQJcF
- QaYSfLha.1
-SEQUENCE:0
+DTEND;TZID=America/Los_Angeles:20261004T093000
+DTSTAMP:20261002T165433Z
+DTSTART;TZID=America/Los_Angeles:20261004T090000
+LAST-MODIFIED:20261002T155609Z
+SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Reson8 x Fatima Zoom Meeting
 UID:a34cleul1km1j21lfst3uojl8s@google.com
