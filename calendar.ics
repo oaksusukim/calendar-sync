@@ -11819,31 +11819,6 @@ UID:040000008200E00074C5B7101A82E00800000000907368749C4EDD010000000000000
  0001000000042F3A3A7593A684B8E09599009E89133
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260929T200132Z
-DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
- ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
- j/87229924682?pwd=PaKGN23N0raurSE9OeQJcFQaYSfLha.1<br/><br/>Join and tak
- e notes<br/>https://us06web.zoom.us/j/87229924682?pwd=PaKGN23N0raurSE9Oe
- QJcFQaYSfLha.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
- 06web.zoom.us/launch/jc/87229924682<br/><br/>View meeting insights<br/>h
- ttps://us06web.zoom.us/launch/edl?muid=6748944c-93bc-4554-aebf-8b709aed2
- 512<br/><br/>Meeting ID: 872 2992 4682<br/>Passcode: 990715<br/><br/>---
- <br/><br/>One tap mobile<br/>+16694449171\,\,87229924682#\,\,\,\,*990715
- # US<br/>+17193594580\,\,87229924682#\,\,\,\,*990715# US<br/><br/><br/>-
- --<br/><br/>Join by SIP<br/>• 87229924682@zoomcrc.com<br/><br/>Join inst
- ructions<br/>https://us06web.zoom.us/meetings/87229924682/invitations?si
- gnature=90dCrKgNUTrU-6a7i0hFE12VLuu7HSROQok92Rkw3YY<br/><br/><br>───────
- ───</p>
-DTEND;TZID=America/Los_Angeles:20261004T093000
-DTSTAMP:20261002T165433Z
-DTSTART;TZID=America/Los_Angeles:20261004T090000
-LAST-MODIFIED:20261002T155609Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:Reson8 x Fatima Zoom Meeting
-UID:a34cleul1km1j21lfst3uojl8s@google.com
-END:VEVENT
-BEGIN:VEVENT
 CREATED:20261002T211321Z
 DTEND;TZID=America/Los_Angeles:20261005T130000
 DTSTAMP:20261002T211321Z
@@ -11882,5 +11857,15 @@ LAST-MODIFIED:20261002T225108Z
 SEQUENCE:0
 SUMMARY:The Beusail Longevity evening
 UID:F8BEA34E-EB31-4C8D-BC95-D6C5E8F96866
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261004T153458Z
+DTEND;TZID=America/Los_Angeles:20261005T103000
+DTSTAMP:20261004T153458Z
+DTSTART;TZID=America/Los_Angeles:20261005T100000
+LAST-MODIFIED:20261004T153458Z
+SEQUENCE:0
+SUMMARY:Marc call with Four Seasons
+UID:707D4592-FCFB-4D9E-985F-EB033118C593
 END:VEVENT
 END:VCALENDAR
