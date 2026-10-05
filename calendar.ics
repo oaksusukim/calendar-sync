@@ -11859,13 +11859,32 @@ SUMMARY:The Beusail Longevity evening
 UID:F8BEA34E-EB31-4C8D-BC95-D6C5E8F96866
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20261004T153458Z
-DTEND;TZID=America/Los_Angeles:20261005T103000
-DTSTAMP:20261004T153458Z
-DTSTART;TZID=America/Los_Angeles:20261005T100000
-LAST-MODIFIED:20261004T153458Z
-SEQUENCE:0
-SUMMARY:Marc call with Four Seasons
-UID:707D4592-FCFB-4D9E-985F-EB033118C593
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:Hi Marc\, I hope this time works for you I’m r
+ unning behind on a webinar\, thank you!\n_______________________________
+ _________________________________________________\nMicrosoft Teams meeti
+ ng\nJoin: https://teams.microsoft.com/meet/374814288833178?p=rCggCgZCZuZ
+ sv4Zlpw\nMeeting ID: 374 814 288 833 178\nPasscode: 6PC9rj9k\n__________
+ ______________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=
+ en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_MzA5NDc2NmUtN2RhYS00MTM1LWE0YjgtMTRjYzgxNTM1OWI2%40thread.v2/0?
+ context=%7b%22Tid%22%3a%2238c0107d-81d1-419f-8b72-8a491dc9603c%22%2c%22O
+ id%22%3a%22fb45bfe8-131e-41e0-b6f6-7abfb70f99dc%22%7d>\nFor organizers: 
+ Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=
+ fb45bfe8-131e-41e0-b6f6-7abfb70f99dc&tenantId=38c0107d-81d1-419f-8b72-8a
+ 491dc9603c&threadId=19_meeting_MzA5NDc2NmUtN2RhYS00MTM1LWE0YjgtMTRjYzgxN
+ TM1OWI2@thread.v2&messageId=0&language=en-US>\n_________________________
+ _______________________________________________________\n\n
+DTEND;TZID=America/Los_Angeles:20261005T110000
+DTSTAMP:20261005T164656Z
+DTSTART;TZID=America/Los_Angeles:20261005T103000
+LAST-MODIFIED:20261005T164656Z
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+PRIORITY:5
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Marc / Coral catch up
+UID:040000008200E00074C5B7101A82E0080000000020B388D42354DD010000000000000
+ 00010000000DED2C347E8DFEC49A2DA07650F4E868F
 END:VEVENT
 END:VCALENDAR
