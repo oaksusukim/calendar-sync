@@ -11896,4 +11896,30 @@ SEQUENCE:0
 SUMMARY:Dae Ha call
 UID:904E26F9-9766-4D49-BBFA-6DCC6D2FA3C8
 END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION;LANGUAGE=en-US:\n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nI'm using Zoom for
+  my meetings.\n\n\n\nMeeting ID: 99933945399\n\n\n\nJoin from PC\, Mac\,
+  iOS or Android: https://jpmchase.zoom.us/j/99933945399\n\n\n\nNon-JPMC 
+ attendees dialing SIP: 99933945399@zoomcrc.com\n\n\n\nVisit http://go/zo
+ ominfo for everything you need to know. If you're sharing your remote wo
+ rkspace with a family member\, a roommate or others\, please ensure your
+  work conversation stays private. You can try to take your meetings in a
+  private space and use your headphones. Read more at http://go/zoomcalls
+  about protecting the firm's data while working remotely.\n\n~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~\n\n\n\n
+DTEND;TZID=America/Los_Angeles:20261009T090000
+DTSTAMP:20261008T221542Z
+DTSTART;TZID=America/Los_Angeles:20261009T083000
+LAST-MODIFIED:20261008T221541Z
+LOCATION;LANGUAGE=en-US:Zoom Meeting ID: 999 3394 5399
+PRIORITY:5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY;LANGUAGE=en-US:Reson8 - JPM KYC request call
+UID:040000008200E00074C5B7101A82E00800000000806E1AB33557DD010000000000000
+ 0001000000072D347D4E1BDBC41B7D998FA0DBAED2C
+END:VEVENT
 END:VCALENDAR
