@@ -9748,9 +9748,9 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20260502T023007Z
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20260503T024503Z
+DTSTAMP:20261018T103114Z
 DTSTART;VALUE=DATE:20261018
-LAST-MODIFIED:20260503T024501Z
+LAST-MODIFIED:20261018T103114Z
 LOCATION:Boulder\nUnited States
 SEQUENCE:0
 SUMMARY:Leadership Conference 
@@ -11839,16 +11839,6 @@ UID:7rug4dgku8135jbvr1ulk9gl4l@google.com
 X-GOOGLE-CONFERENCE:https://meet.google.com/mhr-mihr-tos
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20261002T225108Z
-DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261002T225108Z
-DTSTART;TZID=America/Los_Angeles:20261016T190000
-LAST-MODIFIED:20261002T225108Z
-SEQUENCE:0
-SUMMARY:The Beusail Longevity evening
-UID:F8BEA34E-EB31-4C8D-BC95-D6C5E8F96866
-END:VEVENT
-BEGIN:VEVENT
 CLASS:PUBLIC
 DESCRIPTION;LANGUAGE=en-US:Hi Marc\, I hope this time works for you I’m r
  unning behind on a webinar\, thank you!\n_______________________________
@@ -11946,11 +11936,170 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20261015T014459Z
 DTEND;TZID=America/Los_Angeles:20261015T170000
-DTSTAMP:20261015T014500Z
+DTSTAMP:20261015T220007Z
 DTSTART;TZID=America/Los_Angeles:20261015T160000
-LAST-MODIFIED:20261015T014459Z
+LAST-MODIFIED:20261015T220006Z
 SEQUENCE:0
 SUMMARY:Submit Coldplay proposals 
 UID:EBAA3C85-1F91-460D-B6D3-2F022036F144
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261016T181215Z
+DESCRIPTION:Nicolas Rosen is inviting you to a scheduled Zoom meeting.\n\
+ nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/81485125656?pwd=VWVpcUxy3I
+ 2Mux6Bj2LQarH2SW6h7a.1\n\nJoin and take notes\nhttps://us02web.zoom.us/j
+ /81485125656?pwd=VWVpcUxy3I2Mux6Bj2LQarH2SW6h7a.1&mynotes=on\n\nMeeting 
+ chat link\nhttps://us02web.zoom.us/launch/jc/81485125656\n\nMeeting ID: 
+ 814 8512 5656\nPasscode: 467489\n\n---\n\nOne tap mobile\n+13017158592\,
+ \,81485125656#\,\,\,\,*467489# US (Washington DC)\n+13052241968\,\,81485
+ 125656#\,\,\,\,*467489# US\n\n\n---\n\nJoin by SIP\n• 81485125656@zoomcr
+ c.com\n\nJoin instructions\nhttps://us02web.zoom.us/meetings/81485125656
+ /invitations?signature=WdbYG9U9rh0j5A4HV-WDEnVmfH9lQggSd48mNje09CQ\n\n
+DTEND;TZID=America/Los_Angeles:20261019T083000
+DTSTAMP:20261019T150746Z
+DTSTART;TZID=America/Los_Angeles:20261019T080000
+LAST-MODIFIED:20261019T150746Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:nick and huda
+UID:1428F2C2-F990-4FA0-8190-01A7FCCC5FA8
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261015T215559Z
+DESCRIPTION:----( Video Call )----\nhttp://meet.google.com/kjk-pfvm-ngh\n
+ ---===---
+DTEND;TZID=America/Los_Angeles:20261020T104500
+DTSTAMP:20261015T215646Z
+DTSTART;TZID=America/Los_Angeles:20261020T100000
+LAST-MODIFIED:20261015T215645Z
+SEQUENCE:0
+SUMMARY:Anil Rathi catchup call
+UID:1644D55F-4F11-4116-822B-F10DF9BE23AC
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261015T162404Z
+DTEND;TZID=America/Los_Angeles:20261022T090000
+DTSTAMP:20261015T162543Z
+DTSTART;TZID=America/Los_Angeles:20261022T080000
+LAST-MODIFIED:20261015T162404Z
+LOCATION:Join: https://teams.microsoft.com/meet/3528520652824841?p=YvfuMy
+ m0KRoi1alyT8\nMeeting ID: 352 852 065 282 484 1\nPasscode: F3t6AD6x
+SEQUENCE:0
+SUMMARY:Call with Mansoor
+UID:31C59407-6710-4171-9FFB-6CA1E10AEF59
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261015T140714Z
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261015T140714Z
+DTSTART;VALUE=DATE:20261020
+LAST-MODIFIED:20261015T140714Z
+SEQUENCE:0
+SUMMARY:check in with sam
+UID:42695C1C-26DD-44B2-8AB0-F76188AFA682
+URL;VALUE=URI:
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261016T135849Z
+DTEND;TZID=America/Los_Angeles:20261021T084500
+DTSTAMP:20261016T135849Z
+DTSTART;TZID=America/Los_Angeles:20261021T080000
+LAST-MODIFIED:20261016T135849Z
+SEQUENCE:0
+SUMMARY:Call with Eden One TBC
+UID:AF5B1205-0134-4937-A477-6A54B9ECC139
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261015T174238Z
+DTEND;TZID=America/New_York:20261015T153000
+DTSTAMP:20261015T182808Z
+DTSTART;TZID=America/New_York:20261015T151500
+LAST-MODIFIED:20261015T182807Z
+LOCATION:Meredith to call Marc 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Call: Meredith x Marc
+UID:BE5A501E-7E2F-4BEC-95D3-5F12833F57E6
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261016T140324Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/87145688887?pwd=WtCqrs7jl1ASAL2L1fO2Y021CHbMOp.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/87145688887?pwd=WtCqrs7jl1ASAL2L1f
+ O2Y021CHbMOp.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/87145688887<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=fc095910-81f1-48f4-8eda-c70d84792
+ 104<br/><br/>Meeting ID: 871 4568 8887<br/>Passcode: 820530<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,87145688887#\,\,\,\,*820530
+ # US<br/>+17193594580\,\,87145688887#\,\,\,\,*820530# US<br/><br/><br/>-
+ --<br/><br/>Join by SIP<br/>• 87145688887@zoomcrc.com<br/><br/>Join inst
+ ructions<br/>https://us06web.zoom.us/meetings/87145688887/invitations?si
+ gnature=N5xl86CoDjNa6c6AVPXQF3mp6RFjECzVpq3gMAWgAlo<br/><br/><br>───────
+ ───</p>
+DTEND;TZID=America/Los_Angeles:20261016T103000
+DTSTAMP:20261016T165455Z
+DTSTART;TZID=America/Los_Angeles:20261016T100000
+LAST-MODIFIED:20261016T165450Z
+LOCATION:https://us06web.zoom.us/j/87145688887?pwd=WtCqrs7jl1ASAL2L1fO2Y0
+ 21CHbMOp.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Metin x Onur Zoom Meeting
+UID:fvbjmc2thm7uq18cmi9a1ndqhc@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261016T003025Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/84464458778?pwd=8OLDvje9njCQTveqDowwyfAyM8xCyW.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/84464458778?pwd=8OLDvje9njCQTveqDo
+ wwyfAyM8xCyW.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/84464458778<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=2f186ff6-427a-4917-93d4-eebdba2af
+ 768<br/><br/>Meeting ID: 844 6445 8778<br/>Passcode: 295905<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,84464458778#\,\,\,\,*295905
+ # US<br/>+13462487799\,\,84464458778#\,\,\,\,*295905# US (Houston)<br/><
+ br/><br/>---<br/><br/>Join by SIP<br/>• 84464458778@zoomcrc.com<br/><br/
+ >Join instructions<br/>https://us06web.zoom.us/meetings/84464458778/invi
+ tations?signature=I-KC0tKunL6SvsSCGszFJC3Z7Uter4uQytKMCxByB-8<br/><br/><
+ br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20261020T143000
+DTSTAMP:20261016T003201Z
+DTSTART;TZID=America/Los_Angeles:20261020T140000
+LAST-MODIFIED:20261016T003053Z
+LOCATION:https://us06web.zoom.us/j/84464458778?pwd=8OLDvje9njCQTveqDowwyf
+ AyM8xCyW.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Dr Small Zoom Meeting
+UID:k8ils54n8810evret4j9oes630@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261016T134046Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/83947039663?pwd=FP6ylnbpSNHVXD98I5enoyfPB6dFNY.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/83947039663?pwd=FP6ylnbpSNHVXD98I5
+ enoyfPB6dFNY.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/83947039663<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=4da70c21-0135-445b-9d78-8d2b11f9a
+ fce<br/><br/>Meeting ID: 839 4703 9663<br/>Passcode: 415810<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,83947039663#\,\,\,\,*415810
+ # US<br/>+13462487799\,\,83947039663#\,\,\,\,*415810# US (Houston)<br/><
+ br/><br/>---<br/><br/>Join by SIP<br/>• 83947039663@zoomcrc.com<br/><br/
+ >Join instructions<br/>https://us06web.zoom.us/meetings/83947039663/invi
+ tations?signature=fkMzSmZS-i5SJtPjUJzuywmFZnkkgyI9cpubm0htp40<br/><br/><
+ br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20261019T100000
+DTSTAMP:20261016T134156Z
+DTSTART;TZID=America/Los_Angeles:20261019T093000
+LAST-MODIFIED:20261016T134050Z
+LOCATION:https://us06web.zoom.us/j/83947039663?pwd=FP6ylnbpSNHVXD98I5enoy
+ fPB6dFNY.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Tim Lohse Zoom Meeting
+UID:r5it20diajotui2nh8d7fddf7o@google.com
 END:VEVENT
 END:VCALENDAR
