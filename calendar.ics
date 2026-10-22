@@ -12646,12 +12646,39 @@ UID:4196301E-B370-47D5-AAC6-08124FEF0053
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20261022T145829Z
-DTEND;TZID=America/Los_Angeles:20261028T120000
-DTSTAMP:20261022T145831Z
+DTEND;TZID=America/Los_Angeles:20261028T113000
+DTSTAMP:20261022T180334Z
 DTSTART;TZID=America/Los_Angeles:20261028T110000
-LAST-MODIFIED:20261022T145830Z
-SEQUENCE:1
+LAST-MODIFIED:20261022T180333Z
+SEQUENCE:2
 SUMMARY:Call with Joe /Sting's son
 UID:6D91A8D9-2E1F-4A20-8E67-B831E7E4D234
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261022T180753Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/89321592303?pwd=uThQsPNUaK63S5a2hjgept2Ef7OGZn.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/89321592303?pwd=uThQsPNUaK63S5a2hj
+ gept2Ef7OGZn.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/89321592303<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=d3c332bc-d79c-4b04-89f3-f8b9095d2
+ a8f<br/><br/>Meeting ID: 893 2159 2303<br/>Passcode: 329742<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,89321592303#\,\,\,\,*329742
+ # US<br/>+13462487799\,\,89321592303#\,\,\,\,*329742# US (Houston)<br/><
+ br/><br/>---<br/><br/>Join by SIP<br/>• 89321592303@zoomcrc.com<br/><br/
+ >Join instructions<br/>https://us06web.zoom.us/meetings/89321592303/invi
+ tations?signature=xoU_P3UX-WuTKMCBb2Cd-lwr3MBO6DPILHMdQ9ES2DY<br/><br/><
+ br>──────────</p>
+DTEND;TZID=America/Los_Angeles:20261025T083000
+DTSTAMP:20261022T180927Z
+DTSTART;TZID=America/Los_Angeles:20261025T080000
+LAST-MODIFIED:20261022T180759Z
+LOCATION:https://us06web.zoom.us/j/89321592303?pwd=uThQsPNUaK63S5a2hjgept
+ 2Ef7OGZn.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Rola Zoom Meeting
+UID:694kdg5331ab9rpbadei6lchls@google.com
 END:VEVENT
 END:VCALENDAR
