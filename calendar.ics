@@ -12681,4 +12681,31 @@ STATUS:CONFIRMED
 SUMMARY:Reson8 x Rola Zoom Meeting
 UID:694kdg5331ab9rpbadei6lchls@google.com
 END:VEVENT
+BEGIN:VEVENT
+CREATED:20261022T220756Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/88297580340?pwd=14ZTGfQdLiaiObMudNlFmkncaxGDIL.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/88297580340?pwd=14ZTGfQdLiaiObMudN
+ lFmkncaxGDIL.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/88297580340<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=8b5bf00f-aa59-431d-8f32-84be2cdf4
+ a4d<br/><br/>Meeting ID: 882 9758 0340<br/>Passcode: 275492<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,88297580340#\,\,\,\,*275492
+ # US<br/>+12532050468\,\,88297580340#\,\,\,\,*275492# US<br/><br/><br/>-
+ --<br/><br/>Join by SIP<br/>• 88297580340@zoomcrc.com<br/><br/>Join inst
+ ructions<br/>https://us06web.zoom.us/meetings/88297580340/invitations?si
+ gnature=l-0DA38U04DiiFzbeoQkd2Ze3sI70G9_-m_nOGBFb7w<br/><br/><br>───────
+ ───</p>
+DTEND;TZID=America/Los_Angeles:20261022T173000
+DTSTAMP:20261022T220830Z
+DTSTART;TZID=America/Los_Angeles:20261022T170000
+LAST-MODIFIED:20261022T220806Z
+LOCATION:https://us06web.zoom.us/j/88297580340?pwd=14ZTGfQdLiaiObMudNlFmk
+ ncaxGDIL.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Bita Zoom Meeting
+UID:1gm7h40jlj9bppeupjns0ogras@google.com
+END:VEVENT
 END:VCALENDAR
