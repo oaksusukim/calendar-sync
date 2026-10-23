@@ -12720,13 +12720,30 @@ SUMMARY:Neurosage tour update meeting
 UID:E549C2F3-817A-47E5-8748-1B1E2C168CAE
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20261023T144240Z
-DTEND;TZID=America/Los_Angeles:20261027T100000
-DTSTAMP:20261023T144240Z
+CREATED:20261023T214432Z
+DESCRIPTION:<p>──────────<br/>Marc Benardout is inviting you to a schedul
+ ed Zoom meeting.<br/><br/>Join Zoom Meeting<br/>https://us06web.zoom.us/
+ j/84538985587?pwd=87wVYCnaJ4vKt0rgpeLPCkRzoQCS5M.1<br/><br/>Join and tak
+ e notes<br/>https://us06web.zoom.us/j/84538985587?pwd=87wVYCnaJ4vKt0rgpe
+ LPCkRzoQCS5M.1&amp\;mynotes=on<br/><br/>Meeting chat link<br/>https://us
+ 06web.zoom.us/launch/jc/84538985587<br/><br/>View meeting insights<br/>h
+ ttps://us06web.zoom.us/launch/edl?muid=cb95d6b7-a8aa-4ba4-b448-c2c4c0757
+ 9ea<br/><br/>Meeting ID: 845 3898 5587<br/>Passcode: 632057<br/><br/>---
+ <br/><br/>One tap mobile<br/>+16694449171\,\,84538985587#\,\,\,\,*632057
+ # US<br/>+17193594580\,\,84538985587#\,\,\,\,*632057# US<br/><br/><br/>-
+ --<br/><br/>Join by SIP<br/>• 84538985587@zoomcrc.com<br/><br/>Join inst
+ ructions<br/>https://us06web.zoom.us/meetings/84538985587/invitations?si
+ gnature=CRsSCpC2JL0pN3wlmO-uvbFNGuxN2SGG2doStKPTwDM<br/><br/><br>───────
+ ───</p>
+DTEND;TZID=America/Los_Angeles:20261027T093000
+DTSTAMP:20261023T214535Z
 DTSTART;TZID=America/Los_Angeles:20261027T090000
-LAST-MODIFIED:20261023T144240Z
+LAST-MODIFIED:20261023T214439Z
+LOCATION:https://us06web.zoom.us/j/84538985587?pwd=87wVYCnaJ4vKt0rgpeLPCk
+ RzoQCS5M.1
 SEQUENCE:0
-SUMMARY:Call with Dmitri tbc
-UID:27D5A5FE-FC5A-40E0-A29A-A5FBC9E2EE22
+STATUS:CONFIRMED
+SUMMARY:Reson8 x Dmitri Zoom Meeting
+UID:t382kevm2o1i96q647aeuun11g@google.com
 END:VEVENT
 END:VCALENDAR
